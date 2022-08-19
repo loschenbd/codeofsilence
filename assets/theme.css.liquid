@@ -9,6 +9,9 @@
   src: url('{{ "asapcondensed-bold-webfont.woff2" | asset_url }}') format("woff2"),
   url('{{ "asapcondensed-bold-webfont.woff" | asset_url }}') format("woff");
   }
+  h1, h2, h3, h4, h5, h6, .btn {
+      font-family: "Asap Condensed";      
+    } 
 :root{
   --colorBtnPrimary:{{ settings.color_button | default: "#000000" }};
   --colorBtnPrimaryDim:{{ settings.color_button | default: "#000000" | color_darken: 5 }};
