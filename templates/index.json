@@ -1,0 +1,268 @@
+{
+  "sections": {
+    "1659795586df183527": {
+      "type": "fading-images",
+      "blocks": {
+        "1659795586f5cb40c2-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/DSC_1475-squashed.jpg",
+            "focal_point": "center center",
+            "slide_title1": "Clothing should drive",
+            "slide_title2": "EFFICIENCY into your hunting."
+          }
+        },
+        "1659795586f5cb40c2-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/DSC_0955-squashed.jpg",
+            "focal_point": "center center",
+            "slide_title1": "This isn't a vision...",
+            "slide_title2": ""
+          }
+        },
+        "1659795586f5cb40c2-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/COS-67-squashed.jpg",
+            "focal_point": "center center",
+            "slide_title1": "this is an obvious, fair",
+            "slide_title2": "and achievable expectation."
+          }
+        }
+      },
+      "block_order": [
+        "1659795586f5cb40c2-0",
+        "1659795586f5cb40c2-1",
+        "1659795586f5cb40c2-2"
+      ],
+      "settings": {
+        "title_lines": "2",
+        "title_font": "heading",
+        "title_size": 34,
+        "title_color": "#ffffff",
+        "title_bg_color": "rgba(0,0,0,0)",
+        "text_align": "vertical-bottom horizontal-center",
+        "link": "",
+        "slide_speed": 5,
+        "color_overlay": "#000000",
+        "color_overlay_opacity": 30,
+        "desktop_height": "650px",
+        "mobile_height": "auto"
+      }
+    },
+    "1659905653eb718da0": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/COS-67-squashed.jpg",
+        "image_width": 700,
+        "subtitle": "",
+        "title": "S18 VISUAL SILENCE ™ CAMO",
+        "text": "<p><strong>“Camo” should keep youfrom being seen, period.<\/strong><\/p>",
+        "button_label": "S18 Camo",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "right",
+        "divider": false
+      }
+    },
+    "rich-text": {
+      "type": "rich-text",
+      "disabled": true,
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "title": "Rich text"
+          }
+        },
+        "text": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "text"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "fading-images": {
+      "type": "fading-images",
+      "disabled": true,
+      "blocks": {
+        "1498501481980-0": {
+          "type": "image",
+          "settings": {
+            "focal_point": "center center",
+            "slide_title1": "Beautifully animated",
+            "slide_title2": "titles and images"
+          }
+        },
+        "1498501481980-1": {
+          "type": "image",
+          "settings": {
+            "focal_point": "center center",
+            "slide_title1": "Use this section",
+            "slide_title2": "to impress"
+          }
+        },
+        "1498501481980-2": {
+          "type": "image",
+          "settings": {
+            "focal_point": "center center",
+            "slide_title1": "And highlight",
+            "slide_title2": "important details"
+          }
+        }
+      },
+      "block_order": [
+        "1498501481980-0",
+        "1498501481980-1",
+        "1498501481980-2"
+      ],
+      "settings": {
+        "title_lines": "2",
+        "title_font": "body",
+        "title_size": 45,
+        "title_color": "#ffffff",
+        "title_bg_color": "rgba(0,0,0,0)",
+        "text_align": "vertical-center horizontal-center",
+        "link": "",
+        "slide_speed": 5,
+        "color_overlay": "#000000",
+        "color_overlay_opacity": 30,
+        "desktop_height": "650px",
+        "mobile_height": "auto"
+      }
+    },
+    "collection-callout": {
+      "type": "collection-callout",
+      "disabled": true,
+      "settings": {
+        "collection": "frontpage",
+        "subtitle": "Brand new",
+        "title": "Collection callout",
+        "text": "Use this section to easily call attention to one of your collections. We'll show photos of the first 5 products.",
+        "cta_text1": "Shop Jackets",
+        "cta_link1": "",
+        "cta_text2": "Shop All",
+        "cta_link2": "",
+        "layout": "right",
+        "divider": false
+      }
+    },
+    "background-image-text": {
+      "type": "background-image-text",
+      "disabled": true,
+      "settings": {
+        "subtitle": "Impressive",
+        "title": "Large image and text",
+        "text": "<p>Pair large text with a full-width image to draw attention to an important detail of your brand or product line.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "focal_point": "center",
+        "layout": "left",
+        "height": 650,
+        "parallax": true,
+        "parallax_direction": "top"
+      }
+    },
+    "16599058118d2ca11b": {
+      "type": "text-and-image",
+      "settings": {
+        "image2": "shopify:\/\/shop_images\/cropped-P1040793_LR.jpg",
+        "image_width": 700,
+        "subtitle": "",
+        "title": "REDEFINING “WARMTH”",
+        "text": "<p>Stay on Stand Longer – We Guarantee it. Your comfort while on stand is hyper-critical to your success. Our 100% unique fabrics, technologies and garment designs will redefine “being on top of your game.” <\/p>",
+        "button_label": "WARMTH",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "center",
+        "layout": "left",
+        "divider": false
+      }
+    },
+    "1659909386c55c710c": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/cropped-cropped-cropped-cropped-COS_HunterWalkingInBranches_LR-1-1.jpg",
+        "image_width": 650,
+        "subtitle": "",
+        "title": "REDEFINING SILENCE",
+        "text": "<p><strong>Nothing less than 100% silent is acceptable.<\/strong><\/p>",
+        "button_label": "RE-DEFINING QUIET",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "center",
+        "layout": "right",
+        "divider": false
+      }
+    },
+    "1659909561dddf78a7": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/cropped-COS_HunterWithBuck1-1.jpg",
+        "image_width": 700,
+        "subtitle": "",
+        "title": "ABSOLUTE ZERO PRESENCE ™",
+        "text": "<p>Creating a “sanctuary” as a goal.<\/p>",
+        "button_label": "365-DAY COMMITMENT",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "center",
+        "layout": "left",
+        "divider": false
+      }
+    },
+    "featured-collection-switcher": {
+      "type": "featured-collection-switcher",
+      "settings": {
+        "title": "Most popular",
+        "collection1": "verdigre",
+        "collection2": "",
+        "per_row": 4,
+        "view_all": true,
+        "divider": false
+      }
+    },
+    "16599077157098cac8": {
+      "type": "background-image-text",
+      "settings": {
+        "subtitle": "Impressive",
+        "title": "Large image with text box",
+        "text": "<p>Pair large text with a full-width image to draw attention to an important detail of your brand or product line.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "image": "shopify:\/\/shop_images\/COS-67-squashed.jpg",
+        "focal_point": "top",
+        "layout": "right",
+        "height": 750,
+        "parallax": true,
+        "parallax_direction": "top"
+      }
+    }
+  },
+  "order": [
+    "1659795586df183527",
+    "1659905653eb718da0",
+    "rich-text",
+    "fading-images",
+    "collection-callout",
+    "background-image-text",
+    "16599058118d2ca11b",
+    "1659909386c55c710c",
+    "1659909561dddf78a7",
+    "featured-collection-switcher",
+    "16599077157098cac8"
+  ]
+}
