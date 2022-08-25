@@ -250,6 +250,21 @@
         "parallax": true,
         "parallax_direction": "top"
       }
+    },
+    "1661375418ddea531c": {
+      "type": "collection-callout",
+      "settings": {
+        "collection": "zone7-versa",
+        "subtitle": "Brand new",
+        "title": "Collection callout",
+        "text": "Use this section to easily call attention to one of your collections. We'll show photos of the first 5 products.",
+        "cta_text1": "Shop Jackets",
+        "cta_link1": "",
+        "cta_text2": "Shop All Mens",
+        "cta_link2": "",
+        "layout": "right",
+        "divider": false
+      }
     }
   },
   "order": [
@@ -263,6 +278,7 @@
     "1659909386c55c710c",
     "1659909561dddf78a7",
     "featured-collection-switcher",
-    "16599077157098cac8"
+    "16599077157098cac8",
+    "1661375418ddea531c"
   ]
 }
