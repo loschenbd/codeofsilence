@@ -243,10 +243,10 @@
     "collection-callout": {
       "type": "collection-callout",
       "settings": {
-        "collection": "frontpage",
-        "subtitle": "It's Fall",
-        "title": "In Season Gear",
-        "text": "We've cureate",
+        "collection": "verdigre",
+        "subtitle": "In Season",
+        "title": "Verdigre Collection",
+        "text": "",
         "cta_text1": "Shop Verdigre",
         "cta_link1": "",
         "cta_text2": "Shop All",
@@ -281,21 +281,6 @@
         "view_all": true,
         "divider": false
       }
-    },
-    "1661375418ddea531c": {
-      "type": "collection-callout",
-      "settings": {
-        "collection": "zone7-versa",
-        "subtitle": "Brand new",
-        "title": "Collection callout",
-        "text": "Use this section to easily call attention to one of your collections. We'll show photos of the first 5 products.",
-        "cta_text1": "Shop Jackets",
-        "cta_link1": "",
-        "cta_text2": "Shop All Mens",
-        "cta_link2": "",
-        "layout": "right",
-        "divider": false
-      }
     }
   },
   "order": [
@@ -307,7 +292,6 @@
     "16615489634e2fecd3",
     "collection-callout",
     "background-image-text",
-    "featured-collection-switcher",
-    "1661375418ddea531c"
+    "featured-collection-switcher"
   ]
 }
