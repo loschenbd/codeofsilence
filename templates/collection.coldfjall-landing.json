@@ -39,11 +39,11 @@
         "slideshow-0": {
           "type": "image",
           "settings": {
-            "title": "Unparalleled \nWarmth",
+            "title": "Unparalleled \nWarmth.",
             "title_size": 80,
-            "subheading": "For extreme conditions at temp ranges of – 10° to 20°F subheading",
+            "subheading": "For extreme conditions at temp ranges of – 10° to 20°F subheading.",
             "link": "",
-            "link_text": "",
+            "link_text": "Purchase The Set",
             "text_align": "vertical-bottom horizontal-left",
             "image": "shopify:\/\/shop_images\/cropped-P1040793_LR.jpg",
             "parallax_direction": "top",
@@ -54,11 +54,11 @@
         "bb54bc98-72b6-49c8-ac9c-c94ed4302760": {
           "type": "image",
           "settings": {
-            "title": "Revolutionary Five \nLayer Design",
+            "title": "Revolutionary Five \nLayer Design.",
             "title_size": 80,
-            "subheading": "",
+            "subheading": "Quiet in cold temperatures.",
             "link": "",
-            "link_text": "Purchase the set",
+            "link_text": "Purchase The Set",
             "text_align": "vertical-bottom horizontal-left",
             "image": "shopify:\/\/shop_images\/P1040809_LR.jpg",
             "parallax_direction": "top",
@@ -73,7 +73,7 @@
             "title_size": 80,
             "subheading": "All day sits at zero degrees are now a very real option",
             "link": "",
-            "link_text": "Purchase the set",
+            "link_text": "Purchase The Set",
             "text_align": "vertical-center horizontal-right",
             "image": "shopify:\/\/shop_images\/P1040838_LR.jpg",
             "parallax_direction": "top",
