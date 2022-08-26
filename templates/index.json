@@ -78,6 +78,89 @@
         "divider": false
       }
     },
+    "1659909561dddf78a7": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/cropped-COS_HunterWithBuck1-1.jpg",
+        "image_width": 700,
+        "subtitle": "",
+        "title": "ABSOLUTE ZERO PRESENCE ™",
+        "text": "<p>Creating a “sanctuary” as a goal.<\/p>",
+        "button_label": "365-DAY COMMITMENT",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "center",
+        "layout": "left",
+        "divider": false
+      }
+    },
+    "1659909386c55c710c": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/cropped-cropped-cropped-cropped-COS_HunterWalkingInBranches_LR-1-1.jpg",
+        "image_width": 650,
+        "subtitle": "",
+        "title": "REDEFINING SILENCE",
+        "text": "<p><strong>Nothing less than 100% silent is acceptable.<\/strong><\/p>",
+        "button_label": "RE-DEFINING QUIET",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "center",
+        "layout": "right",
+        "divider": false
+      }
+    },
+    "1661549659f1e33c97": {
+      "type": "text-columns",
+      "blocks": {
+        "1661549658b0fe4a89-0": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/1.WarmDialNEW.png",
+            "image_width": 650,
+            "title": "Example title",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.<\/p>",
+            "button_label": "Optional button",
+            "button_link": ""
+          }
+        },
+        "1661549658b0fe4a89-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/2.WarmDialNEW.png",
+            "image_width": 650,
+            "title": "Example title",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.<\/p>",
+            "button_label": "Optional button",
+            "button_link": ""
+          }
+        },
+        "1661549658b0fe4a89-2": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/4.WarmDialNEW.png",
+            "image_width": 650,
+            "title": "Example title",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.<\/p>",
+            "button_label": "Optional button",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1661549658b0fe4a89-0",
+        "1661549658b0fe4a89-1",
+        "1661549658b0fe4a89-2"
+      ],
+      "settings": {
+        "title": "Designed For Every Condition",
+        "align_text": "center",
+        "divider": false
+      }
+    },
     "16615489634e2fecd3": {
       "type": "slideshow",
       "blocks": {
@@ -159,13 +242,12 @@
     },
     "collection-callout": {
       "type": "collection-callout",
-      "disabled": true,
       "settings": {
         "collection": "frontpage",
-        "subtitle": "Brand new",
-        "title": "Collection callout",
-        "text": "Use this section to easily call attention to one of your collections. We'll show photos of the first 5 products.",
-        "cta_text1": "Shop Jackets",
+        "subtitle": "It's Fall",
+        "title": "In Season Gear",
+        "text": "We've cureate",
+        "cta_text1": "Shop Verdigre",
         "cta_link1": "",
         "cta_text2": "Shop All",
         "cta_link2": "",
@@ -187,38 +269,6 @@
         "height": 650,
         "parallax": true,
         "parallax_direction": "top"
-      }
-    },
-    "1659909386c55c710c": {
-      "type": "text-and-image",
-      "settings": {
-        "image": "shopify:\/\/shop_images\/cropped-cropped-cropped-cropped-COS_HunterWalkingInBranches_LR-1-1.jpg",
-        "image_width": 650,
-        "subtitle": "",
-        "title": "REDEFINING SILENCE",
-        "text": "<p><strong>Nothing less than 100% silent is acceptable.<\/strong><\/p>",
-        "button_label": "RE-DEFINING QUIET",
-        "button_link": "",
-        "button_style": "primary",
-        "align_text": "center",
-        "layout": "right",
-        "divider": false
-      }
-    },
-    "1659909561dddf78a7": {
-      "type": "text-and-image",
-      "settings": {
-        "image": "shopify:\/\/shop_images\/cropped-COS_HunterWithBuck1-1.jpg",
-        "image_width": 700,
-        "subtitle": "",
-        "title": "ABSOLUTE ZERO PRESENCE ™",
-        "text": "<p>Creating a “sanctuary” as a goal.<\/p>",
-        "button_label": "365-DAY COMMITMENT",
-        "button_link": "",
-        "button_style": "primary",
-        "align_text": "center",
-        "layout": "left",
-        "divider": false
       }
     },
     "featured-collection-switcher": {
@@ -251,11 +301,12 @@
   "order": [
     "1659795586df183527",
     "16615493193b8c386c",
+    "1659909561dddf78a7",
+    "1659909386c55c710c",
+    "1661549659f1e33c97",
     "16615489634e2fecd3",
     "collection-callout",
     "background-image-text",
-    "1659909386c55c710c",
-    "1659909561dddf78a7",
     "featured-collection-switcher",
     "1661375418ddea531c"
   ]
