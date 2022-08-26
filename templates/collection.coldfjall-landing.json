@@ -6,14 +6,15 @@
         "slideshow-0": {
           "type": "image",
           "settings": {
-            "title": "Two line\nslide title.",
+            "title": "Unparalleled \nWarmth",
             "title_size": 80,
-            "subheading": "And an optional subheading",
+            "subheading": "Revolutionary five layer design for extreme conditions at temp ranges of – 10° to 20°F subheading",
             "link": "",
             "link_text": "",
             "text_align": "vertical-bottom horizontal-left",
+            "image": "shopify:\/\/shop_images\/cropped-P1040793_LR.jpg",
             "parallax_direction": "top",
-            "overlay_opacity": 0,
+            "overlay_opacity": 10,
             "focal_point": "center center"
           }
         }
@@ -33,8 +34,8 @@
     "featured-collection": {
       "type": "featured-collection",
       "settings": {
-        "title": "Featured collection",
-        "home_featured_products": "verdigre",
+        "title": "The Series",
+        "home_featured_products": "coldfjall",
         "per_row": 4,
         "rows": 1,
         "view_all": true,
