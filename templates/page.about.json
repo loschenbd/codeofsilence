@@ -269,6 +269,22 @@
         "autoplay": true,
         "autoplay_speed": 5
       }
+    },
+    "166154830896232e01": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/COSCamodesign2_LR.jpg",
+        "image_width": 700,
+        "subtitle": "",
+        "title": "NEW WAYS TO GO AFIELD.",
+        "text": "<p>Code of Silence™ is a unique and extremely capable developer of highly functional and innovative hunting gear. While we have over 50 very successful combined years of experience in developing outdoor products, we are just getting started with our new revolutionary lines. We firmly believe that outdoor products should be “enablers” to create added efficiency for the hunter and thus, improved success in the field. We are some of the most authentic, real, passionate, driven, and down to earth guys and gals you will ever meet. We commit to you that our new lines and products will deliver on “new ways to go afield” and will always provide an incredible value to the outdoor community.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "right",
+        "divider": false
+      }
     }
   },
   "order": [
@@ -283,6 +299,7 @@
     "16615479853fbe464f",
     "1661548069547382d8",
     "166154814472fa0e68",
-    "1661547746bdbf6fa9"
+    "1661547746bdbf6fa9",
+    "166154830896232e01"
   ]
 }
