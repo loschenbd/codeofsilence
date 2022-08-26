@@ -67,44 +67,32 @@
         "divider": false
       }
     },
-    "rich-text": {
-      "type": "rich-text",
-      "disabled": true,
-      "blocks": {
-        "heading": {
-          "type": "heading",
-          "settings": {
-            "title": "Rich text"
-          }
-        },
-        "text": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": true,
-            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "heading",
-        "text"
-      ],
+    "16599077157098cac8": {
+      "type": "background-image-text",
       "settings": {
-        "align_text": "center",
-        "narrow_column": true,
-        "divider": false
+        "subtitle": "",
+        "title": "REDEFINING “WARMTH”",
+        "text": "<p>Stay on Stand Longer – We Guarantee it. Your comfort while on stand is hyper-critical to your success. Our 100% unique fabrics, technologies and garment designs will redefine “being on top of your game.” <\/p>",
+        "button_label": "Learn More",
+        "button_link": "shopify:\/\/pages\/warmth-stay-on-stand-longer-we-guarantee-it",
+        "image": "shopify:\/\/shop_images\/P1040809_LR.jpg",
+        "focal_point": "top",
+        "layout": "left",
+        "height": 750,
+        "parallax": true,
+        "parallax_direction": "top"
       }
     },
     "fading-images": {
       "type": "fading-images",
-      "disabled": true,
       "blocks": {
         "1498501481980-0": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/COS-67-squashed.jpg",
             "focal_point": "center center",
-            "slide_title1": "Beautifully animated",
-            "slide_title2": "titles and images"
+            "slide_title1": "S18 VISUAL SILENCE ™ CAMO",
+            "slide_title2": "“Camo” should keep you from being seen, period."
           }
         },
         "1498501481980-1": {
@@ -122,12 +110,21 @@
             "slide_title1": "And highlight",
             "slide_title2": "important details"
           }
+        },
+        "7edcdf0a-c64e-4801-b2fa-c2c239dd3c3f": {
+          "type": "image",
+          "settings": {
+            "focal_point": "center center",
+            "slide_title1": "",
+            "slide_title2": ""
+          }
         }
       },
       "block_order": [
         "1498501481980-0",
         "1498501481980-1",
-        "1498501481980-2"
+        "1498501481980-2",
+        "7edcdf0a-c64e-4801-b2fa-c2c239dd3c3f"
       ],
       "settings": {
         "title_lines": "2",
@@ -136,7 +133,7 @@
         "title_color": "#ffffff",
         "title_bg_color": "rgba(0,0,0,0)",
         "text_align": "vertical-center horizontal-center",
-        "link": "",
+        "link": "shopify:\/\/collections",
         "slide_speed": 5,
         "color_overlay": "#000000",
         "color_overlay_opacity": 30,
@@ -235,22 +232,6 @@
         "divider": false
       }
     },
-    "16599077157098cac8": {
-      "type": "background-image-text",
-      "settings": {
-        "subtitle": "",
-        "title": "S18 VISUAL SILENCE ™ CAMO",
-        "text": "<p>Pair large text with a full-width image to draw attention to an important detail of your brand or product line.<\/p>",
-        "button_label": "",
-        "button_link": "",
-        "image": "shopify:\/\/shop_images\/COS-67-squashed.jpg",
-        "focal_point": "top",
-        "layout": "right",
-        "height": 750,
-        "parallax": true,
-        "parallax_direction": "top"
-      }
-    },
     "1661375418ddea531c": {
       "type": "collection-callout",
       "settings": {
@@ -270,7 +251,7 @@
   "order": [
     "1659795586df183527",
     "1659905653eb718da0",
-    "rich-text",
+    "16599077157098cac8",
     "fading-images",
     "collection-callout",
     "background-image-text",
@@ -278,7 +259,6 @@
     "1659909386c55c710c",
     "1659909561dddf78a7",
     "featured-collection-switcher",
-    "16599077157098cac8",
     "1661375418ddea531c"
   ]
 }
