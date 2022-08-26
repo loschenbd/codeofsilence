@@ -160,48 +160,8 @@
       },
       "footer-promotions": {
         "type": "footer-promotions",
-        "blocks": {
-          "footer-promotions-0": {
-            "type": "promotion",
-            "settings": {
-              "enable_image": true,
-              "image_width": 650,
-              "title": "Site-wide promotion",
-              "text": "<p>Use this section to promote content throughout every page of your site. Add images for further impact.<\/p>",
-              "button_label": "Optional button",
-              "button_link": ""
-            }
-          },
-          "footer-promotions-1": {
-            "type": "promotion",
-            "settings": {
-              "enable_image": true,
-              "image_width": 650,
-              "title": "Site-wide promotion",
-              "text": "<p>Use this section to promote content throughout every page of your site. Add images for further impact.<\/p>",
-              "button_label": "Optional button",
-              "button_link": ""
-            }
-          },
-          "footer-promotions-2": {
-            "type": "promotion",
-            "settings": {
-              "enable_image": true,
-              "image_width": 650,
-              "title": "Site-wide promotion",
-              "text": "<p>Use this section to promote content throughout every page of your site. Add images for further impact.<\/p>",
-              "button_label": "Optional button",
-              "button_link": ""
-            }
-          }
-        },
-        "block_order": [
-          "footer-promotions-0",
-          "footer-promotions-1",
-          "footer-promotions-2"
-        ],
         "settings": {
-          "hide_homepage": false,
+          "hide_homepage": true,
           "image_size": "wide",
           "align_text": "left"
         }

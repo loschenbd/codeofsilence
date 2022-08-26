@@ -183,20 +183,23 @@
         "parallax_direction": "top"
       }
     },
-    "166154754311690826": {
-      "type": "text-and-image",
+    "16615479853fbe464f": {
+      "type": "rich-text",
+      "blocks": {
+        "16615479856c7027e9-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p>Darrin is a highly successful farm operator, passionate outdoor entrepreneur, driven hunter\/fisherman, and devoted father and husband. Darrin lives in the heart of Northeast Iowa whitetail country and spends countless hours chasing whitetails, raising his three children, and simply being in the outdoors as much as he possibly can. Darrin embodies and defines the Code of Silence philosophy of “embracing better” and is constantly refining his approach and advancing his skills on the pursuit of mature whitetail deer. Darrin has a deep understanding of what it takes to be truly successful in consistently harvesting mature bucks with a bow. While Darrin lives by the mindset of “less is more” and “simpler is better”, Darrin is never satisfied and is driven to constantly evolve every aspect of his hunting techniques and equipment. Darrin and his wife Mandi live in Jesup, Iowa.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "16615479856c7027e9-1"
+      ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/cropped-P1040793_LR.jpg",
-        "image2": "shopify:\/\/shop_images\/ColdfjallBalaclavaInUse_C2017_115007001-squashed.jpg",
-        "image_width": 700,
-        "subtitle": "“Less is more. Simpler is better.”",
-        "title": "Darrin Youngblut",
-        "text": "<p>Darrin is a highly successful farm operator, passionate outdoor entrepreneur, driven hunter\/fisherman, and devoted father and husband. Darrin lives in the heart of Northeast Iowa whitetail country and spends countless hours chasing whitetails, raising his three children, and simply being in the outdoors as much as he possibly can. Darrin embodies and defines the Code of Silence philosophy of “embracing better” and is constantly refining his approach and advancing his skills on the pursuit of mature whitetail deer. Darrin has a deep understanding of what it takes to be truly successful in consistently harvesting mature bucks with a bow. While Darrin lives by the mindset of “less is more” and “simpler is better”, Darrin is never satisfied and is driven to constantly evolve every aspect of his hunting techniques and equipment. Darrin and his wife Mandi live in Jesup, Iowa.<\/p>",
-        "button_label": "",
-        "button_link": "",
-        "button_style": "primary",
         "align_text": "center",
-        "layout": "right",
+        "narrow_column": true,
         "divider": false
       }
     },
@@ -217,25 +220,10 @@
             "overlay_opacity": 60,
             "focal_point": "center center"
           }
-        },
-        "1661547746a533a979-1": {
-          "type": "image",
-          "settings": {
-            "title": "Two line\nslide titles.",
-            "title_size": 80,
-            "subheading": "And big, beautiful imagery",
-            "link": "",
-            "link_text": "Optional button",
-            "text_align": "vertical-bottom horizontal-left",
-            "parallax_direction": "top",
-            "overlay_opacity": 0,
-            "focal_point": "center center"
-          }
         }
       },
       "block_order": [
-        "1661547746a533a979-0",
-        "1661547746a533a979-1"
+        "1661547746a533a979-0"
       ],
       "settings": {
         "section_height": "650px",
@@ -256,7 +244,7 @@
     "16615468859ce24b4a",
     "1661547378b51b5c37",
     "1661547474396c1b89",
-    "166154754311690826",
+    "16615479853fbe464f",
     "1661547746bdbf6fa9"
   ]
 }
