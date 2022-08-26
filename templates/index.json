@@ -8,8 +8,8 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/DSC_1475-squashed.jpg",
             "focal_point": "center center",
-            "slide_title1": "Clothing should drive",
-            "slide_title2": "EFFICIENCY into your hunting."
+            "slide_title1": "",
+            "slide_title2": ""
           }
         },
         "1659795586f5cb40c2-1": {
@@ -17,7 +17,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/DSC_0955-squashed.jpg",
             "focal_point": "center center",
-            "slide_title1": "This isn't a vision...",
+            "slide_title1": "",
             "slide_title2": ""
           }
         },
@@ -26,8 +26,8 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/COS-67-squashed.jpg",
             "focal_point": "center center",
-            "slide_title1": "this is an obvious, fair",
-            "slide_title2": "and achievable expectation."
+            "slide_title1": "",
+            "slide_title2": ""
           }
         }
       },
@@ -51,141 +51,30 @@
         "mobile_height": "auto"
       }
     },
-    "1659905653eb718da0": {
-      "type": "text-and-image",
+    "16615493193b8c386c": {
+      "type": "rich-text",
+      "blocks": {
+        "0e9aa431-23ad-46f9-b71e-6e2acae7bc78": {
+          "type": "heading",
+          "settings": {
+            "title": "Clothing should drive EFFICIENCY into your hunting."
+          }
+        },
+        "166154931999c06c0f-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>This isn't a \"vision\" – this is an obvious, fair and achievable expectation.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "0e9aa431-23ad-46f9-b71e-6e2acae7bc78",
+        "166154931999c06c0f-1"
+      ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/COS-67-squashed.jpg",
-        "image_width": 700,
-        "subtitle": "",
-        "title": "S18 VISUAL SILENCE ™ CAMO",
-        "text": "<p>“Camo” should keep you from being seen, period.<\/p>",
-        "button_label": "S18 Camo",
-        "button_link": "",
-        "button_style": "primary",
-        "align_text": "left",
-        "layout": "right",
-        "divider": false
-      }
-    },
-    "16599077157098cac8": {
-      "type": "background-image-text",
-      "settings": {
-        "subtitle": "",
-        "title": "REDEFINING “WARMTH”",
-        "text": "<p>Stay on Stand Longer – We Guarantee it. Your comfort while on stand is hyper-critical to your success. Our 100% unique fabrics, technologies and garment designs will redefine “being on top of your game.” <\/p>",
-        "button_label": "Learn More",
-        "button_link": "shopify:\/\/pages\/warmth-stay-on-stand-longer-we-guarantee-it",
-        "image": "shopify:\/\/shop_images\/P1040809_LR.jpg",
-        "focal_point": "top",
-        "layout": "left",
-        "height": 750,
-        "parallax": true,
-        "parallax_direction": "top"
-      }
-    },
-    "collection-callout": {
-      "type": "collection-callout",
-      "disabled": true,
-      "settings": {
-        "collection": "frontpage",
-        "subtitle": "Brand new",
-        "title": "Collection callout",
-        "text": "Use this section to easily call attention to one of your collections. We'll show photos of the first 5 products.",
-        "cta_text1": "Shop Jackets",
-        "cta_link1": "",
-        "cta_text2": "Shop All",
-        "cta_link2": "",
-        "layout": "right",
-        "divider": false
-      }
-    },
-    "background-image-text": {
-      "type": "background-image-text",
-      "disabled": true,
-      "settings": {
-        "subtitle": "Impressive",
-        "title": "Large image and text",
-        "text": "<p>Pair large text with a full-width image to draw attention to an important detail of your brand or product line.<\/p>",
-        "button_label": "",
-        "button_link": "",
-        "focal_point": "center",
-        "layout": "left",
-        "height": 650,
-        "parallax": true,
-        "parallax_direction": "top"
-      }
-    },
-    "16599058118d2ca11b": {
-      "type": "text-and-image",
-      "settings": {
-        "image2": "shopify:\/\/shop_images\/cropped-P1040793_LR.jpg",
-        "image_width": 700,
-        "subtitle": "",
-        "title": "REDEFINING “WARMTH”",
-        "text": "<p>Stay on Stand Longer – We Guarantee it. Your comfort while on stand is hyper-critical to your success. Our 100% unique fabrics, technologies and garment designs will redefine “being on top of your game.” <\/p>",
-        "button_label": "WARMTH",
-        "button_link": "",
-        "button_style": "primary",
         "align_text": "center",
-        "layout": "left",
-        "divider": false
-      }
-    },
-    "1659909386c55c710c": {
-      "type": "text-and-image",
-      "settings": {
-        "image": "shopify:\/\/shop_images\/cropped-cropped-cropped-cropped-COS_HunterWalkingInBranches_LR-1-1.jpg",
-        "image_width": 650,
-        "subtitle": "",
-        "title": "REDEFINING SILENCE",
-        "text": "<p><strong>Nothing less than 100% silent is acceptable.<\/strong><\/p>",
-        "button_label": "RE-DEFINING QUIET",
-        "button_link": "",
-        "button_style": "primary",
-        "align_text": "center",
-        "layout": "right",
-        "divider": false
-      }
-    },
-    "1659909561dddf78a7": {
-      "type": "text-and-image",
-      "settings": {
-        "image": "shopify:\/\/shop_images\/cropped-COS_HunterWithBuck1-1.jpg",
-        "image_width": 700,
-        "subtitle": "",
-        "title": "ABSOLUTE ZERO PRESENCE ™",
-        "text": "<p>Creating a “sanctuary” as a goal.<\/p>",
-        "button_label": "365-DAY COMMITMENT",
-        "button_link": "",
-        "button_style": "primary",
-        "align_text": "center",
-        "layout": "left",
-        "divider": false
-      }
-    },
-    "featured-collection-switcher": {
-      "type": "featured-collection-switcher",
-      "settings": {
-        "title": "Most popular",
-        "collection1": "verdigre",
-        "collection2": "",
-        "per_row": 4,
-        "view_all": true,
-        "divider": false
-      }
-    },
-    "1661375418ddea531c": {
-      "type": "collection-callout",
-      "settings": {
-        "collection": "zone7-versa",
-        "subtitle": "Brand new",
-        "title": "Collection callout",
-        "text": "Use this section to easily call attention to one of your collections. We'll show photos of the first 5 products.",
-        "cta_text1": "Shop Jackets",
-        "cta_link1": "",
-        "cta_text2": "Shop All Mens",
-        "cta_link2": "",
-        "layout": "right",
+        "narrow_column": true,
         "divider": false
       }
     },
@@ -267,19 +156,107 @@
         "autoplay": true,
         "autoplay_speed": 5
       }
+    },
+    "collection-callout": {
+      "type": "collection-callout",
+      "disabled": true,
+      "settings": {
+        "collection": "frontpage",
+        "subtitle": "Brand new",
+        "title": "Collection callout",
+        "text": "Use this section to easily call attention to one of your collections. We'll show photos of the first 5 products.",
+        "cta_text1": "Shop Jackets",
+        "cta_link1": "",
+        "cta_text2": "Shop All",
+        "cta_link2": "",
+        "layout": "right",
+        "divider": false
+      }
+    },
+    "background-image-text": {
+      "type": "background-image-text",
+      "disabled": true,
+      "settings": {
+        "subtitle": "Impressive",
+        "title": "Large image and text",
+        "text": "<p>Pair large text with a full-width image to draw attention to an important detail of your brand or product line.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "focal_point": "center",
+        "layout": "left",
+        "height": 650,
+        "parallax": true,
+        "parallax_direction": "top"
+      }
+    },
+    "1659909386c55c710c": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/cropped-cropped-cropped-cropped-COS_HunterWalkingInBranches_LR-1-1.jpg",
+        "image_width": 650,
+        "subtitle": "",
+        "title": "REDEFINING SILENCE",
+        "text": "<p><strong>Nothing less than 100% silent is acceptable.<\/strong><\/p>",
+        "button_label": "RE-DEFINING QUIET",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "center",
+        "layout": "right",
+        "divider": false
+      }
+    },
+    "1659909561dddf78a7": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/cropped-COS_HunterWithBuck1-1.jpg",
+        "image_width": 700,
+        "subtitle": "",
+        "title": "ABSOLUTE ZERO PRESENCE ™",
+        "text": "<p>Creating a “sanctuary” as a goal.<\/p>",
+        "button_label": "365-DAY COMMITMENT",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "center",
+        "layout": "left",
+        "divider": false
+      }
+    },
+    "featured-collection-switcher": {
+      "type": "featured-collection-switcher",
+      "settings": {
+        "title": "Most popular",
+        "collection1": "verdigre",
+        "collection2": "",
+        "per_row": 4,
+        "view_all": true,
+        "divider": false
+      }
+    },
+    "1661375418ddea531c": {
+      "type": "collection-callout",
+      "settings": {
+        "collection": "zone7-versa",
+        "subtitle": "Brand new",
+        "title": "Collection callout",
+        "text": "Use this section to easily call attention to one of your collections. We'll show photos of the first 5 products.",
+        "cta_text1": "Shop Jackets",
+        "cta_link1": "",
+        "cta_text2": "Shop All Mens",
+        "cta_link2": "",
+        "layout": "right",
+        "divider": false
+      }
     }
   },
   "order": [
     "1659795586df183527",
-    "1659905653eb718da0",
-    "16599077157098cac8",
+    "16615493193b8c386c",
+    "16615489634e2fecd3",
     "collection-callout",
     "background-image-text",
-    "16599058118d2ca11b",
     "1659909386c55c710c",
     "1659909561dddf78a7",
     "featured-collection-switcher",
-    "1661375418ddea531c",
-    "16615489634e2fecd3"
+    "1661375418ddea531c"
   ]
 }
