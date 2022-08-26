@@ -1,117 +1,5 @@
 {
   "sections": {
-    "slideshow": {
-      "type": "slideshow",
-      "blocks": {
-        "slideshow-0": {
-          "type": "image",
-          "settings": {
-            "title": "Unparalleled \nWarmth",
-            "title_size": 80,
-            "subheading": "Revolutionary five layer design for extreme conditions at temp ranges of – 10° to 20°F subheading",
-            "link": "",
-            "link_text": "",
-            "text_align": "vertical-bottom horizontal-left",
-            "image": "shopify:\/\/shop_images\/cropped-P1040793_LR.jpg",
-            "parallax_direction": "top",
-            "overlay_opacity": 10,
-            "focal_point": "center center"
-          }
-        }
-      },
-      "block_order": [
-        "slideshow-0"
-      ],
-      "settings": {
-        "section_height": "550px",
-        "mobile_height": "auto",
-        "parallax": false,
-        "style": "arrows",
-        "autoplay": true,
-        "autoplay_speed": 7
-      }
-    },
-    "featured-collection": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "The Series",
-        "home_featured_products": "coldfjall",
-        "per_row": 4,
-        "rows": 1,
-        "view_all": true,
-        "divider": false
-      }
-    },
-    "featured-collection2": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "Featured collection",
-        "home_featured_products": "zone7-versa",
-        "per_row": 4,
-        "rows": 1,
-        "view_all": true,
-        "divider": false
-      }
-    },
-    "featured-collections": {
-      "type": "featured-collections",
-      "blocks": {
-        "collection1": {
-          "type": "collection",
-          "settings": {
-            "collection": "verdigre",
-            "focal_point": "center center",
-            "size": "square-small"
-          }
-        },
-        "collection2": {
-          "type": "collection",
-          "settings": {
-            "collection": "zone7-versa",
-            "focal_point": "center center",
-            "size": "square-small"
-          }
-        },
-        "collection3": {
-          "type": "collection",
-          "settings": {
-            "collection": "coldfjall",
-            "focal_point": "center center",
-            "size": "square-small"
-          }
-        },
-        "collection4": {
-          "type": "collection",
-          "settings": {
-            "collection": "lifestyle",
-            "focal_point": "center center",
-            "size": "square-small"
-          }
-        }
-      },
-      "block_order": [
-        "collection1",
-        "collection2",
-        "collection3",
-        "collection4"
-      ],
-      "settings": {
-        "title": "You may also like",
-        "divider": false,
-        "enable_gutter": false
-      }
-    },
-    "featured-collection3": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "Featured collection",
-        "home_featured_products": "coldfjall",
-        "per_row": 4,
-        "rows": 1,
-        "view_all": true,
-        "divider": false
-      }
-    },
     "main-collection": {
       "type": "main-collection",
       "disabled": true,
@@ -144,14 +32,85 @@
         "enable_color_swatches": false,
         "enable_sort": false
       }
+    },
+    "slideshow": {
+      "type": "slideshow",
+      "blocks": {
+        "slideshow-0": {
+          "type": "image",
+          "settings": {
+            "title": "Unparalleled \nWarmth",
+            "title_size": 80,
+            "subheading": "Revolutionary five layer design for extreme conditions at temp ranges of – 10° to 20°F subheading",
+            "link": "",
+            "link_text": "",
+            "text_align": "vertical-bottom horizontal-left",
+            "image": "shopify:\/\/shop_images\/cropped-P1040793_LR.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 10,
+            "focal_point": "center center"
+          }
+        },
+        "bb54bc98-72b6-49c8-ac9c-c94ed4302760": {
+          "type": "image",
+          "settings": {
+            "title": "",
+            "title_size": 80,
+            "subheading": "And an optional subheading",
+            "link": "",
+            "link_text": "Optional button",
+            "text_align": "vertical-bottom horizontal-left",
+            "image": "shopify:\/\/shop_images\/P1040809_LR.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "focal_point": "center center"
+          }
+        },
+        "5e45a4c6-7633-49fa-9e76-253074b48b89": {
+          "type": "image",
+          "settings": {
+            "title": "Two line\nslide title.",
+            "title_size": 80,
+            "subheading": "And an optional subheading",
+            "link": "",
+            "link_text": "Optional button",
+            "text_align": "vertical-bottom horizontal-left",
+            "image": "shopify:\/\/shop_images\/P1040838_LR.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "focal_point": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "slideshow-0",
+        "bb54bc98-72b6-49c8-ac9c-c94ed4302760",
+        "5e45a4c6-7633-49fa-9e76-253074b48b89"
+      ],
+      "settings": {
+        "section_height": "550px",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "arrows",
+        "autoplay": true,
+        "autoplay_speed": 7
+      }
+    },
+    "featured-collection": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "The Series",
+        "home_featured_products": "coldfjall",
+        "per_row": 4,
+        "rows": 1,
+        "view_all": true,
+        "divider": false
+      }
     }
   },
   "order": [
+    "main-collection",
     "slideshow",
-    "featured-collection",
-    "featured-collection2",
-    "featured-collections",
-    "featured-collection3",
-    "main-collection"
+    "featured-collection"
   ]
 }
