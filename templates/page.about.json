@@ -37,33 +37,34 @@
         "autoplay_speed": 7
       }
     },
+    "1661546982ac2b7964": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/COS_icon_24213ebd-a639-499a-8bdd-6f0ca2f8c47c.png",
+        "image_width": 700,
+        "subtitle": "Embracing Better",
+        "title": "The Reason Code of Silence is Different",
+        "text": "",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "left",
+        "divider": false
+      }
+    },
     "rich-text": {
       "type": "rich-text",
       "blocks": {
-        "heading": {
-          "type": "heading",
-          "settings": {
-            "title": "Embracing Better"
-          }
-        },
-        "text": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": true,
-            "text": "<p><strong>The Reason Code of Silence is Different<\/strong><\/p>"
-          }
-        },
         "5af23226-ac17-4e61-97d1-be9aad5e6989": {
           "type": "text",
           "settings": {
             "enlarge_text": false,
-            "text": "<p>If you do not honestly feel like your clothing is dramatically improving your odds in the field – you are probably being lulled into thinking that this is “just the way it is.” More importantly though, you are missing out on an opportunity to add an incredibly effective tool to your arsenal and dramatically add to your success in the field. After using and testing our products in the field over the last two years, our firm belief is that our products will undoubtedly make a difference in your hunts. Our commitment at Code of Silence is that your equipment should and will “ <em>drive efficiency<\/em>” into your hunting and that<\/p><p><strong>Clothing should undoubtedly be considered as one of the<br\/>most important pieces of equipment for your hunt.<\/strong><\/p><p><strong>﻿<\/strong>Historically, the “context” used when a hunter is considering or discussing hunting clothing is typically focused on 1 to 2, or possibly 3 attributes.  The common consideration is typically :<\/p>"
+            "text": "<p>If you do not honestly feel like your clothing is dramatically improving your odds in the field – you are probably being lulled into thinking that this is “just the way it is.” More importantly though, you are missing out on an opportunity to add an incredibly effective tool to your arsenal and dramatically add to your success in the field. After using and testing our products in the field over the last two years, our firm belief is that our products will undoubtedly make a difference in your hunts. Our commitment at Code of Silence is that your equipment should and will “ <em>drive efficiency<\/em>” into your hunting and that<\/p><p><strong>Clothing should undoubtedly be considered as one of the<br\/>most important pieces of equipment for your hunt.<\/strong><\/p>"
           }
         }
       },
       "block_order": [
-        "heading",
-        "text",
         "5af23226-ac17-4e61-97d1-be9aad5e6989"
       ],
       "settings": {
@@ -115,8 +116,35 @@
         "column3"
       ],
       "settings": {
-        "title": "",
+        "title": "Historically, the “context” used when a hunter is considering or discussing hunting clothing is typically focused on 1 to 2, or possibly 3 attributes.  The common consideration is typically:",
         "align_text": "center",
+        "divider": false
+      }
+    },
+    "16615468859ce24b4a": {
+      "type": "rich-text",
+      "blocks": {
+        "1661546885a6589bd6-0": {
+          "type": "heading",
+          "settings": {
+            "title": ""
+          }
+        },
+        "1661546885a6589bd6-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p>These are all fair considerations and questions that are focuses of ours as well, but in our view, they fall well short of demanding what should truly be expected. A hunter is due the benefit of a “holistic system” that will make him or her vastly more effective in the field, period. Clothing has fallen short of this deliverable in the past and this level of benefit has never felt in reach or even possible, until now.<\/p><p>At Code of Silence, we are changing the status quo and delivering the full performance and holistic functionality a hunter is due from their clothing. This is serious gear that truly changes your effectiveness and “the way you can hunt.” The quietness of the fabric, the meticulously designed pattern, the dull natural Neutral-LR appearance, the incredible warmth and wind protection, and the unparalleled freedom of movement are all factors that will push your hunting to the next level. Our systems will make you more efficient and most importantly, more SUCCESSFUL in the field. We guarantee it.   <\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1661546885a6589bd6-0",
+        "1661546885a6589bd6-1"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
         "divider": false
       }
     },
@@ -150,15 +178,61 @@
         "show_phone": false,
         "narrow_column": true
       }
+    },
+    "16615463942c48f531": {
+      "type": "text-with-icons",
+      "blocks": {
+        "166154639431d2eeff-0": {
+          "type": "text_block",
+          "settings": {
+            "icon": "chat",
+            "title": "Example title",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products.<\/p>"
+          }
+        },
+        "166154639431d2eeff-1": {
+          "type": "text_block",
+          "settings": {
+            "icon": "chat",
+            "title": "Example title",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products.<\/p>"
+          }
+        },
+        "166154639431d2eeff-2": {
+          "type": "text_block",
+          "settings": {
+            "icon": "chat",
+            "title": "Example title",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "166154639431d2eeff-0",
+        "166154639431d2eeff-1",
+        "166154639431d2eeff-2"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "desktop_columns_per_row": 3,
+        "icon_color": "#000",
+        "button_label": "",
+        "button_link": "",
+        "divider": false
+      }
     }
   },
   "order": [
     "main",
     "slideshow",
+    "1661546982ac2b7964",
     "rich-text",
     "text-columns",
+    "16615468859ce24b4a",
     "map",
     "featured-collection",
-    "form"
+    "form",
+    "16615463942c48f531"
   ]
 }
