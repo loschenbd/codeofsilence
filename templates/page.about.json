@@ -199,6 +199,52 @@
         "layout": "right",
         "divider": false
       }
+    },
+    "1661547746bdbf6fa9": {
+      "type": "slideshow",
+      "blocks": {
+        "1661547746a533a979-0": {
+          "type": "image",
+          "settings": {
+            "title": "Our Mission",
+            "title_size": 80,
+            "subheading": "Code of Silence™ is fully capable, committed and driven to make superior hunting gear affordable for all consumers. We are highly experienced in product design, material management, product manufacturing, quality control, and what it takes to get the job done in the field. We holistically and efficiently apply our knowledge and experience to every item we create. We treat each and every one of our partners “as we would want to be treated” and our success will always be measured by the difference we make in the outdoor community as a whole.",
+            "link": "",
+            "link_text": "",
+            "text_align": "vertical-center horizontal-left",
+            "image": "shopify:\/\/shop_images\/ClosureGlovesInUse_C2010_118003002-squashed.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 60,
+            "focal_point": "center center"
+          }
+        },
+        "1661547746a533a979-1": {
+          "type": "image",
+          "settings": {
+            "title": "Two line\nslide titles.",
+            "title_size": 80,
+            "subheading": "And big, beautiful imagery",
+            "link": "",
+            "link_text": "Optional button",
+            "text_align": "vertical-bottom horizontal-left",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "focal_point": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "1661547746a533a979-0",
+        "1661547746a533a979-1"
+      ],
+      "settings": {
+        "section_height": "650px",
+        "mobile_height": "auto",
+        "parallax": true,
+        "style": "arrows",
+        "autoplay": true,
+        "autoplay_speed": 5
+      }
     }
   },
   "order": [
@@ -210,6 +256,7 @@
     "16615468859ce24b4a",
     "1661547378b51b5c37",
     "1661547474396c1b89",
-    "166154754311690826"
+    "166154754311690826",
+    "1661547746bdbf6fa9"
   ]
 }
