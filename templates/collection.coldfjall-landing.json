@@ -54,11 +54,11 @@
         "bb54bc98-72b6-49c8-ac9c-c94ed4302760": {
           "type": "image",
           "settings": {
-            "title": "",
+            "title": "Revolutionary Five \nLayer Design",
             "title_size": 80,
-            "subheading": "And an optional subheading",
+            "subheading": "",
             "link": "",
-            "link_text": "Optional button",
+            "link_text": "Purchase the set",
             "text_align": "vertical-bottom horizontal-left",
             "image": "shopify:\/\/shop_images\/P1040809_LR.jpg",
             "parallax_direction": "top",
@@ -69,11 +69,11 @@
         "5e45a4c6-7633-49fa-9e76-253074b48b89": {
           "type": "image",
           "settings": {
-            "title": "Two line\nslide title.",
+            "title": "Comfortable.\nAll day.",
             "title_size": 80,
-            "subheading": "And an optional subheading",
+            "subheading": "All day sits at zero degrees are now a very real option",
             "link": "",
-            "link_text": "Optional button",
+            "link_text": "Purchase the set",
             "text_align": "vertical-bottom horizontal-left",
             "image": "shopify:\/\/shop_images\/P1040838_LR.jpg",
             "parallax_direction": "top",
