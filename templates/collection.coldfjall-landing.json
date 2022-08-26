@@ -1,0 +1,156 @@
+{
+  "sections": {
+    "slideshow": {
+      "type": "slideshow",
+      "blocks": {
+        "slideshow-0": {
+          "type": "image",
+          "settings": {
+            "title": "Two line\nslide title.",
+            "title_size": 80,
+            "subheading": "And an optional subheading",
+            "link": "",
+            "link_text": "",
+            "text_align": "vertical-bottom horizontal-left",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "focal_point": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "slideshow-0"
+      ],
+      "settings": {
+        "section_height": "550px",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "arrows",
+        "autoplay": true,
+        "autoplay_speed": 7
+      }
+    },
+    "featured-collection": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Featured collection",
+        "home_featured_products": "verdigre",
+        "per_row": 4,
+        "rows": 1,
+        "view_all": true,
+        "divider": false
+      }
+    },
+    "featured-collection2": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Featured collection",
+        "home_featured_products": "zone7-versa",
+        "per_row": 4,
+        "rows": 1,
+        "view_all": true,
+        "divider": false
+      }
+    },
+    "featured-collections": {
+      "type": "featured-collections",
+      "blocks": {
+        "collection1": {
+          "type": "collection",
+          "settings": {
+            "collection": "verdigre",
+            "focal_point": "center center",
+            "size": "square-small"
+          }
+        },
+        "collection2": {
+          "type": "collection",
+          "settings": {
+            "collection": "zone7-versa",
+            "focal_point": "center center",
+            "size": "square-small"
+          }
+        },
+        "collection3": {
+          "type": "collection",
+          "settings": {
+            "collection": "coldfjall",
+            "focal_point": "center center",
+            "size": "square-small"
+          }
+        },
+        "collection4": {
+          "type": "collection",
+          "settings": {
+            "collection": "lifestyle",
+            "focal_point": "center center",
+            "size": "square-small"
+          }
+        }
+      },
+      "block_order": [
+        "collection1",
+        "collection2",
+        "collection3",
+        "collection4"
+      ],
+      "settings": {
+        "title": "You may also like",
+        "divider": false,
+        "enable_gutter": false
+      }
+    },
+    "featured-collection3": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Featured collection",
+        "home_featured_products": "coldfjall",
+        "per_row": 4,
+        "rows": 1,
+        "view_all": true,
+        "divider": false
+      }
+    },
+    "main-collection": {
+      "type": "main-collection",
+      "disabled": true,
+      "blocks": {
+        "collection_description": {
+          "type": "collection_description",
+          "settings": {
+          }
+        },
+        "product_grid": {
+          "type": "product_grid",
+          "settings": {
+            "collection_subnav_style": "inline",
+            "per_row": 4,
+            "mobile_flush_grid": false
+          }
+        }
+      },
+      "block_order": [
+        "collection_description",
+        "product_grid"
+      ],
+      "settings": {
+        "collection_image_enable": true,
+        "collection_image_height": 550,
+        "parallax": true,
+        "parallax_direction": "top",
+        "enable_sidebar": true,
+        "collapsed": true,
+        "enable_color_swatches": false,
+        "enable_sort": false
+      }
+    }
+  },
+  "order": [
+    "slideshow",
+    "featured-collection",
+    "featured-collection2",
+    "featured-collections",
+    "featured-collection3",
+    "main-collection"
+  ]
+}
