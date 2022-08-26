@@ -148,77 +148,55 @@
         "divider": false
       }
     },
-    "map": {
-      "type": "map",
-      "settings": {
-        "map_title": "Our retail store",
-        "address": "<p>301 Front St W<br>Toronto, Canada<\/p><p>Mon - Fri, 8:30am - 10:30pm<br>Saturday, 8:30am - 10:30pm<br>Sunday, 8:30am - 10:30pm<\/p>",
-        "map_address": "301 Front St W, Toronto, ON M5V 2T6",
-        "api_key": "",
-        "show_button": true,
-        "background_image_position": "center center"
-      }
-    },
-    "featured-collection": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "Featured collection",
-        "home_featured_products": "",
-        "per_row": 4,
-        "rows": 1,
-        "view_all": true,
-        "divider": false
-      }
-    },
-    "form": {
-      "type": "contact-form",
-      "settings": {
-        "title": "Contact us",
-        "text": "",
-        "show_phone": false,
-        "narrow_column": true
-      }
-    },
-    "16615463942c48f531": {
-      "type": "text-with-icons",
+    "1661547378b51b5c37": {
+      "type": "rich-text",
       "blocks": {
-        "166154639431d2eeff-0": {
-          "type": "text_block",
+        "1661547378d1a68b50-0": {
+          "type": "heading",
           "settings": {
-            "icon": "chat",
-            "title": "Example title",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products.<\/p>"
-          }
-        },
-        "166154639431d2eeff-1": {
-          "type": "text_block",
-          "settings": {
-            "icon": "chat",
-            "title": "Example title",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products.<\/p>"
-          }
-        },
-        "166154639431d2eeff-2": {
-          "type": "text_block",
-          "settings": {
-            "icon": "chat",
-            "title": "Example title",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products.<\/p>"
+            "title": "Just a little about us..."
           }
         }
       },
       "block_order": [
-        "166154639431d2eeff-0",
-        "166154639431d2eeff-1",
-        "166154639431d2eeff-2"
+        "1661547378d1a68b50-0"
       ],
       "settings": {
-        "title": "",
         "align_text": "center",
-        "desktop_columns_per_row": 3,
-        "icon_color": "#000",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "1661547474396c1b89": {
+      "type": "background-image-text",
+      "settings": {
+        "subtitle": "\"Less is More. Simple is better\"",
+        "title": "Darrin Youngblut",
+        "text": "<p>“Less is more. Simpler is better.”<\/p>",
         "button_label": "",
         "button_link": "",
+        "image": "shopify:\/\/shop_images\/cropped-P1040793_LR.jpg",
+        "focal_point": "80% 0",
+        "layout": "left",
+        "height": 550,
+        "parallax": true,
+        "parallax_direction": "top"
+      }
+    },
+    "166154754311690826": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/cropped-P1040793_LR.jpg",
+        "image2": "shopify:\/\/shop_images\/ColdfjallBalaclavaInUse_C2017_115007001-squashed.jpg",
+        "image_width": 700,
+        "subtitle": "“Less is more. Simpler is better.”",
+        "title": "Darrin Youngblut",
+        "text": "<p>Darrin is a highly successful farm operator, passionate outdoor entrepreneur, driven hunter\/fisherman, and devoted father and husband. Darrin lives in the heart of Northeast Iowa whitetail country and spends countless hours chasing whitetails, raising his three children, and simply being in the outdoors as much as he possibly can. Darrin embodies and defines the Code of Silence philosophy of “embracing better” and is constantly refining his approach and advancing his skills on the pursuit of mature whitetail deer. Darrin has a deep understanding of what it takes to be truly successful in consistently harvesting mature bucks with a bow. While Darrin lives by the mindset of “less is more” and “simpler is better”, Darrin is never satisfied and is driven to constantly evolve every aspect of his hunting techniques and equipment. Darrin and his wife Mandi live in Jesup, Iowa.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "center",
+        "layout": "right",
         "divider": false
       }
     }
@@ -230,9 +208,8 @@
     "rich-text",
     "text-columns",
     "16615468859ce24b4a",
-    "map",
-    "featured-collection",
-    "form",
-    "16615463942c48f531"
+    "1661547378b51b5c37",
+    "1661547474396c1b89",
+    "166154754311690826"
   ]
 }
