@@ -12,7 +12,16 @@
         "slideshow-0": {
           "type": "image",
           "settings": {
-            "link_text": ""
+            "title": "Why Code of Silence?",
+            "title_size": 80,
+            "subheading": "Because the need for better hunting clothing is obvious and undeniably real.",
+            "link": "",
+            "link_text": "",
+            "text_align": "vertical-bottom horizontal-center",
+            "image": "shopify:\/\/shop_images\/cropped-DSC_4279.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "focal_point": "center center"
           }
         }
       },
@@ -20,6 +29,12 @@
         "slideshow-0"
       ],
       "settings": {
+        "section_height": "650px",
+        "mobile_height": "auto",
+        "parallax": true,
+        "style": "arrows",
+        "autoplay": true,
+        "autoplay_speed": 7
       }
     },
     "rich-text": {
@@ -28,24 +43,33 @@
         "heading": {
           "type": "heading",
           "settings": {
+            "title": "Embracing Better"
           }
         },
         "text": {
           "type": "text",
           "settings": {
+            "enlarge_text": true,
+            "text": "<p><strong>The Reason Code of Silence is Different<\/strong><\/p>"
+          }
+        },
+        "5af23226-ac17-4e61-97d1-be9aad5e6989": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>If you do not honestly feel like your clothing is dramatically improving your odds in the field – you are probably being lulled into thinking that this is “just the way it is.” More importantly though, you are missing out on an opportunity to add an incredibly effective tool to your arsenal and dramatically add to your success in the field. After using and testing our products in the field over the last two years, our firm belief is that our products will undoubtedly make a difference in your hunts. Our commitment at Code of Silence is that your equipment should and will “ <em>drive efficiency<\/em>” into your hunting and that<\/p><p><strong>Clothing should undoubtedly be considered as one of the<br\/>most important pieces of equipment for your hunt.<\/strong><\/p><p><strong>﻿<\/strong>Historically, the “context” used when a hunter is considering or discussing hunting clothing is typically focused on 1 to 2, or possibly 3 attributes.  The common consideration is typically :<\/p><p><strong>HOW GOOD IS<br\/>THIS CAMO?<\/strong><\/p><p><strong>IS THIS<br\/>WARM?<\/strong><\/p>"
           }
         }
       },
       "block_order": [
         "heading",
-        "text"
+        "text",
+        "5af23226-ac17-4e61-97d1-be9aad5e6989"
       ],
       "settings": {
-      }
-    },
-    "map": {
-      "type": "map",
-      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
       }
     },
     "text-columns": {
@@ -54,16 +78,34 @@
         "column1": {
           "type": "text_block",
           "settings": {
+            "enable_image": true,
+            "image_width": 650,
+            "title": "How Good Is the Camo?",
+            "text": "",
+            "button_label": "",
+            "button_link": ""
           }
         },
         "column2": {
           "type": "text_block",
           "settings": {
+            "enable_image": true,
+            "image_width": 650,
+            "title": "Is This Warm?",
+            "text": "",
+            "button_label": "",
+            "button_link": ""
           }
         },
         "column3": {
           "type": "text_block",
           "settings": {
+            "enable_image": true,
+            "image_width": 650,
+            "title": "Is This Quiet Enough?",
+            "text": "",
+            "button_label": "",
+            "button_link": ""
           }
         }
       },
@@ -73,16 +115,40 @@
         "column3"
       ],
       "settings": {
+        "title": "",
+        "align_text": "center",
+        "divider": false
+      }
+    },
+    "map": {
+      "type": "map",
+      "settings": {
+        "map_title": "Our retail store",
+        "address": "<p>301 Front St W<br>Toronto, Canada<\/p><p>Mon - Fri, 8:30am - 10:30pm<br>Saturday, 8:30am - 10:30pm<br>Sunday, 8:30am - 10:30pm<\/p>",
+        "map_address": "301 Front St W, Toronto, ON M5V 2T6",
+        "api_key": "",
+        "show_button": true,
+        "background_image_position": "center center"
       }
     },
     "featured-collection": {
       "type": "featured-collection",
       "settings": {
+        "title": "Featured collection",
+        "home_featured_products": "",
+        "per_row": 4,
+        "rows": 1,
+        "view_all": true,
+        "divider": false
       }
     },
     "form": {
       "type": "contact-form",
       "settings": {
+        "title": "Contact us",
+        "text": "",
+        "show_phone": false,
+        "narrow_column": true
       }
     }
   },
