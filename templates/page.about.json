@@ -172,7 +172,7 @@
       "settings": {
         "subtitle": "\"Less is More. Simple is better\"",
         "title": "Darrin Youngblut",
-        "text": "<p>“Less is more. Simpler is better.”<\/p>",
+        "text": "",
         "button_label": "",
         "button_link": "",
         "image": "shopify:\/\/shop_images\/cropped-P1040793_LR.jpg",
@@ -196,6 +196,49 @@
       },
       "block_order": [
         "16615479856c7027e9-1"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "1661548069547382d8": {
+      "type": "background-image-text",
+      "settings": {
+        "subtitle": "“I love spending hours in the field with my sons.”",
+        "title": "Ev Tarrel",
+        "text": "",
+        "button_label": "",
+        "button_link": "",
+        "image": "shopify:\/\/shop_images\/Coldfjallparka-squashed.jpg",
+        "focal_point": "80% 0",
+        "layout": "right",
+        "height": 550,
+        "parallax": true,
+        "parallax_direction": "top"
+      }
+    },
+    "166154814472fa0e68": {
+      "type": "rich-text",
+      "blocks": {
+        "1661548144ab961507-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Rich text"
+          }
+        },
+        "1661548144ab961507-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1661548144ab961507-0",
+        "1661548144ab961507-1"
       ],
       "settings": {
         "align_text": "center",
@@ -245,6 +288,8 @@
     "1661547378b51b5c37",
     "1661547474396c1b89",
     "16615479853fbe464f",
+    "1661548069547382d8",
+    "166154814472fa0e68",
     "1661547746bdbf6fa9"
   ]
 }
