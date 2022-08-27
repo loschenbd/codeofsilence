@@ -47,7 +47,7 @@
             "text_align": "vertical-bottom horizontal-left",
             "image": "shopify:\/\/shop_images\/crotch8-squashed.jpg",
             "parallax_direction": "top",
-            "overlay_opacity": 10,
+            "overlay_opacity": 30,
             "focal_point": "center center"
           }
         },
@@ -65,27 +65,11 @@
             "overlay_opacity": 30,
             "focal_point": "center center"
           }
-        },
-        "5e45a4c6-7633-49fa-9e76-253074b48b89": {
-          "type": "image",
-          "settings": {
-            "title": "Comfortable.\nAll day.",
-            "title_size": 80,
-            "subheading": "All day sits at zero degrees are now a very real option",
-            "link": "",
-            "link_text": "Purchase The Set",
-            "text_align": "vertical-center horizontal-right",
-            "image": "shopify:\/\/shop_images\/P1040838_LR.jpg",
-            "parallax_direction": "top",
-            "overlay_opacity": 0,
-            "focal_point": "center center"
-          }
         }
       },
       "block_order": [
         "slideshow-0",
-        "bb54bc98-72b6-49c8-ac9c-c94ed4302760",
-        "5e45a4c6-7633-49fa-9e76-253074b48b89"
+        "bb54bc98-72b6-49c8-ac9c-c94ed4302760"
       ],
       "settings": {
         "section_height": "550px",
