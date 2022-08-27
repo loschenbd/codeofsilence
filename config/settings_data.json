@@ -38,6 +38,8 @@
     "animate_images_style": "zoom-fade",
     "animate_buttons": true,
     "animate_underlines": true,
+    "product_grid_image_fill": true,
+    "quick_shop_enable": true,
     "cart_type": "drawer",
     "favicon": "shopify:\/\/shop_images\/COS_icon_24213ebd-a639-499a-8bdd-6f0ca2f8c47c.png",
     "checkout_header_image": "",
