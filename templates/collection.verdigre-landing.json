@@ -1,0 +1,116 @@
+{
+  "sections": {
+    "main-collection": {
+      "type": "main-collection",
+      "disabled": true,
+      "blocks": {
+        "collection_description": {
+          "type": "collection_description",
+          "settings": {
+          }
+        },
+        "product_grid": {
+          "type": "product_grid",
+          "settings": {
+            "collection_subnav_style": "inline",
+            "per_row": 4,
+            "mobile_flush_grid": false
+          }
+        }
+      },
+      "block_order": [
+        "collection_description",
+        "product_grid"
+      ],
+      "settings": {
+        "collection_image_enable": true,
+        "collection_image_height": 550,
+        "parallax": true,
+        "parallax_direction": "top",
+        "enable_sidebar": true,
+        "collapsed": true,
+        "enable_color_swatches": false,
+        "enable_sort": false
+      }
+    },
+    "slideshow": {
+      "type": "slideshow",
+      "blocks": {
+        "slideshow-0": {
+          "type": "image",
+          "settings": {
+            "title": "Unparalleled \nWarmth.",
+            "title_size": 80,
+            "subheading": "For extreme conditions at temp ranges of – 10° to 20°F subheading.",
+            "link": "",
+            "link_text": "Purchase The Set",
+            "text_align": "vertical-bottom horizontal-left",
+            "image": "shopify:\/\/shop_images\/cropped-P1040793_LR.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 10,
+            "focal_point": "center center"
+          }
+        },
+        "bb54bc98-72b6-49c8-ac9c-c94ed4302760": {
+          "type": "image",
+          "settings": {
+            "title": "Revolutionary Five \nLayer Design.",
+            "title_size": 80,
+            "subheading": "Quiet in cold temperatures.",
+            "link": "",
+            "link_text": "Purchase The Set",
+            "text_align": "vertical-bottom horizontal-left",
+            "image": "shopify:\/\/shop_images\/P1040809_LR.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "focal_point": "center center"
+          }
+        },
+        "5e45a4c6-7633-49fa-9e76-253074b48b89": {
+          "type": "image",
+          "settings": {
+            "title": "Comfortable.\nAll day.",
+            "title_size": 80,
+            "subheading": "All day sits at zero degrees are now a very real option",
+            "link": "",
+            "link_text": "Purchase The Set",
+            "text_align": "vertical-center horizontal-right",
+            "image": "shopify:\/\/shop_images\/P1040838_LR.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "focal_point": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "slideshow-0",
+        "bb54bc98-72b6-49c8-ac9c-c94ed4302760",
+        "5e45a4c6-7633-49fa-9e76-253074b48b89"
+      ],
+      "settings": {
+        "section_height": "550px",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "arrows",
+        "autoplay": true,
+        "autoplay_speed": 7
+      }
+    },
+    "featured-collection": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "The Series",
+        "home_featured_products": "coldfjall",
+        "per_row": 4,
+        "rows": 1,
+        "view_all": true,
+        "divider": false
+      }
+    }
+  },
+  "order": [
+    "main-collection",
+    "slideshow",
+    "featured-collection"
+  ]
+}
