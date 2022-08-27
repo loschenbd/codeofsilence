@@ -39,13 +39,13 @@
         "slideshow-0": {
           "type": "image",
           "settings": {
-            "title": "Unparalleled \nWarmth.",
+            "title": "Active \nBreathability.",
             "title_size": 80,
-            "subheading": "For extreme conditions at temp ranges of – 10° to 20°F subheading.",
+            "subheading": "",
             "link": "",
             "link_text": "Purchase The Set",
             "text_align": "vertical-bottom horizontal-left",
-            "image": "shopify:\/\/shop_images\/cropped-P1040793_LR.jpg",
+            "image": "shopify:\/\/shop_images\/crotch8-squashed.jpg",
             "parallax_direction": "top",
             "overlay_opacity": 10,
             "focal_point": "center center"
@@ -54,15 +54,15 @@
         "bb54bc98-72b6-49c8-ac9c-c94ed4302760": {
           "type": "image",
           "settings": {
-            "title": "Revolutionary Five \nLayer Design.",
+            "title": "Warmth for Unequaled Performance.",
             "title_size": 80,
-            "subheading": "Quiet in cold temperatures.",
+            "subheading": "Temperature ranges of 20° to 50°F",
             "link": "",
             "link_text": "Purchase The Set",
             "text_align": "vertical-bottom horizontal-left",
-            "image": "shopify:\/\/shop_images\/P1040809_LR.jpg",
+            "image": "shopify:\/\/shop_images\/COSmood-decoy-squashed.jpg",
             "parallax_direction": "top",
-            "overlay_opacity": 0,
+            "overlay_opacity": 30,
             "focal_point": "center center"
           }
         },
