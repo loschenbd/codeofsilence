@@ -139,7 +139,7 @@
         "16616127819d006c82-1": {
           "type": "liquid",
           "settings": {
-            "code": "<h2>NATURAL SHAPES, NATURAL COLOR BASE:<\/h2><p>Truly “natural” shapes and configurations are ran- dom in our natural world but there are “patterns” within these shapes that become semi-constant. To ensure the design configurations in S18 followed Mother Nature’s “random” authorship, naturally re-occurring designs were identified through extensive review and comparisons of hundreds of varying environments. This same process went into the original color base in S18 and was then adjusted to meet the standards of our “Neutral -LR” criteria.<\/p>",
+            "code": "<h2>NATURAL SHAPES, NATURAL COLOR BASE:<\/h2><p>Truly “natural” shapes and configurations are ran- dom in our natural world but there are “patterns” within these shapes that become semi-constant. To ensure the design configurations in S18 followed Mother Nature’s “random” authorship, naturally re-occurring designs were identified through extensive review and comparisons of hundreds of varying environments. This same process went into the original color base in S18 and was then adjusted to meet the standards of our “Neutral -LR” criteria.<\/p>\n\n<style>\nimg {\nborder-radius: 10px;\n}\n<\/style>",
             "width": "50%",
             "alignment": "top-middle"
           }
@@ -193,18 +193,10 @@
           "settings": {
             "title": "Neutral-LR™ Technology"
           }
-        },
-        "1661611103082e236b-1": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": true,
-            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>"
-          }
         }
       },
       "block_order": [
-        "1661611103082e236b-0",
-        "1661611103082e236b-1"
+        "1661611103082e236b-0"
       ],
       "settings": {
         "align_text": "center",
@@ -370,6 +362,38 @@
         "align_text": "center",
         "divider": false
       }
+    },
+    "16616138805dfc42c5": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/IMAG0107-scaled.jpg",
+        "image_width": 700,
+        "subtitle": "",
+        "title": "“NEUTRAL” COLOR SCHEME:",
+        "text": "<p>Effective mimicry of nature goes far beyond matching color pigments as we see them as humans. Neutral-LR technology takes mimicry of our natural world to an entirely new level. Neutral-LR technology integrates the most relevant optical dynamics that go into effective visual duplication of natural objects. The result is truly different and our COS products “ authentically” blend in. The difference is truly amazing and 100% presentably fact based.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "left",
+        "divider": false
+      }
+    },
+    "1661613965bd87709f": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/COS-69-squashed.jpg",
+        "image_width": 700,
+        "subtitle": "",
+        "title": "NATURAL “DRAB” COMPOSITION:",
+        "text": "<p>Naturally “drab” is a constant in natural objects, particularly in Fall and Winter. Many factors go into managing to true mimicry of the “drabness” found in nature. What is not used in a product is as important as what is used. In shell fabrics for example - color, material types, ink types, ink densities, and surface textures are just a few of the dynamics that are relevant and that we manage to in our Neutral-LR process. The difference in<br\/>managing to true “drabness” is extremely meaningful for hunters.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "left",
+        "divider": false
+      }
     }
   },
   "order": [
@@ -385,6 +409,8 @@
     "1661611561d6dc7635",
     "1661611449b3fab5d3",
     "166161148383e72aab",
-    "166161171021df8e6a"
+    "166161171021df8e6a",
+    "16616138805dfc42c5",
+    "1661613965bd87709f"
   ]
 }

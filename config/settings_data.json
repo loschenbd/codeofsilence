@@ -28,7 +28,7 @@
     "type_base_line_height": 1.5,
     "type_base_accent_transform": true,
     "icon_weight": "3px",
-    "icon_linecaps": "miter",
+    "icon_linecaps": "round",
     "animate_page_transitions": true,
     "animate_page_transition_style": "page-slow-fade",
     "animate_sections": true,
