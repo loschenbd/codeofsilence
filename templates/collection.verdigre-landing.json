@@ -171,6 +171,33 @@
         "narrow_column": true,
         "divider": false
       }
+    },
+    "1661611449b3fab5d3": {
+      "type": "rich-text",
+      "blocks": {
+        "16616114495da13359-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Code of Silence Function"
+          }
+        },
+        "16616114495da13359-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "16616114495da13359-0",
+        "16616114495da13359-1"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
     }
   },
   "order": [
@@ -179,6 +206,7 @@
     "16616110435a38b6cf",
     "1661611103a130b01c",
     "featured-collection",
-    "1661611422cd16a303"
+    "1661611422cd16a303",
+    "1661611449b3fab5d3"
   ]
 }
