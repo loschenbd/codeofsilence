@@ -127,13 +127,6 @@
         "autoplay_speed": 5
       }
     },
-    "16616145341011f49e": {
-      "type": "advanced-content",
-      "settings": {
-        "full_width": false,
-        "space_around": true
-      }
-    },
     "16616122936664f5a0": {
       "type": "background-image-text",
       "settings": {
@@ -456,7 +449,6 @@
     "slideshow",
     "1661611561d6dc7635",
     "16616147434dd149f5",
-    "16616145341011f49e",
     "16616122936664f5a0",
     "166161278287b411c5",
     "16616130243c2c8cf4",
