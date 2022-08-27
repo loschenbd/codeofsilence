@@ -275,6 +275,44 @@
         "divider": false
       }
     },
+    "1661614398b5e5093a": {
+      "type": "text-columns",
+      "blocks": {
+        "16616143979c90a974-0": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/BackKnitView-scaled.jpg",
+            "image_width": 650,
+            "title": "100% KNIT PATTERN:",
+            "text": "<p>Nature’s world is a world of random surfaces and porous textures. In order to effectively mimic this “randomness”, we have utilized 100% knit fabrics whenever possible. Our jacquard knit technique allows for far less inks being used in our fabrics and a much more realistic natural surface to be presented to wildlife in our clothing. The result in the woods is remarkably different in the eyes of wildlife.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "16616143979c90a974-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/BerberTexture-scaled.jpg",
+            "image_width": 650,
+            "title": "ENGINEERED TEXTURE:",
+            "text": "<p>Our Neutral-LR approach goes far beyond the principle of presenting a natural appearance. We extensively tested numerous textures and fabric compositions to maximize the natural appearance in all of our key fabrics. The more natural we can get, the more natural our fabrics appear to wildlife...it’s that simple.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "16616143979c90a974-0",
+        "16616143979c90a974-1"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "divider": false
+      }
+    },
     "1661611422cd16a303": {
       "type": "rich-text",
       "blocks": {
@@ -406,42 +444,6 @@
         "align_text": "center",
         "divider": false
       }
-    },
-    "1661614398b5e5093a": {
-      "type": "text-columns",
-      "blocks": {
-        "16616143979c90a974-0": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image_width": 650,
-            "title": "100% KNIT PATTERN:",
-            "text": "<p>Nature’s world is a world of random surfaces and porous textures. In order to effectively mimic this “randomness”, we have utilized 100% knit fabrics whenever possible. Our jacquard knit technique allows for far less inks being used in our fabrics and a much more realistic natural surface to be presented to wildlife in our clothing. The result in the woods is remarkably different in the eyes of wildlife.<\/p>",
-            "button_label": "",
-            "button_link": ""
-          }
-        },
-        "16616143979c90a974-1": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image_width": 650,
-            "title": "Example title",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.<\/p>",
-            "button_label": "Optional button",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "16616143979c90a974-0",
-        "16616143979c90a974-1"
-      ],
-      "settings": {
-        "title": "",
-        "align_text": "center",
-        "divider": false
-      }
     }
   },
   "order": [
@@ -456,10 +458,10 @@
     "1661611103a130b01c",
     "16616138805dfc42c5",
     "1661613965bd87709f",
+    "1661614398b5e5093a",
     "1661611422cd16a303",
     "1661611449b3fab5d3",
     "166161148383e72aab",
-    "166161171021df8e6a",
-    "1661614398b5e5093a"
+    "166161171021df8e6a"
   ]
 }
