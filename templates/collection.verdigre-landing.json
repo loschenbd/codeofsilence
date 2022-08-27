@@ -184,7 +184,7 @@
       ],
       "settings": {
         "full_width": false,
-        "space_around": false
+        "space_around": true
       }
     },
     "16616130243c2c8cf4": {
@@ -214,7 +214,7 @@
       ],
       "settings": {
         "full_width": false,
-        "space_around": false
+        "space_around": true
       }
     },
     "featured-collection": {
