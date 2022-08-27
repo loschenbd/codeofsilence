@@ -120,7 +120,7 @@
     "featured-collection": {
       "type": "featured-collection",
       "settings": {
-        "title": "",
+        "title": "Buy Now",
         "home_featured_products": "verdigre",
         "per_row": 4,
         "rows": 1,
