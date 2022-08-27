@@ -332,6 +332,63 @@
         "parallax": true,
         "parallax_direction": "top"
       }
+    },
+    "166161787932a3bdc5": {
+      "type": "featured-collections",
+      "blocks": {
+        "1661617879e7653199-0": {
+          "type": "collection",
+          "settings": {
+            "collection": "verdigre",
+            "focal_point": "center center",
+            "size": "wide"
+          }
+        },
+        "1661617879e7653199-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "zone7-versa",
+            "focal_point": "center center",
+            "size": "wide"
+          }
+        },
+        "1661617879e7653199-4": {
+          "type": "collection",
+          "settings": {
+            "collection": "accessories",
+            "focal_point": "center center",
+            "size": "square-small"
+          }
+        },
+        "1661617879e7653199-2": {
+          "type": "collection",
+          "settings": {
+            "collection": "lifestyle",
+            "focal_point": "center center",
+            "size": "square-small"
+          }
+        },
+        "1661617879e7653199-3": {
+          "type": "collection",
+          "settings": {
+            "collection": "coldfjall",
+            "focal_point": "center center",
+            "size": "wide"
+          }
+        }
+      },
+      "block_order": [
+        "1661617879e7653199-0",
+        "1661617879e7653199-1",
+        "1661617879e7653199-4",
+        "1661617879e7653199-2",
+        "1661617879e7653199-3"
+      ],
+      "settings": {
+        "title": "Collection list",
+        "divider": false,
+        "enable_gutter": false
+      }
     }
   },
   "order": [
@@ -344,6 +401,7 @@
     "1659909386c55c710c",
     "1661549659f1e33c97",
     "collection-callout",
-    "background-image-text"
+    "background-image-text",
+    "166161787932a3bdc5"
   ]
 }
