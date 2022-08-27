@@ -7,8 +7,8 @@
           "type": "image",
           "settings": {
             "image": "shopify:\/\/shop_images\/DSC_1475-squashed.jpg",
-            "focal_point": "center center",
-            "slide_title1": "",
+            "focal_point": "20% 100%",
+            "slide_title1": "Unnoticed.",
             "slide_title2": ""
           }
         },
@@ -17,7 +17,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/DSC_0955-squashed.jpg",
             "focal_point": "center center",
-            "slide_title1": "",
+            "slide_title1": "Unheard.",
             "slide_title2": ""
           }
         },
@@ -26,7 +26,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/COS-67-squashed.jpg",
             "focal_point": "center center",
-            "slide_title1": "",
+            "slide_title1": "Zero Presence.",
             "slide_title2": ""
           }
         }
@@ -75,6 +75,57 @@
       "settings": {
         "align_text": "center",
         "narrow_column": true,
+        "divider": false
+      }
+    },
+    "16616174172b146af2": {
+      "type": "text-columns",
+      "blocks": {
+        "1661617417d40da4d6-0": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Screen_Shot_2022-08-27_at_9.55.37_AM.png",
+            "image_width": 650,
+            "title": "",
+            "text": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "1661617417d40da4d6-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Screen_Shot_2022-08-27_at_9.55.10_AM.png",
+            "image_width": 650,
+            "title": "",
+            "text": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "1661617417d40da4d6-2": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Screen_Shot_2022-08-27_at_9.54.26_AM.png",
+            "image_width": 650,
+            "title": "",
+            "text": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1661617417d40da4d6-0",
+        "1661617417d40da4d6-1",
+        "1661617417d40da4d6-2"
+      ],
+      "settings": {
+        "title": "Technology That Works",
+        "align_text": "center",
         "divider": false
       }
     },
@@ -281,69 +332,18 @@
         "view_all": true,
         "divider": false
       }
-    },
-    "16616174172b146af2": {
-      "type": "text-columns",
-      "blocks": {
-        "1661617417d40da4d6-0": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image": "shopify:\/\/shop_images\/Screen_Shot_2022-08-27_at_9.55.37_AM.png",
-            "image_width": 650,
-            "title": "",
-            "text": "",
-            "button_label": "",
-            "button_link": ""
-          }
-        },
-        "1661617417d40da4d6-1": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image": "shopify:\/\/shop_images\/Screen_Shot_2022-08-27_at_9.55.10_AM.png",
-            "image_width": 650,
-            "title": "",
-            "text": "",
-            "button_label": "",
-            "button_link": ""
-          }
-        },
-        "1661617417d40da4d6-2": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image": "shopify:\/\/shop_images\/Screen_Shot_2022-08-27_at_9.54.26_AM.png",
-            "image_width": 650,
-            "title": "",
-            "text": "",
-            "button_label": "",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "1661617417d40da4d6-0",
-        "1661617417d40da4d6-1",
-        "1661617417d40da4d6-2"
-      ],
-      "settings": {
-        "title": "",
-        "align_text": "center",
-        "divider": false
-      }
     }
   },
   "order": [
     "1659795586df183527",
     "16615493193b8c386c",
+    "16616174172b146af2",
     "1659909561dddf78a7",
     "1659909386c55c710c",
     "16615489634e2fecd3",
     "1661549659f1e33c97",
     "collection-callout",
     "background-image-text",
-    "featured-collection-switcher",
-    "16616174172b146af2"
+    "featured-collection-switcher"
   ]
 }
