@@ -96,6 +96,17 @@
         "divider": false
       }
     },
+    "featured-collection": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "home_featured_products": "verdigre",
+        "per_row": 4,
+        "rows": 1,
+        "view_all": true,
+        "divider": false
+      }
+    },
     "16616147434dd149f5": {
       "type": "slideshow",
       "blocks": {
@@ -125,17 +136,6 @@
         "style": "arrows",
         "autoplay": true,
         "autoplay_speed": 5
-      }
-    },
-    "featured-collection": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "The Series",
-        "home_featured_products": "verdigre",
-        "per_row": 4,
-        "rows": 1,
-        "view_all": true,
-        "divider": false
       }
     },
     "166161278287b411c5": {
@@ -448,8 +448,8 @@
     "main-collection",
     "slideshow",
     "1661611561d6dc7635",
-    "16616147434dd149f5",
     "featured-collection",
+    "16616147434dd149f5",
     "166161278287b411c5",
     "16616130243c2c8cf4",
     "16616122936664f5a0",
