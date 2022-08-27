@@ -1,5 +1,10 @@
 {
   "sections": {
+    "collection-return": {
+      "type": "collection-return",
+      "settings": {
+      }
+    },
     "main": {
       "type": "main-product",
       "blocks": {
@@ -194,21 +199,16 @@
         "product_recommendations_heading": "You may also like",
         "related_count": 5
       }
-    },
-    "collection-return": {
-      "type": "collection-return",
-      "settings": {
-      }
     }
   },
   "order": [
+    "collection-return",
     "main",
     "sub",
     "background-image-text",
     "text-and-image",
     "text-and-image2",
     "testimonials",
-    "product-recommendations",
-    "collection-return"
+    "product-recommendations"
   ]
 }
