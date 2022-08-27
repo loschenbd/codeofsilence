@@ -198,10 +198,10 @@
             "enable_image": true,
             "image": "shopify:\/\/shop_images\/1.WarmDialNEW.png",
             "image_width": 650,
-            "title": "Example title",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.<\/p>",
-            "button_label": "Optional button",
-            "button_link": ""
+            "title": "Verdigre: 20° - 50°F",
+            "text": "<p>Our Verdigre Series is the most versatile gear we have in the live. the full \"Fleece-Wool\" construction makes this series the right choice for active scenarios anc covering ground to and from the stand. Fleec-Wool is absolutely dead quiet, wears well and has less friction in thicker bruch than our Berber-Wool. We Purposely left out all of our barriers in this series to allow it to breathe better and work well under activity<\/p>",
+            "button_label": "View Collection",
+            "button_link": "shopify:\/\/collections\/verdigre"
           }
         },
         "1661549658b0fe4a89-1": {
@@ -235,7 +235,7 @@
         "1661549658b0fe4a89-2"
       ],
       "settings": {
-        "title": "Designed For Every Condition",
+        "title": "TARGETED CLIMATES",
         "align_text": "center",
         "divider": false
       }
