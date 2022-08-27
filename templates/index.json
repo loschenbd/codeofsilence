@@ -129,35 +129,14 @@
         "divider": false
       }
     },
-    "1659909561dddf78a7": {
-      "type": "text-and-image",
+    "featured-collection-switcher": {
+      "type": "featured-collection-switcher",
       "settings": {
-        "image": "shopify:\/\/shop_images\/cropped-COS_HunterWithBuck1-1.jpg",
-        "image_width": 700,
-        "subtitle": "",
-        "title": "ABSOLUTE ZERO PRESENCE ™",
-        "text": "<p>Creating a “sanctuary” as a goal.<\/p>",
-        "button_label": "365-DAY COMMITMENT",
-        "button_link": "",
-        "button_style": "primary",
-        "align_text": "center",
-        "layout": "left",
-        "divider": false
-      }
-    },
-    "1659909386c55c710c": {
-      "type": "text-and-image",
-      "settings": {
-        "image": "shopify:\/\/shop_images\/cropped-cropped-cropped-cropped-COS_HunterWalkingInBranches_LR-1-1.jpg",
-        "image_width": 650,
-        "subtitle": "",
-        "title": "REDEFINING SILENCE",
-        "text": "<p><strong>Nothing less than 100% silent is acceptable.<\/strong><\/p>",
-        "button_label": "RE-DEFINING QUIET",
-        "button_link": "",
-        "button_style": "primary",
-        "align_text": "center",
-        "layout": "right",
+        "title": "Most popular",
+        "collection1": "verdigre",
+        "collection2": "zone7-versa",
+        "per_row": 4,
+        "view_all": false,
         "divider": false
       }
     },
@@ -238,6 +217,38 @@
         "style": "arrows",
         "autoplay": true,
         "autoplay_speed": 10
+      }
+    },
+    "1659909561dddf78a7": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/cropped-COS_HunterWithBuck1-1.jpg",
+        "image_width": 700,
+        "subtitle": "",
+        "title": "ABSOLUTE ZERO PRESENCE ™",
+        "text": "<p>Creating a “sanctuary” as a goal.<\/p>",
+        "button_label": "365-DAY COMMITMENT",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "center",
+        "layout": "left",
+        "divider": false
+      }
+    },
+    "1659909386c55c710c": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/cropped-cropped-cropped-cropped-COS_HunterWalkingInBranches_LR-1-1.jpg",
+        "image_width": 650,
+        "subtitle": "",
+        "title": "REDEFINING SILENCE",
+        "text": "<p><strong>Nothing less than 100% silent is acceptable.<\/strong><\/p>",
+        "button_label": "RE-DEFINING QUIET",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "center",
+        "layout": "right",
+        "divider": false
       }
     },
     "1661549659f1e33c97": {
@@ -321,29 +332,18 @@
         "parallax": true,
         "parallax_direction": "top"
       }
-    },
-    "featured-collection-switcher": {
-      "type": "featured-collection-switcher",
-      "settings": {
-        "title": "Most popular",
-        "collection1": "verdigre",
-        "collection2": "",
-        "per_row": 4,
-        "view_all": true,
-        "divider": false
-      }
     }
   },
   "order": [
     "1659795586df183527",
     "16615493193b8c386c",
     "16616174172b146af2",
+    "featured-collection-switcher",
+    "16615489634e2fecd3",
     "1659909561dddf78a7",
     "1659909386c55c710c",
-    "16615489634e2fecd3",
     "1661549659f1e33c97",
     "collection-callout",
-    "background-image-text",
-    "featured-collection-switcher"
+    "background-image-text"
   ]
 }
