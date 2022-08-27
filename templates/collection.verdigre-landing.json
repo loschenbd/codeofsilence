@@ -80,17 +80,6 @@
         "autoplay_speed": 7
       }
     },
-    "featured-collection": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "The Series",
-        "home_featured_products": "verdigre",
-        "per_row": 4,
-        "rows": 1,
-        "view_all": true,
-        "divider": false
-      }
-    },
     "16616110435a38b6cf": {
       "type": "rich-text",
       "blocks": {
@@ -144,13 +133,52 @@
         "narrow_column": true,
         "divider": false
       }
+    },
+    "featured-collection": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "The Series",
+        "home_featured_products": "verdigre",
+        "per_row": 4,
+        "rows": 1,
+        "view_all": true,
+        "divider": false
+      }
+    },
+    "1661611422cd16a303": {
+      "type": "rich-text",
+      "blocks": {
+        "1661611422dbb6539b-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Code of Silence: Fit"
+          }
+        },
+        "1661611422dbb6539b-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1661611422dbb6539b-0",
+        "1661611422dbb6539b-1"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
     }
   },
   "order": [
     "main-collection",
     "slideshow",
-    "featured-collection",
     "16616110435a38b6cf",
-    "1661611103a130b01c"
+    "1661611103a130b01c",
+    "featured-collection",
+    "1661611422cd16a303"
   ]
 }
