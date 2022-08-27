@@ -80,6 +80,22 @@
         "autoplay_speed": 7
       }
     },
+    "1661611561d6dc7635": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/1.WarmDialNEW.png",
+        "image_width": 700,
+        "subtitle": "",
+        "title": "Verdigre: 20º-50ºF",
+        "text": "<p>Our Verdigre Series is the most versatile gear we have in the live. the full \"Fleece-Wool\" construction makes this series the right choice for active scenarios anc covering ground to and from the stand. Fleec-Wool is absolutely dead quiet, wears well and has less friction in thicker bruch than our Berber-Wool. We Purposely left out all of our barriers in this series to allow it to breathe better and work well under activity<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "right",
+        "divider": false
+      }
+    },
     "16616110435a38b6cf": {
       "type": "rich-text",
       "blocks": {
@@ -204,6 +220,38 @@
         "divider": false
       }
     },
+    "16616138805dfc42c5": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/IMAG0107-scaled.jpg",
+        "image_width": 700,
+        "subtitle": "",
+        "title": "“NEUTRAL” COLOR SCHEME:",
+        "text": "<p>Effective mimicry of nature goes far beyond matching color pigments as we see them as humans. Neutral-LR technology takes mimicry of our natural world to an entirely new level. Neutral-LR technology integrates the most relevant optical dynamics that go into effective visual duplication of natural objects. The result is truly different and our COS products “ authentically” blend in. The difference is truly amazing and 100% presentably fact based.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "left",
+        "divider": false
+      }
+    },
+    "1661613965bd87709f": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/COS-69-squashed.jpg",
+        "image_width": 700,
+        "subtitle": "",
+        "title": "NATURAL “DRAB” COMPOSITION:",
+        "text": "<p>Naturally “drab” is a constant in natural objects, particularly in Fall and Winter. Many factors go into managing to true mimicry of the “drabness” found in nature. What is not used in a product is as important as what is used. In shell fabrics for example - color, material types, ink types, ink densities, and surface textures are just a few of the dynamics that are relevant and that we manage to in our Neutral-LR process. The difference in<br\/>managing to true “drabness” is extremely meaningful for hunters.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "left",
+        "divider": false
+      }
+    },
     "featured-collection": {
       "type": "featured-collection",
       "settings": {
@@ -239,22 +287,6 @@
       "settings": {
         "align_text": "center",
         "narrow_column": true,
-        "divider": false
-      }
-    },
-    "1661611561d6dc7635": {
-      "type": "text-and-image",
-      "settings": {
-        "image": "shopify:\/\/shop_images\/1.WarmDialNEW.png",
-        "image_width": 700,
-        "subtitle": "",
-        "title": "Verdigre: 20º-50ºF",
-        "text": "<p>Our Verdigre Series is the most versatile gear we have in the live. the full \"Fleece-Wool\" construction makes this series the right choice for active scenarios anc covering ground to and from the stand. Fleec-Wool is absolutely dead quiet, wears well and has less friction in thicker bruch than our Berber-Wool. We Purposely left out all of our barriers in this series to allow it to breathe better and work well under activity<\/p>",
-        "button_label": "",
-        "button_link": "",
-        "button_style": "primary",
-        "align_text": "left",
-        "layout": "right",
         "divider": false
       }
     },
@@ -362,55 +394,23 @@
         "align_text": "center",
         "divider": false
       }
-    },
-    "16616138805dfc42c5": {
-      "type": "text-and-image",
-      "settings": {
-        "image": "shopify:\/\/shop_images\/IMAG0107-scaled.jpg",
-        "image_width": 700,
-        "subtitle": "",
-        "title": "“NEUTRAL” COLOR SCHEME:",
-        "text": "<p>Effective mimicry of nature goes far beyond matching color pigments as we see them as humans. Neutral-LR technology takes mimicry of our natural world to an entirely new level. Neutral-LR technology integrates the most relevant optical dynamics that go into effective visual duplication of natural objects. The result is truly different and our COS products “ authentically” blend in. The difference is truly amazing and 100% presentably fact based.<\/p>",
-        "button_label": "",
-        "button_link": "",
-        "button_style": "primary",
-        "align_text": "left",
-        "layout": "left",
-        "divider": false
-      }
-    },
-    "1661613965bd87709f": {
-      "type": "text-and-image",
-      "settings": {
-        "image": "shopify:\/\/shop_images\/COS-69-squashed.jpg",
-        "image_width": 700,
-        "subtitle": "",
-        "title": "NATURAL “DRAB” COMPOSITION:",
-        "text": "<p>Naturally “drab” is a constant in natural objects, particularly in Fall and Winter. Many factors go into managing to true mimicry of the “drabness” found in nature. What is not used in a product is as important as what is used. In shell fabrics for example - color, material types, ink types, ink densities, and surface textures are just a few of the dynamics that are relevant and that we manage to in our Neutral-LR process. The difference in<br\/>managing to true “drabness” is extremely meaningful for hunters.<\/p>",
-        "button_label": "",
-        "button_link": "",
-        "button_style": "primary",
-        "align_text": "left",
-        "layout": "left",
-        "divider": false
-      }
     }
   },
   "order": [
     "main-collection",
     "slideshow",
+    "1661611561d6dc7635",
     "16616110435a38b6cf",
     "16616122936664f5a0",
     "166161278287b411c5",
     "16616130243c2c8cf4",
     "1661611103a130b01c",
+    "16616138805dfc42c5",
+    "1661613965bd87709f",
     "featured-collection",
     "1661611422cd16a303",
-    "1661611561d6dc7635",
     "1661611449b3fab5d3",
     "166161148383e72aab",
-    "166161171021df8e6a",
-    "16616138805dfc42c5",
-    "1661613965bd87709f"
+    "166161171021df8e6a"
   ]
 }
