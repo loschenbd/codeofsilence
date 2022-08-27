@@ -100,10 +100,64 @@
       "type": "featured-collection",
       "settings": {
         "title": "The Series",
-        "home_featured_products": "coldfjall",
+        "home_featured_products": "verdigre",
         "per_row": 4,
         "rows": 1,
         "view_all": true,
+        "divider": false
+      }
+    },
+    "16616110435a38b6cf": {
+      "type": "rich-text",
+      "blocks": {
+        "1661611043cf22dece-0": {
+          "type": "heading",
+          "settings": {
+            "title": "S-18™ VISUAL SILENCE"
+          }
+        },
+        "1661611043cf22dece-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1661611043cf22dece-0",
+        "1661611043cf22dece-1"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "1661611103a130b01c": {
+      "type": "rich-text",
+      "blocks": {
+        "1661611103082e236b-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Neutral-LR™ Technology"
+          }
+        },
+        "1661611103082e236b-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1661611103082e236b-0",
+        "1661611103082e236b-1"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
         "divider": false
       }
     }
@@ -111,6 +165,8 @@
   "order": [
     "main-collection",
     "slideshow",
-    "featured-collection"
+    "featured-collection",
+    "16616110435a38b6cf",
+    "1661611103a130b01c"
   ]
 }
