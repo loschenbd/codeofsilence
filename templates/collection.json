@@ -1,5 +1,62 @@
 {
   "sections": {
+    "166161976449ce5c54": {
+      "type": "featured-collections",
+      "blocks": {
+        "166161976316d7014f-4": {
+          "type": "collection",
+          "settings": {
+            "collection": "verdigre",
+            "focal_point": "center center",
+            "size": "wide"
+          }
+        },
+        "166161976316d7014f-0": {
+          "type": "collection",
+          "settings": {
+            "collection": "zone7-versa",
+            "focal_point": "center center",
+            "size": "wide"
+          }
+        },
+        "166161976316d7014f-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "accessories",
+            "focal_point": "center center",
+            "size": "square-small"
+          }
+        },
+        "166161976316d7014f-2": {
+          "type": "collection",
+          "settings": {
+            "collection": "lifestyle",
+            "focal_point": "center center",
+            "size": "square-small"
+          }
+        },
+        "166161976316d7014f-3": {
+          "type": "collection",
+          "settings": {
+            "collection": "coldfjall",
+            "focal_point": "center center",
+            "size": "wide"
+          }
+        }
+      },
+      "block_order": [
+        "166161976316d7014f-4",
+        "166161976316d7014f-0",
+        "166161976316d7014f-1",
+        "166161976316d7014f-2",
+        "166161976316d7014f-3"
+      ],
+      "settings": {
+        "title": "",
+        "divider": false,
+        "enable_gutter": true
+      }
+    },
     "main-collection": {
       "type": "main-collection",
       "blocks": {
@@ -22,7 +79,7 @@
         "product_grid"
       ],
       "settings": {
-        "collection_image_enable": true,
+        "collection_image_enable": false,
         "collection_image_height": 550,
         "parallax": true,
         "parallax_direction": "top",
@@ -34,6 +91,7 @@
     }
   },
   "order": [
+    "166161976449ce5c54",
     "main-collection"
   ]
 }
