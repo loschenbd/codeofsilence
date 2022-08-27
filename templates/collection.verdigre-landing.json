@@ -107,6 +107,27 @@
         "divider": false
       }
     },
+    "16616166366dcadc71": {
+      "type": "advanced-content",
+      "blocks": {
+        "166161663616bd956d-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screen_Shot_2022-08-27_at_11.01.31_AM.png",
+            "link": "",
+            "width": "100%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "166161663616bd956d-0"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true
+      }
+    },
     "16616147434dd149f5": {
       "type": "slideshow",
       "blocks": {
@@ -460,37 +481,6 @@
         "align_text": "center",
         "divider": false
       }
-    },
-    "1661616596659380ce": {
-      "type": "slideshow",
-      "blocks": {
-        "166161659699684c02-0": {
-          "type": "image",
-          "settings": {
-            "title": "",
-            "title_size": 80,
-            "subheading": "",
-            "link": "",
-            "link_text": "",
-            "text_align": "vertical-bottom horizontal-left",
-            "image": "shopify:\/\/shop_images\/Screen_Shot_2022-08-27_at_11.01.31_AM.png",
-            "parallax_direction": "top",
-            "overlay_opacity": 0,
-            "focal_point": "center center"
-          }
-        }
-      },
-      "block_order": [
-        "166161659699684c02-0"
-      ],
-      "settings": {
-        "section_height": "650px",
-        "mobile_height": "auto",
-        "parallax": true,
-        "style": "arrows",
-        "autoplay": true,
-        "autoplay_speed": 5
-      }
     }
   },
   "order": [
@@ -498,6 +488,7 @@
     "slideshow",
     "1661611561d6dc7635",
     "featured-collection",
+    "16616166366dcadc71",
     "16616147434dd149f5",
     "166161278287b411c5",
     "16616130243c2c8cf4",
@@ -510,7 +501,6 @@
     "1661611422cd16a303",
     "1661611449b3fab5d3",
     "166161148383e72aab",
-    "166161171021df8e6a",
-    "1661616596659380ce"
+    "166161171021df8e6a"
   ]
 }
