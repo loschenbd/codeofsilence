@@ -129,20 +129,6 @@
     },
     "16616145341011f49e": {
       "type": "advanced-content",
-      "blocks": {
-        "1661614534582847d4-0": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/S-18_CamoPattern_LR.jpg",
-            "link": "",
-            "width": "100%",
-            "alignment": "center"
-          }
-        }
-      },
-      "block_order": [
-        "1661614534582847d4-0"
-      ],
       "settings": {
         "full_width": false,
         "space_around": true
