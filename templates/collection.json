@@ -1,5 +1,37 @@
 {
   "sections": {
+    "main-collection": {
+      "type": "main-collection",
+      "blocks": {
+        "collection_description": {
+          "type": "collection_description",
+          "settings": {
+          }
+        },
+        "product_grid": {
+          "type": "product_grid",
+          "settings": {
+            "collection_subnav_style": "none",
+            "per_row": 4,
+            "mobile_flush_grid": false
+          }
+        }
+      },
+      "block_order": [
+        "collection_description",
+        "product_grid"
+      ],
+      "settings": {
+        "collection_image_enable": false,
+        "collection_image_height": 550,
+        "parallax": true,
+        "parallax_direction": "top",
+        "enable_sidebar": true,
+        "collapsed": true,
+        "enable_color_swatches": true,
+        "enable_sort": false
+      }
+    },
     "166161976449ce5c54": {
       "type": "featured-collections",
       "blocks": {
@@ -56,42 +88,10 @@
         "divider": false,
         "enable_gutter": true
       }
-    },
-    "main-collection": {
-      "type": "main-collection",
-      "blocks": {
-        "collection_description": {
-          "type": "collection_description",
-          "settings": {
-          }
-        },
-        "product_grid": {
-          "type": "product_grid",
-          "settings": {
-            "collection_subnav_style": "none",
-            "per_row": 4,
-            "mobile_flush_grid": false
-          }
-        }
-      },
-      "block_order": [
-        "collection_description",
-        "product_grid"
-      ],
-      "settings": {
-        "collection_image_enable": false,
-        "collection_image_height": 550,
-        "parallax": true,
-        "parallax_direction": "top",
-        "enable_sidebar": true,
-        "collapsed": true,
-        "enable_color_swatches": true,
-        "enable_sort": false
-      }
     }
   },
   "order": [
-    "166161976449ce5c54",
-    "main-collection"
+    "main-collection",
+    "166161976449ce5c54"
   ]
 }
