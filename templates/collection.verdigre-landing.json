@@ -88,23 +88,101 @@
           "settings": {
             "title": "S-18™ VISUAL SILENCE"
           }
-        },
-        "1661611043cf22dece-1": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": true,
-            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>"
-          }
         }
       },
       "block_order": [
-        "1661611043cf22dece-0",
-        "1661611043cf22dece-1"
+        "1661611043cf22dece-0"
       ],
       "settings": {
         "align_text": "center",
         "narrow_column": true,
         "divider": false
+      }
+    },
+    "16616122936664f5a0": {
+      "type": "background-image-text",
+      "settings": {
+        "subtitle": "THE “BRANCH CANOPY”",
+        "title": "AT 18 FT:",
+        "text": "<p>We surveyed dozens of hunters across the country and arrived at an average stand height of 17.8 (18) feet. We then considered over 100 trees of multiple species and arrived at an average branch size and density at this 18 foot mark for the S18TM camo design. The foreground shapes in S18 closely mimic this average limb size as well as branch frequency.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "image": "shopify:\/\/shop_images\/COS-54-squashed.jpg",
+        "focal_point": "center",
+        "layout": "right",
+        "height": 650,
+        "parallax": true,
+        "parallax_direction": "top"
+      }
+    },
+    "166161278287b411c5": {
+      "type": "advanced-content",
+      "blocks": {
+        "16616127819d006c82-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/cropped-swatchescodeofsilence.png",
+            "link": "",
+            "width": "25%",
+            "alignment": "top-middle"
+          }
+        },
+        "81a64ca8-3450-4f68-866e-de82b1f54750": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/codeofsilenceoverheadtexture.png",
+            "link": "",
+            "width": "25%",
+            "alignment": "top-middle"
+          }
+        },
+        "16616127819d006c82-1": {
+          "type": "liquid",
+          "settings": {
+            "code": "<h2>NATURAL SHAPES, NATURAL COLOR BASE:<\/h2><p>Truly “natural” shapes and configurations are ran- dom in our natural world but there are “patterns” within these shapes that become semi-constant. To ensure the design configurations in S18 followed Mother Nature’s “random” authorship, naturally re-occurring designs were identified through extensive review and comparisons of hundreds of varying environments. This same process went into the original color base in S18 and was then adjusted to meet the standards of our “Neutral -LR” criteria.<\/p>",
+            "width": "50%",
+            "alignment": "top-middle"
+          }
+        }
+      },
+      "block_order": [
+        "16616127819d006c82-0",
+        "81a64ca8-3450-4f68-866e-de82b1f54750",
+        "16616127819d006c82-1"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true
+      }
+    },
+    "16616130243c2c8cf4": {
+      "type": "advanced-content",
+      "blocks": {
+        "1661613024001a8034-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/codeofsilence_scrapeshot.png",
+            "link": "",
+            "width": "50%",
+            "alignment": "top-middle"
+          }
+        },
+        "1661613024001a8034-1": {
+          "type": "liquid",
+          "settings": {
+            "code": "<h2>ULTRA FUNCTIONAL:<\/h2><p>The game-changing truth is that S18 simply works incredibly well in the woods at keeping hunters from being detected. Regardless of the environment you are in, we guarantee you will be seen (noticed) less than you have ever before, period. This is an extreme- ly bold claim but our approach and science fully backs this position up as do our undeniable results in the field. We are positive you will finally have a camo technology that works as a true “asset” not just a uniform. S18 will make you re-establish how you feel about camouflage.<\/p>",
+            "width": "50%",
+            "alignment": "top-middle"
+          }
+        }
+      },
+      "block_order": [
+        "1661613024001a8034-0",
+        "1661613024001a8034-1"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true
       }
     },
     "1661611103a130b01c": {
@@ -292,35 +370,21 @@
         "align_text": "center",
         "divider": false
       }
-    },
-    "16616122936664f5a0": {
-      "type": "background-image-text",
-      "settings": {
-        "subtitle": "THE “BRANCH CANOPY”",
-        "title": "AT 18 FT:",
-        "text": "<p>We surveyed dozens of hunters across the country and arrived at an average stand height of 17.8 (18) feet. We then considered over 100 trees of multiple species and arrived at an average branch size and density at this 18 foot mark for the S18TM camo design. The foreground shapes in S18 closely mimic this average limb size as well as branch frequency.<\/p>",
-        "button_label": "",
-        "button_link": "",
-        "image": "shopify:\/\/shop_images\/COS-54-squashed.jpg",
-        "focal_point": "center",
-        "layout": "right",
-        "height": 650,
-        "parallax": true,
-        "parallax_direction": "top"
-      }
     }
   },
   "order": [
     "main-collection",
     "slideshow",
     "16616110435a38b6cf",
+    "16616122936664f5a0",
+    "166161278287b411c5",
+    "16616130243c2c8cf4",
     "1661611103a130b01c",
     "featured-collection",
     "1661611422cd16a303",
     "1661611561d6dc7635",
     "1661611449b3fab5d3",
     "166161148383e72aab",
-    "166161171021df8e6a",
-    "16616122936664f5a0"
+    "166161171021df8e6a"
   ]
 }
