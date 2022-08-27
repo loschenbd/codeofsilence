@@ -313,6 +313,22 @@
         "divider": false
       }
     },
+    "16616159563e8c0d56": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Screen_Shot_2022-08-27_at_10.59.14_AM.png",
+        "image_width": 700,
+        "subtitle": "Code of Silence:",
+        "title": "Function",
+        "text": "<p>Code of Silence designs are organized and efficient but also simplified. “Too much is simply too much” and big game hunting is not a complicated endeavor. Quick organized storage, functional designs and a conservative fit that allows for efficient movement without excess bulk are our key focuses.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "right",
+        "divider": false
+      }
+    },
     "1661611422cd16a303": {
       "type": "rich-text",
       "blocks": {
@@ -445,20 +461,35 @@
         "divider": false
       }
     },
-    "16616159563e8c0d56": {
-      "type": "text-and-image",
+    "1661616596659380ce": {
+      "type": "slideshow",
+      "blocks": {
+        "166161659699684c02-0": {
+          "type": "image",
+          "settings": {
+            "title": "",
+            "title_size": 80,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "text_align": "vertical-bottom horizontal-left",
+            "image": "shopify:\/\/shop_images\/Screen_Shot_2022-08-27_at_11.01.31_AM.png",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "focal_point": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "166161659699684c02-0"
+      ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Screen_Shot_2022-08-27_at_10.59.14_AM.png",
-        "image_width": 700,
-        "subtitle": "Code of Silence:",
-        "title": "Function",
-        "text": "<p>Code of Silence designs are organized and efficient but also simplified. “Too much is simply too much” and big game hunting is not a complicated endeavor. Quick organized storage, functional designs and a conservative fit that allows for efficient movement without excess bulk are our key focuses.<\/p>",
-        "button_label": "",
-        "button_link": "",
-        "button_style": "primary",
-        "align_text": "left",
-        "layout": "right",
-        "divider": false
+        "section_height": "650px",
+        "mobile_height": "auto",
+        "parallax": true,
+        "style": "arrows",
+        "autoplay": true,
+        "autoplay_speed": 5
       }
     }
   },
@@ -475,10 +506,11 @@
     "16616138805dfc42c5",
     "1661613965bd87709f",
     "1661614398b5e5093a",
+    "16616159563e8c0d56",
     "1661611422cd16a303",
     "1661611449b3fab5d3",
     "166161148383e72aab",
     "166161171021df8e6a",
-    "16616159563e8c0d56"
+    "1661616596659380ce"
   ]
 }
