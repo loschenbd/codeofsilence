@@ -2,6 +2,7 @@
   "sections": {
     "main-collection": {
       "type": "main-collection",
+      "disabled": true,
       "blocks": {
         "collection_description": {
           "type": "collection_description",
@@ -89,13 +90,57 @@
         "enable_gutter": true
       }
     },
-    "16617247719f1636a1": {
-      "type": "featured-collection-switcher",
+    "1661725052057ae16e": {
+      "type": "featured-collection",
       "settings": {
-        "title": "Most popular",
-        "collection1": "",
-        "collection2": "",
+        "title": "Verdigre",
+        "home_featured_products": "verdigre",
         "per_row": 4,
+        "rows": 1,
+        "view_all": true,
+        "divider": false
+      }
+    },
+    "16617250755e1a2d4f": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Zone7-Versa",
+        "home_featured_products": "zone7-versa",
+        "per_row": 4,
+        "rows": 1,
+        "view_all": true,
+        "divider": false
+      }
+    },
+    "1661725103e367dd5a": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "ColdFjall",
+        "home_featured_products": "coldfjall",
+        "per_row": 4,
+        "rows": 1,
+        "view_all": true,
+        "divider": false
+      }
+    },
+    "16617251341a31ea0a": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Lifestyle",
+        "home_featured_products": "lifestyle",
+        "per_row": 4,
+        "rows": 1,
+        "view_all": true,
+        "divider": false
+      }
+    },
+    "166172514105e0fd54": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Accessories",
+        "home_featured_products": "accessories",
+        "per_row": 4,
+        "rows": 1,
         "view_all": true,
         "divider": false
       }
@@ -104,6 +149,10 @@
   "order": [
     "main-collection",
     "166161976449ce5c54",
-    "16617247719f1636a1"
+    "1661725052057ae16e",
+    "16617250755e1a2d4f",
+    "1661725103e367dd5a",
+    "16617251341a31ea0a",
+    "166172514105e0fd54"
   ]
 }
