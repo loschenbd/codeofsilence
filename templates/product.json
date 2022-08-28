@@ -2,7 +2,15 @@
   "sections": {
     "collection-return": {
       "type": "collection-return",
+      "disabled": true,
       "settings": {
+      }
+    },
+    "sub": {
+      "type": "product-full-width",
+      "disabled": true,
+      "settings": {
+        "max_width": true
       }
     },
     "main": {
@@ -115,13 +123,6 @@
         "product_video_style": "muted"
       }
     },
-    "sub": {
-      "type": "product-full-width",
-      "disabled": true,
-      "settings": {
-        "max_width": true
-      }
-    },
     "background-image-text": {
       "type": "background-image-text",
       "settings": {
@@ -135,6 +136,27 @@
         "height": 550,
         "parallax": false,
         "parallax_direction": "top"
+      }
+    },
+    "16617113552bcdc3fe": {
+      "type": "advanced-content",
+      "blocks": {
+        "1661711355cb5d8b06-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screen_Shot_2022-08-28_at_1.30.02_PM.png",
+            "link": "",
+            "width": "100%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "1661711355cb5d8b06-0"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true
       }
     },
     "text-and-image": {
@@ -221,9 +243,10 @@
   },
   "order": [
     "collection-return",
-    "main",
     "sub",
+    "main",
     "background-image-text",
+    "16617113552bcdc3fe",
     "text-and-image",
     "text-and-image2",
     "testimonials",
