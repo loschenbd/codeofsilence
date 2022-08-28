@@ -71,7 +71,7 @@
           "mobile_logo_width": 140,
           "main_menu_link_list": "main-menu",
           "main_menu_alignment": "left-center",
-          "header_sticky": true,
+          "header_sticky": false,
           "sticky_index": true,
           "sticky_collection": false,
           "show_announcement": false,
