@@ -285,6 +285,43 @@
         "layout": "right",
         "divider": false
       }
+    },
+    "1661712058de6fc0c6": {
+      "type": "text-columns",
+      "blocks": {
+        "1661712058ec4f95fa-0": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/cropped-P1040793_LR.jpg",
+            "image_width": 650,
+            "title": "",
+            "text": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "1661712058ec4f95fa-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "image_width": 650,
+            "title": "Darrin Youngblut",
+            "text": "<p>Darrin is a highly successful farm operator, passionate outdoor entrepreneur, driven hunter\/fisherman, and devoted father and husband. Darrin lives in the heart of Northeast Iowa whitetail country and spends countless hours chasing whitetails, raising his three children, and simply being in the outdoors as much as he possibly can. Darrin embodies and defines the Code of Silence philosophy of “embracing better” and is constantly refining his approach and advancing his skills on the pursuit of mature whitetail deer. Darrin has a deep understanding of what it takes to be truly successful in consistently harvesting mature bucks with a bow. While Darrin lives by the mindset of “less is more” and “simpler is better”, Darrin is never satisfied and is driven to constantly evolve every aspect of his hunting techniques and equipment. Darrin and his wife Mandi live in Jesup, Iowa.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1661712058ec4f95fa-0",
+        "1661712058ec4f95fa-1"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "divider": false
+      }
     }
   },
   "order": [
@@ -300,6 +337,7 @@
     "1661548069547382d8",
     "166154814472fa0e68",
     "1661547746bdbf6fa9",
-    "166154830896232e01"
+    "166154830896232e01",
+    "1661712058de6fc0c6"
   ]
 }
