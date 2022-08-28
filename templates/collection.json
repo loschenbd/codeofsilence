@@ -23,13 +23,13 @@
       ],
       "settings": {
         "collection_image_enable": false,
-        "collection_image_height": 550,
+        "collection_image_height": 350,
         "parallax": true,
         "parallax_direction": "top",
         "enable_sidebar": true,
         "collapsed": true,
         "enable_color_swatches": true,
-        "enable_sort": false
+        "enable_sort": true
       }
     },
     "166161976449ce5c54": {
@@ -40,7 +40,7 @@
           "settings": {
             "collection": "verdigre",
             "focal_point": "center center",
-            "size": "wide"
+            "size": "square-small"
           }
         },
         "166161976316d7014f-0": {
@@ -48,13 +48,13 @@
           "settings": {
             "collection": "zone7-versa",
             "focal_point": "center center",
-            "size": "wide"
+            "size": "square-small"
           }
         },
-        "166161976316d7014f-1": {
+        "166161976316d7014f-3": {
           "type": "collection",
           "settings": {
-            "collection": "accessories",
+            "collection": "coldfjall",
             "focal_point": "center center",
             "size": "square-small"
           }
@@ -67,31 +67,43 @@
             "size": "square-small"
           }
         },
-        "166161976316d7014f-3": {
+        "166161976316d7014f-1": {
           "type": "collection",
           "settings": {
-            "collection": "coldfjall",
+            "collection": "accessories",
             "focal_point": "center center",
-            "size": "wide"
+            "size": "square-small"
           }
         }
       },
       "block_order": [
         "166161976316d7014f-4",
         "166161976316d7014f-0",
-        "166161976316d7014f-1",
+        "166161976316d7014f-3",
         "166161976316d7014f-2",
-        "166161976316d7014f-3"
+        "166161976316d7014f-1"
       ],
       "settings": {
         "title": "",
         "divider": false,
         "enable_gutter": true
       }
+    },
+    "16617247719f1636a1": {
+      "type": "featured-collection-switcher",
+      "settings": {
+        "title": "Most popular",
+        "collection1": "",
+        "collection2": "",
+        "per_row": 4,
+        "view_all": true,
+        "divider": false
+      }
     }
   },
   "order": [
     "main-collection",
-    "166161976449ce5c54"
+    "166161976449ce5c54",
+    "16617247719f1636a1"
   ]
 }
