@@ -80,6 +80,14 @@
           "type": "share",
           "settings": {
           }
+        },
+        "2e5b1518-31ed-477d-9f7a-dd575c5154b9": {
+          "type": "tab",
+          "settings": {
+            "title": "Function",
+            "content": "",
+            "page": "function"
+          }
         }
       },
       "block_order": [
@@ -93,7 +101,8 @@
         "description",
         "tab",
         "contact",
-        "share"
+        "share",
+        "2e5b1518-31ed-477d-9f7a-dd575c5154b9"
       ],
       "settings": {
         "sku_enable": false,
