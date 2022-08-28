@@ -69,6 +69,14 @@
             "page": "fit"
           }
         },
+        "2e5b1518-31ed-477d-9f7a-dd575c5154b9": {
+          "type": "tab",
+          "settings": {
+            "title": "Function",
+            "content": "",
+            "page": "function"
+          }
+        },
         "contact": {
           "type": "contact",
           "settings": {
@@ -79,14 +87,6 @@
         "share": {
           "type": "share",
           "settings": {
-          }
-        },
-        "2e5b1518-31ed-477d-9f7a-dd575c5154b9": {
-          "type": "tab",
-          "settings": {
-            "title": "Function",
-            "content": "",
-            "page": "function"
           }
         }
       },
@@ -100,9 +100,9 @@
         "393c5a07-f141-48ea-a5ef-3155fb3e16fb",
         "description",
         "tab",
+        "2e5b1518-31ed-477d-9f7a-dd575c5154b9",
         "contact",
-        "share",
-        "2e5b1518-31ed-477d-9f7a-dd575c5154b9"
+        "share"
       ],
       "settings": {
         "sku_enable": false,
