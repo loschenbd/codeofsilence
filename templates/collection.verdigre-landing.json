@@ -89,8 +89,8 @@
         "collection_image_height": 550,
         "parallax": true,
         "parallax_direction": "top",
-        "enable_sidebar": true,
-        "collapsed": true,
+        "enable_sidebar": false,
+        "collapsed": false,
         "enable_color_swatches": false,
         "enable_sort": false
       }
