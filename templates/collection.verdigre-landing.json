@@ -57,10 +57,16 @@
             "per_row": 4,
             "mobile_flush_grid": true
           }
+        },
+        "a17eae31-6466-4775-8a4a-e11445abc011": {
+          "type": "collection_description",
+          "settings": {
+          }
         }
       },
       "block_order": [
-        "product_grid"
+        "product_grid",
+        "a17eae31-6466-4775-8a4a-e11445abc011"
       ],
       "settings": {
         "collection_image_enable": false,
@@ -96,7 +102,6 @@
         "166161663616bd956d-0": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Screen_Shot_2022-08-27_at_11.01.31_AM.png",
             "link": "",
             "width": "100%",
             "alignment": "center"

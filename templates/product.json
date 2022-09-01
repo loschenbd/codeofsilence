@@ -68,14 +68,6 @@
             "page": "fit"
           }
         },
-        "2e5b1518-31ed-477d-9f7a-dd575c5154b9": {
-          "type": "tab",
-          "settings": {
-            "title": "Function",
-            "content": "",
-            "page": "function"
-          }
-        },
         "393c5a07-f141-48ea-a5ef-3155fb3e16fb": {
           "type": "tab",
           "settings": {
@@ -99,7 +91,6 @@
         "description",
         "99127e13-b82d-4272-b214-5e161161376b",
         "tab",
-        "2e5b1518-31ed-477d-9f7a-dd575c5154b9",
         "393c5a07-f141-48ea-a5ef-3155fb3e16fb",
         "share"
       ],
