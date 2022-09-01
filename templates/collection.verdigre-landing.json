@@ -69,9 +69,9 @@
         "product_grid": {
           "type": "product_grid",
           "settings": {
-            "collection_subnav_style": "inline",
-            "per_row": 5,
-            "mobile_flush_grid": true
+            "collection_subnav_style": "none",
+            "per_row": 4,
+            "mobile_flush_grid": false
           }
         },
         "a17eae31-6466-4775-8a4a-e11445abc011": {
