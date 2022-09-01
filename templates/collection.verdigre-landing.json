@@ -91,6 +91,7 @@
     },
     "16616166366dcadc71": {
       "type": "advanced-content",
+      "disabled": true,
       "blocks": {
         "166161663616bd956d-0": {
           "type": "image",
@@ -112,6 +113,7 @@
     },
     "16616147434dd149f5": {
       "type": "slideshow",
+      "disabled": true,
       "blocks": {
         "1661614743db7e4d90-0": {
           "type": "image",
@@ -143,6 +145,7 @@
     },
     "166161278287b411c5": {
       "type": "advanced-content",
+      "disabled": true,
       "blocks": {
         "16616127819d006c82-0": {
           "type": "image",
@@ -183,6 +186,7 @@
     },
     "16616130243c2c8cf4": {
       "type": "advanced-content",
+      "disabled": true,
       "blocks": {
         "1661613024001a8034-0": {
           "type": "image",
@@ -213,6 +217,7 @@
     },
     "featured-collection": {
       "type": "featured-collection",
+      "disabled": true,
       "settings": {
         "title": "Buy Now",
         "home_featured_products": "verdigre",
@@ -224,6 +229,7 @@
     },
     "1661611103a130b01c": {
       "type": "rich-text",
+      "disabled": true,
       "blocks": {
         "1661611103082e236b-0": {
           "type": "heading",
@@ -243,6 +249,7 @@
     },
     "16616122936664f5a0": {
       "type": "background-image-text",
+      "disabled": true,
       "settings": {
         "subtitle": "THE “BRANCH CANOPY”",
         "title": "AT 18 FT:",
@@ -259,6 +266,7 @@
     },
     "16616138805dfc42c5": {
       "type": "text-and-image",
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/IMAG0107-scaled.jpg",
         "image_width": 700,
@@ -275,6 +283,7 @@
     },
     "1661613965bd87709f": {
       "type": "text-and-image",
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/COS-69-squashed.jpg",
         "image_width": 700,
@@ -291,6 +300,7 @@
     },
     "1661614398b5e5093a": {
       "type": "text-columns",
+      "disabled": true,
       "blocks": {
         "16616143979c90a974-0": {
           "type": "text_block",
@@ -329,6 +339,7 @@
     },
     "16616159563e8c0d56": {
       "type": "text-and-image",
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/Screen_Shot_2022-08-27_at_10.59.14_AM.png",
         "image_width": 700,
@@ -345,6 +356,7 @@
     },
     "1661611422cd16a303": {
       "type": "rich-text",
+      "disabled": true,
       "blocks": {
         "1661611422dbb6539b-0": {
           "type": "heading",
@@ -372,6 +384,7 @@
     },
     "16616392787548365d": {
       "type": "featured-collection",
+      "disabled": true,
       "settings": {
         "title": "",
         "home_featured_products": "verdigre",
