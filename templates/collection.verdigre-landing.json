@@ -398,6 +398,63 @@
         "view_all": true,
         "divider": false
       }
+    },
+    "1662068734310d5b37": {
+      "type": "featured-collections",
+      "blocks": {
+        "16620687340e4eda51-0": {
+          "type": "collection",
+          "settings": {
+            "collection": "verdigre",
+            "focal_point": "center center",
+            "size": "tall"
+          }
+        },
+        "16620687340e4eda51-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "zone7-versa",
+            "focal_point": "center center",
+            "size": "tall"
+          }
+        },
+        "16620687340e4eda51-2": {
+          "type": "collection",
+          "settings": {
+            "collection": "coldfjall",
+            "focal_point": "center center",
+            "size": "tall"
+          }
+        },
+        "16620687340e4eda51-3": {
+          "type": "collection",
+          "settings": {
+            "collection": "lifestyle",
+            "focal_point": "center center",
+            "size": "square-small"
+          }
+        },
+        "16620687340e4eda51-4": {
+          "type": "collection",
+          "settings": {
+            "collection": "accessories",
+            "focal_point": "center center",
+            "size": "square-small"
+          }
+        }
+      },
+      "block_order": [
+        "16620687340e4eda51-0",
+        "16620687340e4eda51-1",
+        "16620687340e4eda51-2",
+        "16620687340e4eda51-3",
+        "16620687340e4eda51-4"
+      ],
+      "settings": {
+        "title": "",
+        "divider": false,
+        "enable_gutter": false
+      }
     }
   },
   "order": [
@@ -416,6 +473,7 @@
     "1661614398b5e5093a",
     "16616159563e8c0d56",
     "1661611422cd16a303",
-    "16616392787548365d"
+    "16616392787548365d",
+    "1662068734310d5b37"
   ]
 }
