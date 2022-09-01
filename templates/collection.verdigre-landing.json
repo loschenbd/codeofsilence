@@ -63,6 +63,37 @@
         "divider": false
       }
     },
+    "1662070396d7b6ba06": {
+      "type": "advanced-content",
+      "blocks": {
+        "1662070396b0829b8a-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/VerdigreJacketCallouts800px.jpg",
+            "link": "",
+            "width": "50%",
+            "alignment": "center"
+          }
+        },
+        "0c23afa9-a81c-4ecf-aebf-e58177380a71": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/VerdigrePantsCallouts800px.jpg",
+            "link": "",
+            "width": "50%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "1662070396b0829b8a-0",
+        "0c23afa9-a81c-4ecf-aebf-e58177380a71"
+      ],
+      "settings": {
+        "full_width": true,
+        "space_around": true
+      }
+    },
     "main-collection": {
       "type": "main-collection",
       "blocks": {
@@ -94,37 +125,6 @@
         "collapsed": false,
         "enable_color_swatches": false,
         "enable_sort": false
-      }
-    },
-    "1662070396d7b6ba06": {
-      "type": "advanced-content",
-      "blocks": {
-        "1662070396b0829b8a-0": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/VerdigreJacketCallouts800px.jpg",
-            "link": "",
-            "width": "50%",
-            "alignment": "center"
-          }
-        },
-        "0c23afa9-a81c-4ecf-aebf-e58177380a71": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/VerdigrePantsCallouts800px.jpg",
-            "link": "",
-            "width": "50%",
-            "alignment": "center"
-          }
-        }
-      },
-      "block_order": [
-        "1662070396b0829b8a-0",
-        "0c23afa9-a81c-4ecf-aebf-e58177380a71"
-      ],
-      "settings": {
-        "full_width": true,
-        "space_around": true
       }
     },
     "16616166366dcadc71": {
@@ -513,8 +513,8 @@
   "order": [
     "slideshow",
     "1661611561d6dc7635",
-    "main-collection",
     "1662070396d7b6ba06",
+    "main-collection",
     "16616166366dcadc71",
     "1662070324af93f248",
     "16616147434dd149f5",
