@@ -508,7 +508,7 @@
       "settings": {
         "title": "",
         "divider": false,
-        "enable_gutter": false
+        "enable_gutter": true
       }
     }
   },
