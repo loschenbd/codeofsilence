@@ -98,7 +98,6 @@
     },
     "1662070396d7b6ba06": {
       "type": "advanced-content",
-      "disabled": true,
       "blocks": {
         "1662070396b0829b8a-0": {
           "type": "image",
@@ -130,6 +129,7 @@
     },
     "16616166366dcadc71": {
       "type": "advanced-content",
+      "disabled": true,
       "blocks": {
         "166161663616bd956d-0": {
           "type": "image",
@@ -151,6 +151,7 @@
     },
     "1662070324af93f248": {
       "type": "advanced-content",
+      "disabled": true,
       "blocks": {
         "1662070324af6f35df-0": {
           "type": "image",
