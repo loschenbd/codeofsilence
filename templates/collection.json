@@ -59,6 +59,7 @@
     },
     "main-collection": {
       "type": "main-collection",
+      "disabled": true,
       "blocks": {
         "collection_description": {
           "type": "collection_description",
@@ -91,7 +92,6 @@
     },
     "1661725052057ae16e": {
       "type": "featured-collection",
-      "disabled": true,
       "settings": {
         "title": "Verdigre",
         "home_featured_products": "verdigre",
@@ -103,7 +103,6 @@
     },
     "16617250755e1a2d4f": {
       "type": "featured-collection",
-      "disabled": true,
       "settings": {
         "title": "Zone7-Versa",
         "home_featured_products": "zone7-versa",
@@ -115,7 +114,6 @@
     },
     "1661725103e367dd5a": {
       "type": "featured-collection",
-      "disabled": true,
       "settings": {
         "title": "ColdFjall",
         "home_featured_products": "coldfjall",
@@ -127,7 +125,6 @@
     },
     "16617251341a31ea0a": {
       "type": "featured-collection",
-      "disabled": true,
       "settings": {
         "title": "Lifestyle",
         "home_featured_products": "lifestyle",
@@ -139,7 +136,6 @@
     },
     "166172514105e0fd54": {
       "type": "featured-collection",
-      "disabled": true,
       "settings": {
         "title": "Accessories",
         "home_featured_products": "accessories",
