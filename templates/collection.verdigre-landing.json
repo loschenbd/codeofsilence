@@ -47,53 +47,6 @@
         "autoplay_speed": 7
       }
     },
-    "1661611561d6dc7635": {
-      "type": "text-and-image",
-      "settings": {
-        "image": "shopify:\/\/shop_images\/1.WarmDialNEW.png",
-        "image_width": 700,
-        "subtitle": "",
-        "title": "Verdigre: 20º-50ºF",
-        "text": "<p>Our Verdigre Series is the most versatile gear we have in the line. The full \"Fleece-Wool\" construction makes this series the right choice for active scenarios anc covering ground to and from the stand. Fleece-Wool is absolutely dead quiet, wears well and has less friction in thicker bruch than our Berber-Wool. We Purposely left out all of our barriers in this series to allow it to breathe better and work well under activity<\/p>",
-        "button_label": "",
-        "button_link": "",
-        "button_style": "primary",
-        "align_text": "left",
-        "layout": "right",
-        "divider": false
-      }
-    },
-    "1662070396d7b6ba06": {
-      "type": "advanced-content",
-      "blocks": {
-        "1662070396b0829b8a-0": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/VerdigreJacketCallouts800px.jpg",
-            "link": "",
-            "width": "50%",
-            "alignment": "center"
-          }
-        },
-        "0c23afa9-a81c-4ecf-aebf-e58177380a71": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/VerdigrePantsCallouts800px.jpg",
-            "link": "",
-            "width": "50%",
-            "alignment": "center"
-          }
-        }
-      },
-      "block_order": [
-        "1662070396b0829b8a-0",
-        "0c23afa9-a81c-4ecf-aebf-e58177380a71"
-      ],
-      "settings": {
-        "full_width": true,
-        "space_around": true
-      }
-    },
     "main-collection": {
       "type": "main-collection",
       "blocks": {
@@ -125,6 +78,54 @@
         "collapsed": false,
         "enable_color_swatches": false,
         "enable_sort": false
+      }
+    },
+    "1661611561d6dc7635": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/1.WarmDialNEW.png",
+        "image_width": 700,
+        "subtitle": "",
+        "title": "Verdigre: 20º-50ºF",
+        "text": "<p>Our Verdigre Series is the most versatile gear we have in the line. The full \"Fleece-Wool\" construction makes this series the right choice for active scenarios anc covering ground to and from the stand. Fleece-Wool is absolutely dead quiet, wears well and has less friction in thicker bruch than our Berber-Wool. We Purposely left out all of our barriers in this series to allow it to breathe better and work well under activity<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "right",
+        "divider": false
+      }
+    },
+    "1662070396d7b6ba06": {
+      "type": "advanced-content",
+      "disabled": true,
+      "blocks": {
+        "1662070396b0829b8a-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/VerdigreJacketCallouts800px.jpg",
+            "link": "",
+            "width": "50%",
+            "alignment": "center"
+          }
+        },
+        "0c23afa9-a81c-4ecf-aebf-e58177380a71": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/VerdigrePantsCallouts800px.jpg",
+            "link": "",
+            "width": "50%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "1662070396b0829b8a-0",
+        "0c23afa9-a81c-4ecf-aebf-e58177380a71"
+      ],
+      "settings": {
+        "full_width": true,
+        "space_around": true
       }
     },
     "16616166366dcadc71": {
@@ -512,9 +513,9 @@
   },
   "order": [
     "slideshow",
+    "main-collection",
     "1661611561d6dc7635",
     "1662070396d7b6ba06",
-    "main-collection",
     "16616166366dcadc71",
     "1662070324af93f248",
     "16616147434dd149f5",
