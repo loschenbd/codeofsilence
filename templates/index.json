@@ -165,7 +165,7 @@
           "settings": {
             "collection": "verdigre",
             "focal_point": "center center",
-            "size": "wide"
+            "size": "tall"
           }
         },
         "1661617879e7653199-1": {
@@ -173,7 +173,15 @@
           "settings": {
             "collection": "zone7-versa",
             "focal_point": "center center",
-            "size": "wide"
+            "size": "tall"
+          }
+        },
+        "1661617879e7653199-3": {
+          "type": "collection",
+          "settings": {
+            "collection": "coldfjall",
+            "focal_point": "center center",
+            "size": "tall"
           }
         },
         "1661617879e7653199-4": {
@@ -191,22 +199,14 @@
             "focal_point": "center center",
             "size": "square-small"
           }
-        },
-        "1661617879e7653199-3": {
-          "type": "collection",
-          "settings": {
-            "collection": "coldfjall",
-            "focal_point": "center center",
-            "size": "wide"
-          }
         }
       },
       "block_order": [
         "1661617879e7653199-0",
         "1661617879e7653199-1",
+        "1661617879e7653199-3",
         "1661617879e7653199-4",
-        "1661617879e7653199-2",
-        "1661617879e7653199-3"
+        "1661617879e7653199-2"
       ],
       "settings": {
         "title": "",
