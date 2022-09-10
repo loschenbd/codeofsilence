@@ -79,7 +79,7 @@
         "column1": {
           "type": "text_block",
           "settings": {
-            "enable_image": true,
+            "enable_image": false,
             "image_width": 650,
             "title": "How Good Is the Camo?",
             "text": "",
@@ -90,7 +90,7 @@
         "column2": {
           "type": "text_block",
           "settings": {
-            "enable_image": true,
+            "enable_image": false,
             "image_width": 650,
             "title": "Is This Warm?",
             "text": "",
@@ -101,7 +101,7 @@
         "column3": {
           "type": "text_block",
           "settings": {
-            "enable_image": true,
+            "enable_image": false,
             "image_width": 650,
             "title": "Is This Quiet Enough?",
             "text": "",
