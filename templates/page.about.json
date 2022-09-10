@@ -81,8 +81,8 @@
           "settings": {
             "enable_image": false,
             "image_width": 650,
-            "title": "How Good Is the Camo?",
-            "text": "",
+            "title": "",
+            "text": "<p>How Good Is the Camo?<\/p>",
             "button_label": "",
             "button_link": ""
           }
@@ -92,8 +92,8 @@
           "settings": {
             "enable_image": false,
             "image_width": 650,
-            "title": "Is This Warm?",
-            "text": "",
+            "title": "",
+            "text": "<p>Is This Warm?<\/p>",
             "button_label": "",
             "button_link": ""
           }
@@ -103,8 +103,8 @@
           "settings": {
             "enable_image": false,
             "image_width": 650,
-            "title": "Is This Quiet Enough?",
-            "text": "",
+            "title": "",
+            "text": "<p>Is This Quiet Enough?<\/p>",
             "button_label": "",
             "button_link": ""
           }
