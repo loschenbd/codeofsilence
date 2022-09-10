@@ -121,27 +121,6 @@
         "parallax_direction": "top"
       }
     },
-    "16617113552bcdc3fe": {
-      "type": "advanced-content",
-      "blocks": {
-        "1661711355cb5d8b06-0": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/VerdigreJacketCallouts800px.jpg",
-            "link": "",
-            "width": "100%",
-            "alignment": "center"
-          }
-        }
-      },
-      "block_order": [
-        "1661711355cb5d8b06-0"
-      ],
-      "settings": {
-        "full_width": false,
-        "space_around": true
-      }
-    },
     "text-and-image": {
       "type": "text-and-image",
       "disabled": true,
@@ -232,7 +211,6 @@
     "sub",
     "main",
     "background-image-text",
-    "16617113552bcdc3fe",
     "text-and-image",
     "text-and-image2",
     "testimonials",
