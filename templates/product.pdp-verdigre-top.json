@@ -114,8 +114,8 @@
         "button_label": "",
         "button_link": "",
         "image": "shopify:\/\/shop_images\/crotch8-squashed.jpg",
-        "focal_point": "center",
-        "layout": "left",
+        "focal_point": "80% 100%",
+        "layout": "right",
         "height": 550,
         "parallax": false,
         "parallax_direction": "top"
