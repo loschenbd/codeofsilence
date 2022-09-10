@@ -108,12 +108,12 @@
     "background-image-text": {
       "type": "background-image-text",
       "settings": {
-        "subtitle": "Impressive",
-        "title": "Large image with text box",
-        "text": "<p>Pair large text with a full-width image to draw attention to an important detail of your brand or product line.<\/p>",
+        "subtitle": "",
+        "title": "An ideal, versatile Jacket for peak rut hunts.",
+        "text": "",
         "button_label": "",
         "button_link": "",
-        "image": "shopify:\/\/shop_images\/Verdigre_Hood_side.jpg",
+        "image": "shopify:\/\/shop_images\/COS-17-squashed.jpg",
         "focal_point": "center",
         "layout": "left",
         "height": 550,
