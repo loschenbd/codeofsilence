@@ -64,25 +64,6 @@
     "sections": {
       "header": {
         "type": "header",
-        "blocks": {
-          "52a0ad9b-6ae5-4736-adf0-29d23f96df3d": {
-            "type": "megamenu",
-            "settings": {
-              "menu_item": "Shop",
-              "promo_image_1": "shopify:\/\/shop_images\/EvMountainGoat_MobileLR.jpg",
-              "promo_heading_1": "test",
-              "promo_text_1": "test",
-              "promo_url_1": "",
-              "promo_image_2": "shopify:\/\/shop_images\/DarrinAntelope_MobileLR.jpg",
-              "promo_heading_2": "test 2",
-              "promo_text_2": "test 2",
-              "promo_url_2": ""
-            }
-          }
-        },
-        "block_order": [
-          "52a0ad9b-6ae5-4736-adf0-29d23f96df3d"
-        ],
         "settings": {
           "logo": "shopify:\/\/shop_images\/CodeOfSilenceLogo.png",
           "logo-inverted": "shopify:\/\/shop_images\/COS-logo-white.png",
