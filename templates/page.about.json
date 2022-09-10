@@ -167,22 +167,6 @@
         "divider": false
       }
     },
-    "1661547474396c1b89": {
-      "type": "background-image-text",
-      "settings": {
-        "subtitle": "\"Less is More. Simple is better\"",
-        "title": "Darrin Youngblut",
-        "text": "",
-        "button_label": "",
-        "button_link": "",
-        "image": "shopify:\/\/shop_images\/cropped-P1040793_LR.jpg",
-        "focal_point": "80% 0",
-        "layout": "left",
-        "height": 550,
-        "parallax": true,
-        "parallax_direction": "top"
-      }
-    },
     "1662831702e8e4d1ec": {
       "type": "text-and-image",
       "settings": {
@@ -195,7 +179,7 @@
         "button_label": "",
         "button_link": "",
         "button_style": "primary",
-        "align_text": "left",
+        "align_text": "right",
         "layout": "right",
         "divider": false
       }
@@ -220,20 +204,21 @@
         "divider": false
       }
     },
-    "1661548069547382d8": {
-      "type": "background-image-text",
+    "166283184000527682": {
+      "type": "text-and-image",
       "settings": {
-        "subtitle": "“I love spending hours in the field with my sons.”",
+        "image": "shopify:\/\/shop_images\/EvMountains_MobileLR.jpg",
+        "image2": "shopify:\/\/shop_images\/EvMountainGoat_MobileLR.jpg",
+        "image_width": 700,
+        "subtitle": "",
         "title": "Ev Tarrel",
-        "text": "",
+        "text": "<p>“I LOVE SPENDING HOURS IN THE FIELD WITH MY SONS.”<\/p>",
         "button_label": "",
         "button_link": "",
-        "image": "shopify:\/\/shop_images\/Coldfjallparka-squashed.jpg",
-        "focal_point": "80% 0",
-        "layout": "right",
-        "height": 550,
-        "parallax": true,
-        "parallax_direction": "top"
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "left",
+        "divider": false
       }
     },
     "166154814472fa0e68": {
@@ -313,10 +298,9 @@
     "text-columns",
     "16615468859ce24b4a",
     "1661547378b51b5c37",
-    "1661547474396c1b89",
     "1662831702e8e4d1ec",
     "16615479853fbe464f",
-    "1661548069547382d8",
+    "166283184000527682",
     "166154814472fa0e68",
     "1661547746bdbf6fa9",
     "166154830896232e01"
