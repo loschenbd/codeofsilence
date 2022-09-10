@@ -21,13 +21,13 @@
         "bb54bc98-72b6-49c8-ac9c-c94ed4302760": {
           "type": "image",
           "settings": {
-            "title": "Warmth for Unequaled Performance.",
-            "title_size": 80,
-            "subheading": "Temperature ranges of 20° to 50°F",
+            "title": "Optimum \nInsulation",
+            "title_size": 77,
+            "subheading": "For extreme conditions",
             "link": "",
-            "link_text": "Purchase The Set",
+            "link_text": "",
             "text_align": "vertical-bottom horizontal-left",
-            "image": "shopify:\/\/shop_images\/COSmood-decoy-squashed.jpg",
+            "image": "shopify:\/\/shop_images\/cropped-P1040793_LR.jpg",
             "parallax_direction": "top",
             "overlay_opacity": 30,
             "focal_point": "center center"
