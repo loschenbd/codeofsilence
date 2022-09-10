@@ -183,6 +183,23 @@
         "parallax_direction": "top"
       }
     },
+    "1662831702e8e4d1ec": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/DarrinFamily_MobileLR.jpg",
+        "image2": "shopify:\/\/shop_images\/DarrinAntelope_MobileLR.jpg",
+        "image_width": 700,
+        "subtitle": "",
+        "title": "Darrin Youngblut",
+        "text": "<p>\"LESS IS MORE. SIMPLE IS BETTER\"<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "right",
+        "divider": false
+      }
+    },
     "16615479853fbe464f": {
       "type": "rich-text",
       "blocks": {
@@ -225,7 +242,7 @@
         "1661548144ab961507-1": {
           "type": "text",
           "settings": {
-            "enlarge_text": true,
+            "enlarge_text": false,
             "text": "<p>Ev spent over 30 years with Cabela’s where for most of those 30 years, Ev had oversight of the Hunting Clothing categories at a corporate level. During his tenure at Cabelas, Ev was responsible for numerous patents, dozens of camo introductions – including the Zonz Camo franchise, dozens of fabric innovations to include Microtex, MT050, Wootimate, Outfitter Berber, and many many more successful innovations. Ev also had oversight over Brand Marketing \/ Strategy, Strategic Product Development, and Cabela’s expansion into Canada during his career. Ev is well known and respected in the outdoor industry. Ev is an extremely avid outdoorsman and spends countless hours in the field each year with his two sons, Reid and Trever. Ev and his wife Jana still live in Sidney, Nebraska and enjoy any time they get to be out of the house and office.<\/p>"
           }
         }
@@ -241,6 +258,7 @@
     },
     "1661547746bdbf6fa9": {
       "type": "slideshow",
+      "disabled": true,
       "blocks": {
         "1661547746a533a979-0": {
           "type": "image",
@@ -296,6 +314,7 @@
     "16615468859ce24b4a",
     "1661547378b51b5c37",
     "1661547474396c1b89",
+    "1662831702e8e4d1ec",
     "16615479853fbe464f",
     "1661548069547382d8",
     "166154814472fa0e68",
