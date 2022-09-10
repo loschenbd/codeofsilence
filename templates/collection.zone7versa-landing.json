@@ -54,7 +54,7 @@
           "type": "product_grid",
           "settings": {
             "collection_subnav_style": "none",
-            "per_row": 4,
+            "per_row": 3,
             "mobile_flush_grid": false
           }
         },
