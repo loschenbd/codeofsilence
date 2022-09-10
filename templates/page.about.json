@@ -124,12 +124,6 @@
     "16615468859ce24b4a": {
       "type": "rich-text",
       "blocks": {
-        "1661546885a6589bd6-0": {
-          "type": "heading",
-          "settings": {
-            "title": ""
-          }
-        },
         "1661546885a6589bd6-1": {
           "type": "text",
           "settings": {
@@ -139,7 +133,6 @@
         }
       },
       "block_order": [
-        "1661546885a6589bd6-0",
         "1661546885a6589bd6-1"
       ],
       "settings": {
