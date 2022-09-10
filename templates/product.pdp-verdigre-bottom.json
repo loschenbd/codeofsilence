@@ -108,14 +108,14 @@
     "background-image-text": {
       "type": "background-image-text",
       "settings": {
-        "subtitle": "Impressive",
-        "title": "Large image with text box",
-        "text": "<p>Pair large text with a full-width image to draw attention to an important detail of your brand or product line.<\/p>",
+        "subtitle": "",
+        "title": "Structured pants that are designed forboth stationary and active comfort.",
+        "text": "",
         "button_label": "",
         "button_link": "",
-        "image": "shopify:\/\/shop_images\/Verdigre_Hood_side.jpg",
+        "image": "shopify:\/\/shop_images\/COSmood-decoy-squashed.jpg",
         "focal_point": "center",
-        "layout": "left",
+        "layout": "right",
         "height": 550,
         "parallax": false,
         "parallax_direction": "top"
