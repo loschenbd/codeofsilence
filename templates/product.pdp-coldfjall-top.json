@@ -108,15 +108,15 @@
     "background-image-text": {
       "type": "background-image-text",
       "settings": {
-        "subtitle": "Impressive",
-        "title": "Large image with text box",
-        "text": "<p>Pair large text with a full-width image to draw attention to an important detail of your brand or product line.<\/p>",
+        "subtitle": "",
+        "title": "A versatile Parka built for extreme cold as well as cool, blustery days with longer sits.",
+        "text": "",
         "button_label": "",
         "button_link": "",
-        "image": "shopify:\/\/shop_images\/Verdigre_Hood_side.jpg",
+        "image": "shopify:\/\/shop_images\/cropped-P1040793_LR.jpg",
         "focal_point": "center",
         "layout": "left",
-        "height": 550,
+        "height": 750,
         "parallax": false,
         "parallax_direction": "top"
       }
