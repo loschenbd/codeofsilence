@@ -28,7 +28,7 @@
             "title": "Thermal",
             "text": "<p>Our products are built to provide better thermal performance while stationary. The two main factors that COS uses to drive this are breathability and the leverage of air as an insulator - some technologies deliver on one, some on both.<\/p>",
             "button_label": "See The Tech",
-            "button_link": ""
+            "button_link": "shopify:\/\/pages\/thermal"
           }
         },
         "1663119914dfea31f1-2": {
@@ -36,10 +36,10 @@
           "settings": {
             "enable_image": true,
             "image_width": 650,
-            "title": "Silence",
+            "title": "Silent",
             "text": "<p>COS tech eliminates noise, even in cold temps where noise is amplified and more easily created.<\/p>",
             "button_label": "See The Tech",
-            "button_link": ""
+            "button_link": "shopify:\/\/pages\/silence"
           }
         }
       },
