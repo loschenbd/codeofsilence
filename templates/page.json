@@ -5,9 +5,58 @@
       "disabled": true,
       "settings": {
       }
+    },
+    "166311991401495698": {
+      "type": "text-columns",
+      "blocks": {
+        "1663119914dfea31f1-0": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_width": 650,
+            "title": "Visual",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.<\/p>",
+            "button_label": "See The Tech",
+            "button_link": "shopify:\/\/pages\/visual"
+          }
+        },
+        "1663119914dfea31f1-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_width": 650,
+            "title": "Thermal",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.<\/p>",
+            "button_label": "See The Tech",
+            "button_link": ""
+          }
+        },
+        "1663119914dfea31f1-2": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_width": 650,
+            "title": "Silence",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.<\/p>",
+            "button_label": "See The Tech",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1663119914dfea31f1-0",
+        "1663119914dfea31f1-1",
+        "1663119914dfea31f1-2"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "divider": false
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "166311991401495698"
   ]
 }
