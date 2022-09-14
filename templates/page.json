@@ -26,7 +26,7 @@
             "enable_image": true,
             "image_width": 650,
             "title": "Thermal",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.<\/p>",
+            "text": "<p>Everything in COS designs and technologies is built to provide better thermal performance while stationary. The two main factors that COS uses to drive this are breathability and the leverage of air as an insulator - some technologies deliver on one, some on both<\/p>",
             "button_label": "See The Tech",
             "button_link": ""
           }
@@ -37,7 +37,7 @@
             "enable_image": true,
             "image_width": 650,
             "title": "Silence",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.<\/p>",
+            "text": "<p>Everything in COS designs is built to eliminate noise , even in cold temps when noise is applified and more easily created<\/p>",
             "button_label": "See The Tech",
             "button_link": ""
           }
