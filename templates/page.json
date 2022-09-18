@@ -189,6 +189,82 @@
         "autoplay": true,
         "autoplay_speed": 5
       }
+    },
+    "1663526372e776a19f": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/P1040864_LR.jpg",
+        "image_width": 700,
+        "subtitle": "",
+        "title": "What is Berber Wool?",
+        "text": "<p>This unique wool based high “pile” fabric is an extremely quiet, extremely warm and also presents a very dull \/ natural looking exterior appearance due to it’s high lofted “sherpa” style texture and knitted (not woven) base structure. The knitting technique we use is called “jacquard” knitting and the fibers are dyed prior to knitting so the saturation of inks is consistent throughout the entire thickness of the fabric after knitting is complete. Not only does this allow for less fading of the surface colors over time, it also lowers the levels of unnatural synthetics (such as inks) on the exterior surface as compared to “printed” fabrics where approximately 100% of the inks used in the printing are applied after the fabric is woven or knit so the inks are therefore condensed in the top 20% of the fabric’s exterior face. This allows our Berber Wool to appear extremely natural and better “absorb” light and appear more natural compared to other commonly used hunting fabrications.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "left",
+        "divider": false
+      }
+    },
+    "1663526383d0131ac9": {
+      "type": "advanced-content",
+      "blocks": {
+        "16635263834ec2e5e7-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screen_Shot_2022-08-27_at_10.59.14_AM.png",
+            "link": "",
+            "width": "33%",
+            "alignment": "center"
+          }
+        },
+        "16635263834ec2e5e7-1": {
+          "type": "liquid",
+          "settings": {
+            "code": "<h2>What is Berber Wool?<\/h2><p>\nThis unique wool based high “pile” fabric is an extremely quiet, extremely warm and also presents a very dull \/ natural looking exterior appearance due to it’s high lofted “sherpa” style texture and knitted (not woven) base structure. The knitting technique we use is called “jacquard” knitting and the fibers are dyed prior to knitting so the saturation of inks is consistent throughout the entire thickness of the fabric after knitting is complete. Not only does this allow for less fading of the surface colors over time, it also lowers the levels of unnatural synthetics (such as inks) on the exterior surface as compared to “printed” fabrics where approximately 100% of the inks used in the printing are applied after the fabric is woven or knit so the inks are therefore condensed in the top 20% of the fabric’s exterior face. This allows our Berber Wool to appear extremely natural and better “absorb” light and appear more natural compared to other commonly used hunting fabrications.<\/p>",
+            "width": "66%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "16635263834ec2e5e7-0",
+        "16635263834ec2e5e7-1"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true
+      }
+    },
+    "1663526531f6976c69": {
+      "type": "advanced-content",
+      "blocks": {
+        "16635265317f309232-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screen_Shot_2022-09-18_at_1.47.56_PM.png",
+            "link": "",
+            "width": "100%",
+            "alignment": "center"
+          }
+        },
+        "16635265317f309232-1": {
+          "type": "liquid",
+          "settings": {
+            "code": "<h2>Custom content<\/h2><p>Use this advanced section to build your own layouts or to add custom HTML, Liquid, or scripts.<\/p>",
+            "width": "50%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "16635265317f309232-0",
+        "16635265317f309232-1"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true
+      }
     }
   },
   "order": [
@@ -197,6 +273,9 @@
     "16635254546ef5428d",
     "1663525667f4a777fc",
     "16635258595860ce36",
-    "166352623732d8239e"
+    "166352623732d8239e",
+    "1663526372e776a19f",
+    "1663526383d0131ac9",
+    "1663526531f6976c69"
   ]
 }
