@@ -8,6 +8,7 @@
     },
     "166311991401495698": {
       "type": "text-columns",
+      "disabled": true,
       "blocks": {
         "1663119914dfea31f1-0": {
           "type": "text_block",
@@ -51,7 +52,7 @@
       "settings": {
         "title": "",
         "align_text": "center",
-        "divider": false
+        "divider": true
       }
     },
     "16635254546ef5428d": {
@@ -107,12 +108,95 @@
         "narrow_column": true,
         "divider": true
       }
+    },
+    "16635258595860ce36": {
+      "type": "text-columns",
+      "blocks": {
+        "1663525859be1f9256-0": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/cropped-swatchescodeofsilence.png",
+            "image_width": 580,
+            "title": "",
+            "text": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "1663525859be1f9256-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "image_width": 650,
+            "title": "",
+            "text": "<p>Truly “natural” shapes and configurations are random in our natural world but there are “patterns” within these shapes that become semi-constant. To ensure the design configurations in S-18 followed Mother Nature’s “random” authorship, naturally re-occurring designs were identified through extensive review and comparisons of hundreds of varying environments. This same process went into the original color base in S-18 and was then adjusted to meet the standards of our “Neutral -LR” criteria.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "1663525859be1f9256-2": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/codeofsilenceoverheadtexture.png",
+            "image_width": 650,
+            "title": "",
+            "text": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1663525859be1f9256-0",
+        "1663525859be1f9256-1",
+        "1663525859be1f9256-2"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "divider": true
+      }
+    },
+    "166352623732d8239e": {
+      "type": "slideshow",
+      "blocks": {
+        "166352623725088800-0": {
+          "type": "image",
+          "settings": {
+            "title": "The game-changing truth is that S-18 simply works incredibly well in the woods at keeping hunters from being detected. Regardless of the environment you are in, we guarantee you will be seen (noticed) less than you have ever before, period. This is an extremely bold claim but our approach and science fully backs this position up as do our undeniable results in the field. We are positive you will finally have a camo technology that works as a true “asset” not just a uniform.",
+            "title_size": 40,
+            "subheading": "S18 will make you re-establish how you feel about camouflage.",
+            "link": "",
+            "link_text": "",
+            "text_align": "vertical-bottom horizontal-left",
+            "image": "shopify:\/\/shop_images\/COS-67-squashed.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 50,
+            "focal_point": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "166352623725088800-0"
+      ],
+      "settings": {
+        "section_height": "650px",
+        "mobile_height": "auto",
+        "parallax": true,
+        "style": "arrows",
+        "autoplay": true,
+        "autoplay_speed": 5
+      }
     }
   },
   "order": [
     "main",
     "166311991401495698",
     "16635254546ef5428d",
-    "1663525667f4a777fc"
+    "1663525667f4a777fc",
+    "16635258595860ce36",
+    "166352623732d8239e"
   ]
 }
