@@ -93,8 +93,8 @@
         "166352566706ca7ee8-1": {
           "type": "text",
           "settings": {
-            "enlarge_text": true,
-            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>"
+            "enlarge_text": false,
+            "text": "<p>Through our years in the field, we have taken our experiences and created an approach to camo and avoiding visual detection we feel is absolute perfection. We are not your run of the mill camo. This is a different approach – that yields different results.<\/p><p>It’s important to start with the right “zone” or target location in mind when creating a camo design. We surveyed dozens of hunters across the country and arrived at an average stand “mid-height” of 17.8 (18) feet. We then analyzed over 100 trees of the most predominant species found in the heart of whitetail country and arrived at an average branch size and density at this “18” foot mark for base of the S18 camo design. The core elements and foreground shapes in S18 closely mimic this average limb size and frequency. <\/p>"
           }
         }
       },
@@ -105,7 +105,7 @@
       "settings": {
         "align_text": "center",
         "narrow_column": true,
-        "divider": false
+        "divider": true
       }
     }
   },
