@@ -6,55 +6,6 @@
       "settings": {
       }
     },
-    "166311991401495698": {
-      "type": "text-columns",
-      "disabled": true,
-      "blocks": {
-        "1663119914dfea31f1-0": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image_width": 650,
-            "title": "Visual",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.<\/p>",
-            "button_label": "See The Tech",
-            "button_link": "shopify:\/\/pages\/visual"
-          }
-        },
-        "1663119914dfea31f1-1": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image_width": 650,
-            "title": "Thermal",
-            "text": "<p>Our products are built to provide better thermal performance while stationary. The two main factors that COS uses to drive this are breathability and the leverage of air as an insulator - some technologies deliver on one, some on both.<\/p>",
-            "button_label": "See The Tech",
-            "button_link": "shopify:\/\/pages\/thermal"
-          }
-        },
-        "1663119914dfea31f1-2": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image_width": 650,
-            "title": "Silent",
-            "text": "<p>COS tech eliminates noise, even in cold temps where noise is amplified and more easily created.<\/p>",
-            "button_label": "See The Tech",
-            "button_link": "shopify:\/\/pages\/silence"
-          }
-        }
-      },
-      "block_order": [
-        "1663119914dfea31f1-0",
-        "1663119914dfea31f1-1",
-        "1663119914dfea31f1-2"
-      ],
-      "settings": {
-        "title": "",
-        "align_text": "center",
-        "divider": true
-      }
-    },
     "16635254546ef5428d": {
       "type": "rich-text",
       "blocks": {
@@ -343,11 +294,27 @@
         "align_text": "center",
         "divider": true
       }
+    },
+    "16635306188b7a560a": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/COS_icon_24213ebd-a639-499a-8bdd-6f0ca2f8c47c.png",
+        "image2": "shopify:\/\/shop_images\/COS-10_LR-1024x727.webp",
+        "image_width": 700,
+        "subtitle": "",
+        "title": "Taking a Different Path",
+        "text": "<p>Every technology Code of Silence develops and utilizes supports our key focuses of 100% silence, visual stealth, warmth \/ comfort, and ergonomic dexterity. Our technologies are far from “status quo” approaches however. These clearly represent different design strategies than have been seen in conventional systems. We’ve spent thousands of hours developing these designs and they are proven to be more effective in delivering in the field than traditional techniques. We are firm believers that that “if you want to get to a different place – you need to take a different path” and we are 100% confident you will agree that we have defined “a better way to go afield”.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "right",
+        "divider": false
+      }
     }
   },
   "order": [
     "main",
-    "166311991401495698",
     "16635254546ef5428d",
     "1663525667f4a777fc",
     "16635258595860ce36",
@@ -357,6 +324,7 @@
     "1663526531f6976c69",
     "16635295817249e67e",
     "1663529672df593378",
-    "1663529849d0469095"
+    "1663529849d0469095",
+    "16635306188b7a560a"
   ]
 }
