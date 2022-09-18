@@ -242,7 +242,7 @@
         "16635265317f309232-0": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Screen_Shot_2022-09-18_at_1.47.56_PM.png",
+            "image": "shopify:\/\/shop_images\/Screen_Shot_2022-09-18_at_1.49.25_PM.png",
             "link": "",
             "width": "100%",
             "alignment": "center"
@@ -262,7 +262,7 @@
         "16635265317f309232-1"
       ],
       "settings": {
-        "full_width": false,
+        "full_width": true,
         "space_around": true
       }
     }
