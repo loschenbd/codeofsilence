@@ -341,7 +341,7 @@
       "settings": {
         "title": "Detailed Technologies",
         "align_text": "center",
-        "divider": false
+        "divider": true
       }
     }
   },
