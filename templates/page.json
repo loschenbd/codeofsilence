@@ -292,6 +292,57 @@
         "full_width": false,
         "space_around": true
       }
+    },
+    "1663529849d0469095": {
+      "type": "text-columns",
+      "blocks": {
+        "1663529849ceaccbde-0": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/WindSealGraphicWithText.png",
+            "image_width": 650,
+            "title": "WindSeal TC-3",
+            "text": "<p>This new state of the art barrier technology guarantees 100% protection from all wind velocities while allowing maximum breathability and complete quietness even in extreme temperatures. WindSeal -TC3 is designed to maintain mobility and to eliminate internal friction as well as unneeded bulk.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "1663529849ceaccbde-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/WindsulationGraphicWithText.png",
+            "image_width": 650,
+            "title": "Windsulation ™",
+            "text": "<p>Our new revolutionary “compressed” insulation technology provides unparalleled weather and wind protection while maximizing mobility. Windsulation TM is our exclusive break-through technology that allows your garment to exceed traditional insulating properties without adding excessive bulk.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "1663529849ceaccbde-2": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/QuietLoftGraphicWithText.png",
+            "image_width": 650,
+            "title": "QuietLoft Insultation",
+            "text": "<p>Our new QuietLoft polyester high-loft insulation traps air and remains quiet in even the coldest of conditions. QuietLoft is very light weight but won’t break down over time and lose its ability to trap insulating air as many high loft poly insulations can often do over time.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1663529849ceaccbde-0",
+        "1663529849ceaccbde-1",
+        "1663529849ceaccbde-2"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "divider": false
+      }
     }
   },
   "order": [
@@ -305,6 +356,7 @@
     "1663526383d0131ac9",
     "1663526531f6976c69",
     "16635295817249e67e",
-    "1663529672df593378"
+    "1663529672df593378",
+    "1663529849d0469095"
   ]
 }
