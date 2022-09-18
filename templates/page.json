@@ -1,5 +1,21 @@
 {
   "sections": {
+    "16635306188b7a560a": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/COS_icon_24213ebd-a639-499a-8bdd-6f0ca2f8c47c.png",
+        "image_width": 700,
+        "subtitle": "",
+        "title": "Taking a Different Path",
+        "text": "<p>Every technology Code of Silence develops and utilizes supports our key focuses of 100% silence, visual stealth, warmth \/ comfort, and ergonomic dexterity. Our technologies are far from “status quo” approaches however. These clearly represent different design strategies than have been seen in conventional systems. We’ve spent thousands of hours developing these designs and they are proven to be more effective in delivering in the field than traditional techniques. We are firm believers that that “if you want to get to a different place – you need to take a different path” and we are 100% confident you will agree that we have defined “a better way to go afield”.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "right",
+        "divider": false
+      }
+    },
     "main": {
       "type": "main-page",
       "disabled": true,
@@ -8,6 +24,7 @@
     },
     "16635254546ef5428d": {
       "type": "rich-text",
+      "disabled": true,
       "blocks": {
         "166352545497a71591-0": {
           "type": "heading",
@@ -294,26 +311,10 @@
         "align_text": "center",
         "divider": true
       }
-    },
-    "16635306188b7a560a": {
-      "type": "text-and-image",
-      "settings": {
-        "image": "shopify:\/\/shop_images\/COS_icon_24213ebd-a639-499a-8bdd-6f0ca2f8c47c.png",
-        "image2": "shopify:\/\/shop_images\/COS-10_LR-1024x727.webp",
-        "image_width": 700,
-        "subtitle": "",
-        "title": "Taking a Different Path",
-        "text": "<p>Every technology Code of Silence develops and utilizes supports our key focuses of 100% silence, visual stealth, warmth \/ comfort, and ergonomic dexterity. Our technologies are far from “status quo” approaches however. These clearly represent different design strategies than have been seen in conventional systems. We’ve spent thousands of hours developing these designs and they are proven to be more effective in delivering in the field than traditional techniques. We are firm believers that that “if you want to get to a different place – you need to take a different path” and we are 100% confident you will agree that we have defined “a better way to go afield”.<\/p>",
-        "button_label": "",
-        "button_link": "",
-        "button_style": "primary",
-        "align_text": "left",
-        "layout": "right",
-        "divider": false
-      }
     }
   },
   "order": [
+    "16635306188b7a560a",
     "main",
     "16635254546ef5428d",
     "1663525667f4a777fc",
@@ -324,7 +325,6 @@
     "1663526531f6976c69",
     "16635295817249e67e",
     "1663529672df593378",
-    "1663529849d0469095",
-    "16635306188b7a560a"
+    "1663529849d0469095"
   ]
 }
