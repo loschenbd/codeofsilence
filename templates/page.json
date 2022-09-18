@@ -52,6 +52,7 @@
     },
     "1663525667f4a777fc": {
       "type": "rich-text",
+      "disabled": true,
       "blocks": {
         "166352566706ca7ee8-0": {
           "type": "heading",
@@ -75,6 +76,22 @@
         "align_text": "center",
         "narrow_column": true,
         "divider": true
+      }
+    },
+    "16635307690b920ed6": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/S-18_CamoPattern_LR.jpg",
+        "image_width": 700,
+        "subtitle": "S18 ™",
+        "title": "Visual Silence ™  Camo",
+        "text": "<p>Through our years in the field, we have taken our experiences and created an approach to camo and avoiding visual detection we feel is absolute perfection. We are not your run of the mill camo. This is a different approach – that yields different results.<\/p><p>It’s important to start with the right “zone” or target location in mind when creating a camo design. We surveyed dozens of hunters across the country and arrived at an average stand “mid-height” of 17.8 (18) feet. We then analyzed over 100 trees of the most predominant species found in the heart of whitetail country and arrived at an average branch size and density at this “18” foot mark for base of the S18 camo design. The core elements and foreground shapes in S18 closely mimic this average limb size and frequency. <\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "left",
+        "divider": false
       }
     },
     "16635258595860ce36": {
@@ -318,6 +335,7 @@
     "main",
     "16635254546ef5428d",
     "1663525667f4a777fc",
+    "16635307690b920ed6",
     "16635258595860ce36",
     "166352623732d8239e",
     "1663526372e776a19f",
