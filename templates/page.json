@@ -80,11 +80,39 @@
         "narrow_column": true,
         "divider": true
       }
+    },
+    "1663525667f4a777fc": {
+      "type": "rich-text",
+      "blocks": {
+        "166352566706ca7ee8-0": {
+          "type": "heading",
+          "settings": {
+            "title": "S18 ™ Visual Silence ™  Camo"
+          }
+        },
+        "166352566706ca7ee8-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "166352566706ca7ee8-0",
+        "166352566706ca7ee8-1"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
     }
   },
   "order": [
     "main",
     "166311991401495698",
-    "16635254546ef5428d"
+    "16635254546ef5428d",
+    "1663525667f4a777fc"
   ]
 }
