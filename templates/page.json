@@ -79,7 +79,7 @@
       "settings": {
         "align_text": "center",
         "narrow_column": true,
-        "divider": true
+        "divider": false
       }
     },
     "1663525667f4a777fc": {
