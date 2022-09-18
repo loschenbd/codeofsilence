@@ -203,7 +203,7 @@
         "button_style": "primary",
         "align_text": "left",
         "layout": "left",
-        "divider": false
+        "divider": true
       }
     },
     "1663526383d0131ac9": {
