@@ -53,10 +53,38 @@
         "align_text": "center",
         "divider": false
       }
+    },
+    "16635254546ef5428d": {
+      "type": "rich-text",
+      "blocks": {
+        "166352545497a71591-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Taking a Different Path"
+          }
+        },
+        "166352545497a71591-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p>Every technology Code of Silence develops and utilizes supports our key focuses of 100% silence, visual stealth, warmth \/ comfort, and ergonomic dexterity. Our technologies are far from “status quo” approaches however. These clearly represent different design strategies than have been seen in conventional systems. We’ve spent thousands of hours developing these designs and they are proven to be more effective in delivering in the field than traditional techniques. We are firm believers that that “if you want to get to a different place – you need to take a different path” and we are 100% confident you will agree that we have defined “a better way to go afield”.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "166352545497a71591-0",
+        "166352545497a71591-1"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": true
+      }
     }
   },
   "order": [
     "main",
-    "166311991401495698"
+    "166311991401495698",
+    "16635254546ef5428d"
   ]
 }
