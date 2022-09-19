@@ -16,6 +16,54 @@
         "divider": false
       }
     },
+    "16636145398fb5f75d": {
+      "type": "text-columns",
+      "blocks": {
+        "16636145390bf24613-0": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_width": 650,
+            "title": "Quiet",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "16636145390bf24613-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_width": 650,
+            "title": "Warm",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "16636145390bf24613-2": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image_width": 650,
+            "title": "Unseen",
+            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "16636145390bf24613-0",
+        "16636145390bf24613-1",
+        "16636145390bf24613-2"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "divider": false
+      }
+    },
     "main": {
       "type": "main-page",
       "disabled": true,
@@ -288,6 +336,7 @@
   },
   "order": [
     "16635306188b7a560a",
+    "16636145398fb5f75d",
     "main",
     "16635307690b920ed6",
     "16635258595860ce36",
