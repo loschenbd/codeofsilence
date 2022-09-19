@@ -119,6 +119,49 @@
         "autoplay_speed": 5
       }
     },
+    "1663613739136afda5": {
+      "type": "rich-text",
+      "blocks": {
+        "1663613739a694cc89-0": {
+          "type": "heading",
+          "settings": {
+            "title": ""
+          }
+        },
+        "1663613739a694cc89-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": ""
+          }
+        }
+      },
+      "block_order": [
+        "1663613739a694cc89-0",
+        "1663613739a694cc89-1"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": true
+      }
+    },
+    "16636136507fcfd86f": {
+      "type": "background-image-text",
+      "settings": {
+        "subtitle": "",
+        "title": "Redefining warmth",
+        "text": "<p>We do things differently...<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "image": "shopify:\/\/shop_images\/P1040838_LR.jpg",
+        "focal_point": "center",
+        "layout": "right",
+        "height": 550,
+        "parallax": true,
+        "parallax_direction": "top"
+      }
+    },
     "1663526372e776a19f": {
       "type": "text-and-image",
       "settings": {
@@ -249,6 +292,8 @@
     "16635307690b920ed6",
     "16635258595860ce36",
     "166352623732d8239e",
+    "1663613739136afda5",
+    "16636136507fcfd86f",
     "1663526372e776a19f",
     "1663526383d0131ac9",
     "16635295817249e67e",
