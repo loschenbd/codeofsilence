@@ -132,7 +132,7 @@
           "type": "text",
           "settings": {
             "enlarge_text": true,
-            "text": ""
+            "text": "<p> <\/p>"
           }
         }
       },
@@ -143,7 +143,7 @@
       "settings": {
         "align_text": "center",
         "narrow_column": true,
-        "divider": true
+        "divider": false
       }
     },
     "16636136507fcfd86f": {
