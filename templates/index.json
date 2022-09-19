@@ -90,10 +90,10 @@
             "link": "shopify:\/\/pages\/technologies",
             "link_text": "Learn More",
             "text_align": "vertical-bottom horizontal-left",
-            "image": "shopify:\/\/shop_images\/COS-67-squashed.jpg",
+            "image": "shopify:\/\/shop_images\/COS-69-squashed.jpg",
             "parallax_direction": "top",
             "overlay_opacity": 40,
-            "focal_point": "center center"
+            "focal_point": "top center"
           }
         },
         "1661548963b42854c4-1": {
