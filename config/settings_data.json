@@ -64,6 +64,23 @@
     "sections": {
       "header": {
         "type": "header",
+        "blocks": {
+          "c66cb783-657a-403c-8a4e-c9a2302423e7": {
+            "type": "megamenu",
+            "settings": {
+              "menu_item": "Technology",
+              "promo_heading_1": "",
+              "promo_text_1": "",
+              "promo_url_1": "",
+              "promo_heading_2": "",
+              "promo_text_2": "",
+              "promo_url_2": ""
+            }
+          }
+        },
+        "block_order": [
+          "c66cb783-657a-403c-8a4e-c9a2302423e7"
+        ],
         "settings": {
           "logo": "shopify:\/\/shop_images\/CodeOfSilenceLogo.png",
           "logo-inverted": "shopify:\/\/shop_images\/COS-logo-white.png",
