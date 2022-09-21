@@ -76,10 +76,24 @@
               "promo_text_2": "",
               "promo_url_2": ""
             }
+          },
+          "1ac63cea-4af0-45b8-a6b5-31274d99ab16": {
+            "type": "megamenu",
+            "settings": {
+              "menu_item": "Shop",
+              "promo_image_1": "shopify:\/\/shop_images\/cropped-cropped-cropped-cropped-COS_HunterWalkingInBranches_LR-1-1.jpg",
+              "promo_heading_1": "Fall 2022 Collection",
+              "promo_text_1": "Shop in-season products",
+              "promo_url_1": "shopify:\/\/collections\/verdigre",
+              "promo_heading_2": "",
+              "promo_text_2": "",
+              "promo_url_2": ""
+            }
           }
         },
         "block_order": [
-          "c66cb783-657a-403c-8a4e-c9a2302423e7"
+          "c66cb783-657a-403c-8a4e-c9a2302423e7",
+          "1ac63cea-4af0-45b8-a6b5-31274d99ab16"
         ],
         "settings": {
           "logo": "shopify:\/\/shop_images\/CodeOfSilenceLogo.png",
