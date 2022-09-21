@@ -67,7 +67,6 @@
         "blocks": {
           "c66cb783-657a-403c-8a4e-c9a2302423e7": {
             "type": "megamenu",
-            "disabled": true,
             "settings": {
               "menu_item": "Technology",
               "promo_heading_1": "",
