@@ -288,6 +288,7 @@
     },
     "1659909561dddf78a7": {
       "type": "text-and-image",
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/cropped-COS_HunterWithBuck1-1.jpg",
         "image_width": 700,
