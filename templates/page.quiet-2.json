@@ -348,41 +348,6 @@
     "16637971818c6bc368": {
       "type": "logo-list",
       "blocks": {
-        "166379718145cbae02-0": {
-          "type": "logo_image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/WindsealGoldOval.png",
-            "link": ""
-          }
-        },
-        "166379718145cbae02-1": {
-          "type": "logo_image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/WindsulationGoldOval.png",
-            "link": ""
-          }
-        },
-        "166379718145cbae02-2": {
-          "type": "logo_image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Neutral-LRGoldOval.png",
-            "link": ""
-          }
-        },
-        "166379718145cbae02-3": {
-          "type": "logo_image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/S18CamoGoldOval.png",
-            "link": ""
-          }
-        },
-        "ef69f18e-d10b-4785-a5d4-b69b94fff2a3": {
-          "type": "logo_image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/QuietLoftGoldOval.png",
-            "link": ""
-          }
-        },
         "8c82e885-f9d4-420e-ba03-8d3cdf54fce8": {
           "type": "logo_image",
           "settings": {
@@ -406,11 +371,6 @@
         }
       },
       "block_order": [
-        "166379718145cbae02-0",
-        "166379718145cbae02-1",
-        "166379718145cbae02-2",
-        "166379718145cbae02-3",
-        "ef69f18e-d10b-4785-a5d4-b69b94fff2a3",
         "8c82e885-f9d4-420e-ba03-8d3cdf54fce8",
         "1a21ddcc-86ce-4c0f-a398-e369c5ce0fa5",
         "6f861110-96e9-4596-9984-3f3debf5cc00"
