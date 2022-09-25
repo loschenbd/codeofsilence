@@ -16,6 +16,33 @@
         "parallax_direction": "top"
       }
     },
+    "166413811264617636": {
+      "type": "rich-text",
+      "blocks": {
+        "1664138111a45825ab-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Managing to 100% Silence"
+          }
+        },
+        "1664138111a45825ab-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p>As our brand name would suggest, delivering on the elimination of sound is a huge directive and commitment from our company. As a hunter, it is very easy to consider sound levels created by your gear such as drawing a bow, shouldering a firearm, stand noise as critical. We couldn’t agree more with the importance of these dynamics but in general, deer utilize and depend greatly on their hearing to detect “abnormalities” in their environment. Eliminating sound within your approach to your stand, sound created while climbing into your stand, and sound created while on stand are just as important, if not more important as sound created while operating your weapon. Sound, and more importantly the elimination of it, translates to alerting or not alerting deer to your presence. Said differently, detecting unnatural noises is a matter of life and death in the woods. <strong>Silence is obviously more than key to hunting… it is essentia<\/strong>l. “Unnatural noise” is like scent, the goal should not be to “reduce it”, the goal should clearly be to eliminate it. The difference between noise elimination and noise reduction is game changing. Every component and design feature of a COS product is built with this principle in mind.<\/p><p><strong>Absolute Zero Presence.<\/strong><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1664138111a45825ab-0",
+        "1664138111a45825ab-1"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
     "16635306188b7a560a": {
       "type": "text-and-image",
       "disabled": true,
@@ -397,22 +424,6 @@
         "divider": false
       }
     },
-    "1664137763ebc2618d": {
-      "type": "text-and-image",
-      "settings": {
-        "image": "shopify:\/\/shop_images\/cropped-cropped-cropped-cropped-COS_HunterWalkingInBranches_LR-1-1.jpg",
-        "image_width": 700,
-        "subtitle": "",
-        "title": "Managing to 100% Silence",
-        "text": "<p>As our brand name would suggest, delivering on the <strong>elimination of sound <\/strong>is a huge directive and commitment from our company. As a hunter, it is very easy to consider sound levels created by your gear such as drawing a bow, shouldering a firearm, stand noise as critical. We couldn’t agree more with the importance of these dynamics but in general, deer utilize and depend greatly on their hearing to detect “abnormalities” in their environment. Eliminating sound within your approach to your stand, sound created while climbing into your stand, and sound created while on stand are just as important, if not more important as sound created while operating your weapon. Sound, and more importantly the elimination of it, translates to alerting or not alerting deer to your presence. Said differently, d<strong>etecting unnatural noises is a matter of life and death in the woods. Silence is obviously more than key to hunting… it is essential. “Unnatural noise” is like scent, the goal should not be to “reduce it”, the goal should clearly be to eliminate it. The difference between noise elimination and noise reduction is game changing. Every component and design feature of a COS product is built with this principle in mind.<\/strong><\/p><p><strong>Absolute Zero  Presence.<\/strong><\/p>",
-        "button_label": "",
-        "button_link": "",
-        "button_style": "primary",
-        "align_text": "left",
-        "layout": "right",
-        "divider": false
-      }
-    },
     "166413799436efda2d": {
       "type": "rich-text",
       "blocks": {
@@ -471,36 +482,56 @@
         "space_around": true
       }
     },
-    "166413811264617636": {
-      "type": "rich-text",
+    "16641382325a835722": {
+      "type": "slideshow",
       "blocks": {
-        "1664138111a45825ab-0": {
-          "type": "heading",
+        "1664138231324cd142-0": {
+          "type": "image",
           "settings": {
-            "title": "Managing to 100% Silence"
+            "title": "Endless\npossibilities.",
+            "title_size": 80,
+            "subheading": "Bring your brand to life",
+            "link": "",
+            "link_text": "Optional button",
+            "text_align": "vertical-bottom horizontal-left",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "focal_point": "center center"
           }
         },
-        "1664138111a45825ab-1": {
-          "type": "text",
+        "1664138231324cd142-1": {
+          "type": "image",
           "settings": {
-            "enlarge_text": false,
-            "text": "<p>As our brand name would suggest, delivering on the elimination of sound is a huge directive and commitment from our company. As a hunter, it is very easy to consider sound levels created by your gear such as drawing a bow, shouldering a firearm, stand noise as critical. We couldn’t agree more with the importance of these dynamics but in general, deer utilize and depend greatly on their hearing to detect “abnormalities” in their environment. Eliminating sound within your approach to your stand, sound created while climbing into your stand, and sound created while on stand are just as important, if not more important as sound created while operating your weapon. Sound, and more importantly the elimination of it, translates to alerting or not alerting deer to your presence. Said differently, detecting unnatural noises is a matter of life and death in the woods. <strong>Silence is obviously more than key to hunting… it is essentia<\/strong>l. “Unnatural noise” is like scent, the goal should not be to “reduce it”, the goal should clearly be to eliminate it. The difference between noise elimination and noise reduction is game changing. Every component and design feature of a COS product is built with this principle in mind.<\/p><p><strong>Absolute Zero Presence.<\/strong><\/p>"
+            "title": "The Science of\nRemaining “Unnoticed”.",
+            "title_size": 40,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "text_align": "vertical-bottom horizontal-left",
+            "image": "shopify:\/\/shop_images\/COS-67-squashed.jpg",
+            "parallax_direction": "top",
+            "overlay_opacity": 0,
+            "focal_point": "center center"
           }
         }
       },
       "block_order": [
-        "1664138111a45825ab-0",
-        "1664138111a45825ab-1"
+        "1664138231324cd142-0",
+        "1664138231324cd142-1"
       ],
       "settings": {
-        "align_text": "center",
-        "narrow_column": true,
-        "divider": false
+        "section_height": "650px",
+        "mobile_height": "auto",
+        "parallax": true,
+        "style": "arrows",
+        "autoplay": true,
+        "autoplay_speed": 5
       }
     }
   },
   "order": [
     "1664138048bbd9473b",
+    "166413811264617636",
     "16635306188b7a560a",
     "16636145398fb5f75d",
     "main",
@@ -515,9 +546,8 @@
     "1663529672df593378",
     "1663529849d0469095",
     "16637971818c6bc368",
-    "1664137763ebc2618d",
     "166413799436efda2d",
     "166413785179d2586b",
-    "166413811264617636"
+    "16641382325a835722"
   ]
 }
