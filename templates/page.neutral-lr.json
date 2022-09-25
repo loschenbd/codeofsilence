@@ -1,5 +1,24 @@
 {
   "sections": {
+    "166414113925367ed9": {
+      "type": "rich-text",
+      "blocks": {
+        "1664141139554017f6-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Neutral-LR"
+          }
+        }
+      },
+      "block_order": [
+        "1664141139554017f6-0"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
     "16635306188b7a560a": {
       "type": "text-and-image",
       "settings": {
@@ -14,6 +33,22 @@
         "align_text": "left",
         "layout": "right",
         "divider": false
+      }
+    },
+    "1663526372e776a19f": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/GPTempDownload.jpg",
+        "image_width": 700,
+        "subtitle": "",
+        "title": "NATURAL “DRAB” COMPOSITION",
+        "text": "<p>Naturally “drab” is a constant in natural objects, particularly in Fall and Winter. Many factors go into managing to true mimicry of the “drabness” found in nature. What is not used in a product is as important as what is used. In shell fabrics for example – color, material types, ink types, ink densities, and surface textures are just a few of the dynamics that are relevant and that we manage to in our Neutral-LR process. The difference in managing to true “drabness” is extremely meaningful for hunters.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "left",
+        "divider": true
       }
     },
     "16636145398fb5f75d": {
@@ -216,23 +251,6 @@
         "parallax_direction": "top"
       }
     },
-    "1663526372e776a19f": {
-      "type": "text-and-image",
-      "disabled": true,
-      "settings": {
-        "image": "shopify:\/\/shop_images\/P1040864_LR.jpg",
-        "image_width": 700,
-        "subtitle": "",
-        "title": "What is Berber Wool?",
-        "text": "<p>This unique wool based high “pile” fabric is an extremely quiet, extremely warm and also presents a very dull \/ natural looking exterior appearance due to it’s high lofted “sherpa” style texture and knitted (not woven) base structure. The knitting technique we use is called “jacquard” knitting and the fibers are dyed prior to knitting so the saturation of inks is consistent throughout the entire thickness of the fabric after knitting is complete. Not only does this allow for less fading of the surface colors over time, it also lowers the levels of unnatural synthetics (such as inks) on the exterior surface as compared to “printed” fabrics where approximately 100% of the inks used in the printing are applied after the fabric is woven or knit so the inks are therefore condensed in the top 20% of the fabric’s exterior face. This allows our Berber Wool to appear extremely natural and better “absorb” light and appear more natural compared to other commonly used hunting fabrications.<\/p>",
-        "button_label": "",
-        "button_link": "",
-        "button_style": "primary",
-        "align_text": "left",
-        "layout": "left",
-        "divider": true
-      }
-    },
     "1663526383d0131ac9": {
       "type": "advanced-content",
       "disabled": true,
@@ -423,7 +441,9 @@
     }
   },
   "order": [
+    "166414113925367ed9",
     "16635306188b7a560a",
+    "1663526372e776a19f",
     "16636145398fb5f75d",
     "main",
     "16635307690b920ed6",
@@ -431,7 +451,6 @@
     "166352623732d8239e",
     "1663613739136afda5",
     "16636136507fcfd86f",
-    "1663526372e776a19f",
     "1663526383d0131ac9",
     "16635295817249e67e",
     "1663529672df593378",
