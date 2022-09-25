@@ -485,20 +485,6 @@
     "16641382325a835722": {
       "type": "slideshow",
       "blocks": {
-        "1664138231324cd142-0": {
-          "type": "image",
-          "settings": {
-            "title": "Endless\npossibilities.",
-            "title_size": 80,
-            "subheading": "Bring your brand to life",
-            "link": "",
-            "link_text": "Optional button",
-            "text_align": "vertical-bottom horizontal-left",
-            "parallax_direction": "top",
-            "overlay_opacity": 0,
-            "focal_point": "center center"
-          }
-        },
         "1664138231324cd142-1": {
           "type": "image",
           "settings": {
@@ -516,7 +502,6 @@
         }
       },
       "block_order": [
-        "1664138231324cd142-0",
         "1664138231324cd142-1"
       ],
       "settings": {
@@ -526,6 +511,26 @@
         "style": "arrows",
         "autoplay": true,
         "autoplay_speed": 5
+      }
+    },
+    "1664138382b72cbc76": {
+      "type": "rich-text",
+      "blocks": {
+        "16641383822681dea3-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p>While the term of “unnoticed” seems a little vague and a little “generalized”, we feel strongly this is likely #1 factor that contributes to getting (or not getting ) a mature whitetail in close. We’ve all been there – rustling leaves turn into glimpses of legs through the brush. Flashes of tines are confirmed as the heavy wide rack of a deer you’ve only seen on camera. What happens next is the difference that dreams are made of. As we say, “when years turn into seconds” you need everything possible to be working to your advantage, period. Our S18 camo pattern, our fabric designs and our commitment to our “Neutral-LR” technology provide that advantage. We promise the level of going “unnoticed” on stand you will experience with Code of Silence clothing is beyond anything you have ever experienced in the field.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "16641383822681dea3-1"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
       }
     }
   },
@@ -548,6 +553,7 @@
     "16637971818c6bc368",
     "166413799436efda2d",
     "166413785179d2586b",
-    "16641382325a835722"
+    "16641382325a835722",
+    "1664138382b72cbc76"
   ]
 }
