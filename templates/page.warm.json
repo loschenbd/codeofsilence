@@ -1,5 +1,32 @@
 {
   "sections": {
+    "16641367842c8820b9": {
+      "type": "rich-text",
+      "blocks": {
+        "1664136784d5e87769-0": {
+          "type": "heading",
+          "settings": {
+            "title": "“WARMTH”"
+          }
+        },
+        "1664136784d5e87769-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Stay on Stand Longer – We Guarantee it.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1664136784d5e87769-0",
+        "1664136784d5e87769-1"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
     "16635306188b7a560a": {
       "type": "text-and-image",
       "disabled": true,
@@ -406,6 +433,7 @@
     }
   },
   "order": [
+    "16641367842c8820b9",
     "16635306188b7a560a",
     "16636145398fb5f75d",
     "main",
