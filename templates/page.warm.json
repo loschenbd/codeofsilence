@@ -162,6 +162,93 @@
         "divider": false
       }
     },
+    "16637971818c6bc368": {
+      "type": "logo-list",
+      "blocks": {
+        "166379718145cbae02-0": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/WindsealGoldOval.png",
+            "link": ""
+          }
+        },
+        "166379718145cbae02-1": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/WindsulationGoldOval.png",
+            "link": ""
+          }
+        },
+        "ef69f18e-d10b-4785-a5d4-b69b94fff2a3": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/QuietLoftGoldOval.png",
+            "link": ""
+          }
+        },
+        "8c82e885-f9d4-420e-ba03-8d3cdf54fce8": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/BerberWoolGoldOval.png",
+            "link": ""
+          }
+        },
+        "1a21ddcc-86ce-4c0f-a398-e369c5ce0fa5": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/3XTricotGoldOval.png",
+            "link": ""
+          }
+        },
+        "6f861110-96e9-4596-9984-3f3debf5cc00": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/FleeceWoolGoldOval.png",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "166379718145cbae02-0",
+        "166379718145cbae02-1",
+        "ef69f18e-d10b-4785-a5d4-b69b94fff2a3",
+        "8c82e885-f9d4-420e-ba03-8d3cdf54fce8",
+        "1a21ddcc-86ce-4c0f-a398-e369c5ce0fa5",
+        "6f861110-96e9-4596-9984-3f3debf5cc00"
+      ],
+      "settings": {
+        "title": "Warmth Technologies",
+        "logo_opacity": 100,
+        "divider": false
+      }
+    },
+    "1664137442e97c6b32": {
+      "type": "rich-text",
+      "blocks": {
+        "1664137442db84af25-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Using “Air” to Insulate"
+          }
+        },
+        "1664137442db84af25-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>The other key factor in maintaining warmth is obviously insulation. “Insulation” meaning all technologies and products used in the attempt to conserve and leverage body heat, but more importantly, the AIR that is (or often isn’t) incorporated into the garment design and strategy. Nature’s best insulator by far is air, period. Nothing else even comes close and don’t believe anything different. High loft fabrics, synthetic insulations and natural products such as down work well at helping to manage warmth due almost entirely to their ability to trap and hold air. Our technologies and design techniques leverage this simple and proven principle to maximize the benefits of air while also keeping garment bulk to a minimum. This is a very hard combination to pull off but one that must be achieved to ensure warmth in the field while maintaining enough dexterity to effectively and comfortably hunt. Our “multiple layer” (up to 5 in the Coldfjall Series) design techniques in our cold weather products allow for “layering within a layer” and maximization of the above principles. <\/p><p>No more dreading leaving the truck, pack your gear and leave the rest up to us.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1664137442db84af25-0",
+        "1664137442db84af25-1"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
     "16635306188b7a560a": {
       "type": "text-and-image",
       "disabled": true,
@@ -489,93 +576,6 @@
         "align_text": "center",
         "divider": true
       }
-    },
-    "16637971818c6bc368": {
-      "type": "logo-list",
-      "blocks": {
-        "166379718145cbae02-0": {
-          "type": "logo_image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/WindsealGoldOval.png",
-            "link": ""
-          }
-        },
-        "166379718145cbae02-1": {
-          "type": "logo_image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/WindsulationGoldOval.png",
-            "link": ""
-          }
-        },
-        "ef69f18e-d10b-4785-a5d4-b69b94fff2a3": {
-          "type": "logo_image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/QuietLoftGoldOval.png",
-            "link": ""
-          }
-        },
-        "8c82e885-f9d4-420e-ba03-8d3cdf54fce8": {
-          "type": "logo_image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/BerberWoolGoldOval.png",
-            "link": ""
-          }
-        },
-        "1a21ddcc-86ce-4c0f-a398-e369c5ce0fa5": {
-          "type": "logo_image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/3XTricotGoldOval.png",
-            "link": ""
-          }
-        },
-        "6f861110-96e9-4596-9984-3f3debf5cc00": {
-          "type": "logo_image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/FleeceWoolGoldOval.png",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "166379718145cbae02-0",
-        "166379718145cbae02-1",
-        "ef69f18e-d10b-4785-a5d4-b69b94fff2a3",
-        "8c82e885-f9d4-420e-ba03-8d3cdf54fce8",
-        "1a21ddcc-86ce-4c0f-a398-e369c5ce0fa5",
-        "6f861110-96e9-4596-9984-3f3debf5cc00"
-      ],
-      "settings": {
-        "title": "Warmth Technologies",
-        "logo_opacity": 100,
-        "divider": false
-      }
-    },
-    "1664137442e97c6b32": {
-      "type": "rich-text",
-      "blocks": {
-        "1664137442db84af25-0": {
-          "type": "heading",
-          "settings": {
-            "title": "Using “Air” to Insulate"
-          }
-        },
-        "1664137442db84af25-1": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": true,
-            "text": "<p>The other key factor in maintaining warmth is obviously insulation. “Insulation” meaning all technologies and products used in the attempt to conserve and leverage body heat, but more importantly, the AIR that is (or often isn’t) incorporated into the garment design and strategy. Nature’s best insulator by far is air, period. Nothing else even comes close and don’t believe anything different. High loft fabrics, synthetic insulations and natural products such as down work well at helping to manage warmth due almost entirely to their ability to trap and hold air. Our technologies and design techniques leverage this simple and proven principle to maximize the benefits of air while also keeping garment bulk to a minimum. This is a very hard combination to pull off but one that must be achieved to ensure warmth in the field while maintaining enough dexterity to effectively and comfortably hunt. Our “multiple layer” (up to 5 in the Coldfjall Series) design techniques in our cold weather products allow for “layering within a layer” and maximization of the above principles. <\/p><p>No more dreading leaving the truck, pack your gear and leave the rest up to us.<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "1664137442db84af25-0",
-        "1664137442db84af25-1"
-      ],
-      "settings": {
-        "align_text": "center",
-        "narrow_column": true,
-        "divider": false
-      }
     }
   },
   "order": [
@@ -584,6 +584,8 @@
     "1664136844f09eab5b",
     "1664137152543f6712",
     "1664137137ec52c21b",
+    "16637971818c6bc368",
+    "1664137442e97c6b32",
     "16635306188b7a560a",
     "16636145398fb5f75d",
     "main",
@@ -595,8 +597,6 @@
     "1663526383d0131ac9",
     "16635295817249e67e",
     "1663529672df593378",
-    "1663529849d0469095",
-    "16637971818c6bc368",
-    "1664137442e97c6b32"
+    "1663529849d0469095"
   ]
 }
