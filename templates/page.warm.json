@@ -231,8 +231,8 @@
       "type": "background-image-text",
       "settings": {
         "subtitle": "",
-        "title": "Redefining warmth",
-        "text": "<p>We do things differently...<\/p>",
+        "title": "Comfort in the Field",
+        "text": "<p>Warmth Ratings Defined<\/p>",
         "button_label": "",
         "button_link": "",
         "image": "shopify:\/\/shop_images\/P1040838_LR.jpg",
@@ -430,6 +430,57 @@
         "logo_opacity": 100,
         "divider": false
       }
+    },
+    "1664136844f09eab5b": {
+      "type": "text-columns",
+      "blocks": {
+        "166413684428cf6483-0": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/1.WarmDialNEW.png",
+            "image_width": 650,
+            "title": "VERDGRE: 20° TO 50° F",
+            "text": "<p>Our Verdigre Series is the most versatile gear we have in the line. The full “Fleece-Wool” construction makes this series the right choice for active scenarios and covering ground to and from the stand. Fleece-Wool is absolutely dead quiet, wears well and has less friction in thicker brush than our Berber-Wool. We purposely left out all of our barriers in this series to allow it to breathe better and work well under activity. <\/p>",
+            "button_label": "Shop Verdigre",
+            "button_link": ""
+          }
+        },
+        "166413684428cf6483-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/2.WarmDialNEW.png",
+            "image_width": 650,
+            "title": "ZONE7-VERSA: 10° TO  40° F",
+            "text": "<p>Average temps in peak rut in the Midwest average is around 35°. Basically, 20’s at night and mid 40’s in the day. Noting and “living” this life, we built this line to match those conditions and also adapt to both the lower and upper ends of these ranges. Berber-Wool, WindSeal-TC3 mid barrier and our lining fabric team to make an incredible package. Fleece-Wool panels on the pant legs and inside arm panels allow for better movement and shooting function when needed. <\/p>",
+            "button_label": "Shop Zone7",
+            "button_link": ""
+          }
+        },
+        "166413684428cf6483-2": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/4.WarmDialNEW.png",
+            "image_width": 650,
+            "title": "COLDFJALL : -10° TO – 20° F",
+            "text": "<p>We feel this is hands down the best cold weather system for extended stand hunting available anywhere, period. There are 5 layers of technologies in these designs which creates a unique “layering system inside a layer” scenario. WindSeal TC3 barrier, our exclusive new “Windsulation” insulation barrier and our QuietLoft insulation work to create an incredibly efficient warmth without excessive bulk deliverable. This gear is made and designed to be put on at the stand for best results. <\/p>",
+            "button_label": "Shop Coldfjall",
+            "button_link": "shopify:\/\/collections\/coldfjall"
+          }
+        }
+      },
+      "block_order": [
+        "166413684428cf6483-0",
+        "166413684428cf6483-1",
+        "166413684428cf6483-2"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "divider": false
+      }
     }
   },
   "order": [
@@ -447,6 +498,7 @@
     "16635295817249e67e",
     "1663529672df593378",
     "1663529849d0469095",
-    "16637971818c6bc368"
+    "16637971818c6bc368",
+    "1664136844f09eab5b"
   ]
 }
