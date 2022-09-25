@@ -94,6 +94,74 @@
         "divider": false
       }
     },
+    "1664137152543f6712": {
+      "type": "fading-images",
+      "blocks": {
+        "1664137152ca3c06ad-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/P1040809_LR.jpg",
+            "focal_point": "center center",
+            "slide_title1": "Elimination of Moisture",
+            "slide_title2": ""
+          }
+        },
+        "7efa08e2-cc78-4865-936a-24e9fa4ca10f": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/cropped-DSC_4279_954e5ad7-f71d-44e3-92fb-a57a2e8e317f.jpg",
+            "focal_point": "center center",
+            "slide_title1": "Using “Air” to Insulate",
+            "slide_title2": ""
+          }
+        }
+      },
+      "block_order": [
+        "1664137152ca3c06ad-2",
+        "7efa08e2-cc78-4865-936a-24e9fa4ca10f"
+      ],
+      "settings": {
+        "title_lines": "1",
+        "title_font": "body",
+        "title_size": 45,
+        "title_color": "#ffffff",
+        "title_bg_color": "rgba(0,0,0,0)",
+        "text_align": "vertical-center horizontal-center",
+        "link": "",
+        "slide_speed": 5,
+        "color_overlay": "#000",
+        "color_overlay_opacity": 30,
+        "desktop_height": "750px",
+        "mobile_height": "auto"
+      }
+    },
+    "1664137137ec52c21b": {
+      "type": "rich-text",
+      "blocks": {
+        "1664137137a09d6e80-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Elimination of Moisture"
+          }
+        },
+        "1664137137a09d6e80-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p>The saying goes “warmth is relative”… but let’s face it, when the harsh cold sets in, most of the time, you ultimately dread leaving a nice warm truck and walking out into the darkness to climb into a stand, and we are willing to bet there has been a time or two you were too cold to stay there once you got there… <\/p><p>A lot goes into “staying warm” in the field, and while there truly isn’t a “magic system” that can keep any bit of cold from reaching you, our gear is undoubtedly as good or better as it gets for keeping you warm when it matters most, period. <\/p><p>The major secret to staying warm revolves around moisture – and not the “reduction” of it as is often mentioned but the “ELIMINATION” of it. In trying to “eliminate” moisture, a person must adhere to firm principles and a strict process. “Going in light” and layering at the tree or while in the stand as you cool down is paramount to avoid a layer of sweat on the body. At the same time, breathability is also hyper-critical. Don’t be fooled by claims that laminated products can “breathe”, and if you believe otherwise, put a laminated shell over your sleeping bag at zero degrees some night and see how that goes. The fact is laminates cannot breathe at even close to the level that you need them too in order to keep you warm while remaining stationary for extended periods of time. Code of Silence’s technologies effectively stop all wind velocities and trap in body heat while breathing substantially better than laminated products. This is the right combination of performance dynamics to keep you warm while stationary and the difference is undeniable.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1664137137a09d6e80-0",
+        "1664137137a09d6e80-1"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
     "16635306188b7a560a": {
       "type": "text-and-image",
       "disabled": true,
@@ -481,12 +549,41 @@
         "logo_opacity": 100,
         "divider": false
       }
+    },
+    "1664137442e97c6b32": {
+      "type": "rich-text",
+      "blocks": {
+        "1664137442db84af25-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Using “Air” to Insulate"
+          }
+        },
+        "1664137442db84af25-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>The other key factor in maintaining warmth is obviously insulation. “Insulation” meaning all technologies and products used in the attempt to conserve and leverage body heat, but more importantly, the AIR that is (or often isn’t) incorporated into the garment design and strategy. Nature’s best insulator by far is air, period. Nothing else even comes close and don’t believe anything different. High loft fabrics, synthetic insulations and natural products such as down work well at helping to manage warmth due almost entirely to their ability to trap and hold air. Our technologies and design techniques leverage this simple and proven principle to maximize the benefits of air while also keeping garment bulk to a minimum. This is a very hard combination to pull off but one that must be achieved to ensure warmth in the field while maintaining enough dexterity to effectively and comfortably hunt. Our “multiple layer” (up to 5 in the Coldfjall Series) design techniques in our cold weather products allow for “layering within a layer” and maximization of the above principles. <\/p><p>No more dreading leaving the truck, pack your gear and leave the rest up to us.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1664137442db84af25-0",
+        "1664137442db84af25-1"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
     }
   },
   "order": [
     "16641367842c8820b9",
     "16636136507fcfd86f",
     "1664136844f09eab5b",
+    "1664137152543f6712",
+    "1664137137ec52c21b",
     "16635306188b7a560a",
     "16636145398fb5f75d",
     "main",
@@ -499,6 +596,7 @@
     "16635295817249e67e",
     "1663529672df593378",
     "1663529849d0469095",
-    "16637971818c6bc368"
+    "16637971818c6bc368",
+    "1664137442e97c6b32"
   ]
 }
