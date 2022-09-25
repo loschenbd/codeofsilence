@@ -420,6 +420,17 @@
         "logo_opacity": 100,
         "divider": false
       }
+    },
+    "16641398921b4651f1": {
+      "type": "featured-collection-switcher",
+      "settings": {
+        "title": "QuietLoft Gear",
+        "collection1": "zone7-versa",
+        "collection2": "coldfjall",
+        "per_row": 4,
+        "view_all": false,
+        "divider": false
+      }
     }
   },
   "order": [
@@ -436,6 +447,7 @@
     "16635295817249e67e",
     "1663529672df593378",
     "1663529849d0469095",
-    "16637971818c6bc368"
+    "16637971818c6bc368",
+    "16641398921b4651f1"
   ]
 }
