@@ -101,42 +101,42 @@
           "type": "logo_image",
           "settings": {
             "image": "shopify:\/\/shop_images\/WindsealGoldOval.png",
-            "link": ""
+            "link": "shopify:\/\/pages\/windseal"
           }
         },
         "166379718145cbae02-1": {
           "type": "logo_image",
           "settings": {
             "image": "shopify:\/\/shop_images\/WindsulationGoldOval.png",
-            "link": ""
+            "link": "shopify:\/\/pages\/windsulation"
           }
         },
         "ef69f18e-d10b-4785-a5d4-b69b94fff2a3": {
           "type": "logo_image",
           "settings": {
             "image": "shopify:\/\/shop_images\/QuietLoftGoldOval.png",
-            "link": ""
+            "link": "shopify:\/\/pages\/quietloft"
           }
         },
         "8c82e885-f9d4-420e-ba03-8d3cdf54fce8": {
           "type": "logo_image",
           "settings": {
             "image": "shopify:\/\/shop_images\/BerberWoolGoldOval.png",
-            "link": ""
+            "link": "shopify:\/\/pages\/berber-wool"
           }
         },
         "1a21ddcc-86ce-4c0f-a398-e369c5ce0fa5": {
           "type": "logo_image",
           "settings": {
             "image": "shopify:\/\/shop_images\/3XTricotGoldOval.png",
-            "link": ""
+            "link": "shopify:\/\/pages\/3x-tricot"
           }
         },
         "6f861110-96e9-4596-9984-3f3debf5cc00": {
           "type": "logo_image",
           "settings": {
             "image": "shopify:\/\/shop_images\/FleeceWoolGoldOval.png",
-            "link": ""
+            "link": "shopify:\/\/pages\/berber-fleece"
           }
         }
       },
