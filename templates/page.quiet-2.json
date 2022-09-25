@@ -23,21 +23,21 @@
           "type": "logo_image",
           "settings": {
             "image": "shopify:\/\/shop_images\/BerberWoolGoldOval.png",
-            "link": ""
+            "link": "shopify:\/\/pages\/berber-wool"
           }
         },
         "1a21ddcc-86ce-4c0f-a398-e369c5ce0fa5": {
           "type": "logo_image",
           "settings": {
             "image": "shopify:\/\/shop_images\/3XTricotGoldOval.png",
-            "link": ""
+            "link": "shopify:\/\/pages\/3x-tricot"
           }
         },
         "6f861110-96e9-4596-9984-3f3debf5cc00": {
           "type": "logo_image",
           "settings": {
             "image": "shopify:\/\/shop_images\/FleeceWoolGoldOval.png",
-            "link": ""
+            "link": "shopify:\/\/pages\/berber-fleece"
           }
         }
       },
