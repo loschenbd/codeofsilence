@@ -16,6 +16,42 @@
         "parallax_direction": "top"
       }
     },
+    "16637971818c6bc368": {
+      "type": "logo-list",
+      "blocks": {
+        "8c82e885-f9d4-420e-ba03-8d3cdf54fce8": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/BerberWoolGoldOval.png",
+            "link": ""
+          }
+        },
+        "1a21ddcc-86ce-4c0f-a398-e369c5ce0fa5": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/3XTricotGoldOval.png",
+            "link": ""
+          }
+        },
+        "6f861110-96e9-4596-9984-3f3debf5cc00": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/FleeceWoolGoldOval.png",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "8c82e885-f9d4-420e-ba03-8d3cdf54fce8",
+        "1a21ddcc-86ce-4c0f-a398-e369c5ce0fa5",
+        "6f861110-96e9-4596-9984-3f3debf5cc00"
+      ],
+      "settings": {
+        "title": "",
+        "logo_opacity": 100,
+        "divider": false
+      }
+    },
     "166413811264617636": {
       "type": "rich-text",
       "blocks": {
@@ -388,42 +424,6 @@
         "divider": true
       }
     },
-    "16637971818c6bc368": {
-      "type": "logo-list",
-      "blocks": {
-        "8c82e885-f9d4-420e-ba03-8d3cdf54fce8": {
-          "type": "logo_image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/BerberWoolGoldOval.png",
-            "link": ""
-          }
-        },
-        "1a21ddcc-86ce-4c0f-a398-e369c5ce0fa5": {
-          "type": "logo_image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/3XTricotGoldOval.png",
-            "link": ""
-          }
-        },
-        "6f861110-96e9-4596-9984-3f3debf5cc00": {
-          "type": "logo_image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/FleeceWoolGoldOval.png",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "8c82e885-f9d4-420e-ba03-8d3cdf54fce8",
-        "1a21ddcc-86ce-4c0f-a398-e369c5ce0fa5",
-        "6f861110-96e9-4596-9984-3f3debf5cc00"
-      ],
-      "settings": {
-        "title": "",
-        "logo_opacity": 100,
-        "divider": false
-      }
-    },
     "166413799436efda2d": {
       "type": "rich-text",
       "blocks": {
@@ -536,6 +536,7 @@
   },
   "order": [
     "1664138048bbd9473b",
+    "16637971818c6bc368",
     "166413811264617636",
     "16635306188b7a560a",
     "16636145398fb5f75d",
@@ -550,7 +551,6 @@
     "16635295817249e67e",
     "1663529672df593378",
     "1663529849d0469095",
-    "16637971818c6bc368",
     "166413799436efda2d",
     "166413785179d2586b",
     "16641382325a835722",
