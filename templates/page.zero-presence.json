@@ -1,5 +1,53 @@
 {
   "sections": {
+    "1664139035bf1ff46e": {
+      "type": "background-image-text",
+      "settings": {
+        "subtitle": "“Zero Presence” Defined",
+        "title": "A truly  “holistic approach”",
+        "text": "<p>The term “Zero Presence” is a term we use to define the importance of a “holistic” and comprehensive approach to hunting and more specifically, the “pressure” we create on an area through our activities. <\/p>",
+        "button_label": "",
+        "button_link": "",
+        "image": "shopify:\/\/shop_images\/Screen_Shot_2022-09-25_at_3.48.56_PM.png",
+        "focal_point": "center",
+        "layout": "left",
+        "height": 450,
+        "parallax": true,
+        "parallax_direction": "top"
+      }
+    },
+    "16635307690b920ed6": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Evtimberwalk_LR.jpg",
+        "image_width": 700,
+        "subtitle": "",
+        "title": "Soft vs. Hard Skills",
+        "text": "<p>A hunter’s “soft skills” on managing pressure on his or her hunting area is as critical- if not more critical than his or her “hard skills”. Said differently, critical skills such as shooting skill or stand site determination for example are semi-meaningless if your hunting area is “pressured”. Basically, in our view, you are only as good as your hunting area is “natural”. You simply can’t harvest deer that won’t move in day light, and this applies even more deeply when considering mature animals. <\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "left",
+        "divider": false
+      }
+    },
+    "1663526372e776a19f": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/IMAG0107-scaled_7c9c5028-873a-47cd-bcd9-d17020bbea9d.jpg",
+        "image_width": 700,
+        "subtitle": "",
+        "title": "A 365-Day Approach",
+        "text": "<p>“Zero presence” is a mindset and commitment to 24\/7\/365 holistic management of your hunting area and your approach. EVERYTHING MATTERS – maintain a natural environment and keep your presence and your activities undetected and deer will act naturally and are meaningfully more vulnerable. All aspects of our products are designed to support this level of commitment to remaining undetected and keeping your hunting environment as unpressured as possible. While this is a 365 day approach and philosophy, the game never gets more satisfying or the results never better. Everything we design and everything we practice supports this holistic and critical philosophy.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "right",
+        "divider": false
+      }
+    },
     "16635306188b7a560a": {
       "type": "text-and-image",
       "disabled": true,
@@ -70,22 +118,6 @@
       "type": "main-page",
       "disabled": true,
       "settings": {
-      }
-    },
-    "16635307690b920ed6": {
-      "type": "text-and-image",
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Evtimberwalk_LR.jpg",
-        "image_width": 700,
-        "subtitle": "",
-        "title": "Soft vs. Hard Skills",
-        "text": "<p>A hunter’s “soft skills” on managing pressure on his or her hunting area is as critical- if not more critical than his or her “hard skills”. Said differently, critical skills such as shooting skill or stand site determination for example are semi-meaningless if your hunting area is “pressured”. Basically, in our view, you are only as good as your hunting area is “natural”. You simply can’t harvest deer that won’t move in day light, and this applies even more deeply when considering mature animals. <\/p>",
-        "button_label": "",
-        "button_link": "",
-        "button_style": "primary",
-        "align_text": "left",
-        "layout": "left",
-        "divider": false
       }
     },
     "16635258595860ce36": {
@@ -214,22 +246,6 @@
         "height": 550,
         "parallax": true,
         "parallax_direction": "top"
-      }
-    },
-    "1663526372e776a19f": {
-      "type": "text-and-image",
-      "settings": {
-        "image": "shopify:\/\/shop_images\/IMAG0107-scaled_7c9c5028-873a-47cd-bcd9-d17020bbea9d.jpg",
-        "image_width": 700,
-        "subtitle": "",
-        "title": "A 365-Day Approach",
-        "text": "<p>“Zero presence” is a mindset and commitment to 24\/7\/365 holistic management of your hunting area and your approach. EVERYTHING MATTERS – maintain a natural environment and keep your presence and your activities undetected and deer will act naturally and are meaningfully more vulnerable. All aspects of our products are designed to support this level of commitment to remaining undetected and keeping your hunting environment as unpressured as possible. While this is a 365 day approach and philosophy, the game never gets more satisfying or the results never better. Everything we design and everything we practice supports this holistic and critical philosophy.<\/p>",
-        "button_label": "",
-        "button_link": "",
-        "button_style": "primary",
-        "align_text": "left",
-        "layout": "right",
-        "divider": false
       }
     },
     "1663526383d0131ac9": {
@@ -422,15 +438,16 @@
     }
   },
   "order": [
+    "1664139035bf1ff46e",
+    "16635307690b920ed6",
+    "1663526372e776a19f",
     "16635306188b7a560a",
     "16636145398fb5f75d",
     "main",
-    "16635307690b920ed6",
     "16635258595860ce36",
     "166352623732d8239e",
     "1663613739136afda5",
     "16636136507fcfd86f",
-    "1663526372e776a19f",
     "1663526383d0131ac9",
     "16635295817249e67e",
     "1663529672df593378",
