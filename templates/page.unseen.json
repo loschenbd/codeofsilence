@@ -352,28 +352,28 @@
           "type": "logo_image",
           "settings": {
             "image": "shopify:\/\/shop_images\/Neutral-LRGoldOval.png",
-            "link": ""
+            "link": "shopify:\/\/pages\/nuetral-lr"
           }
         },
         "166379718145cbae02-3": {
           "type": "logo_image",
           "settings": {
             "image": "shopify:\/\/shop_images\/S18CamoGoldOval.png",
-            "link": ""
+            "link": "shopify:\/\/pages\/s-18-camo"
           }
         },
         "8c82e885-f9d4-420e-ba03-8d3cdf54fce8": {
           "type": "logo_image",
           "settings": {
             "image": "shopify:\/\/shop_images\/BerberWoolGoldOval.png",
-            "link": ""
+            "link": "shopify:\/\/pages\/berber-wool"
           }
         },
         "6f861110-96e9-4596-9984-3f3debf5cc00": {
           "type": "logo_image",
           "settings": {
             "image": "shopify:\/\/shop_images\/FleeceWoolGoldOval.png",
-            "link": ""
+            "link": "shopify:\/\/pages\/berber-fleece"
           }
         }
       },
