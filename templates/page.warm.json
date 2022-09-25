@@ -40,7 +40,7 @@
         "layout": "right",
         "height": 750,
         "parallax": true,
-        "parallax_direction": "left"
+        "parallax_direction": "top"
       }
     },
     "1664136844f09eab5b": {
