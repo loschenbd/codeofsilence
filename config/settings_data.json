@@ -106,7 +106,7 @@
           "sticky_index": true,
           "sticky_collection": false,
           "show_announcement": true,
-          "announcement_text": "Free shipping for orders over $100!",
+          "announcement_text": "Free shipping on orders over $100!",
           "announcement_link": "",
           "announcement_closable": true
         }
