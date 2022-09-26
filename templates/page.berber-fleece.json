@@ -42,15 +42,61 @@
         "space_around": true
       }
     },
-    "1663947763fbceafb8": {
-      "type": "featured-collection-switcher",
+    "16642285354ea90b72": {
+      "type": "featured-collections",
+      "blocks": {
+        "1664228535b0e95f11-0": {
+          "type": "collection",
+          "settings": {
+            "collection": "verdigre",
+            "focal_point": "center center",
+            "size": "tall"
+          }
+        },
+        "1664228535b0e95f11-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "zone7-versa",
+            "focal_point": "center center",
+            "size": "tall"
+          }
+        },
+        "1664228535b0e95f11-2": {
+          "type": "collection",
+          "settings": {
+            "collection": "coldfjall",
+            "focal_point": "center center",
+            "size": "tall"
+          }
+        },
+        "1664228535b0e95f11-3": {
+          "type": "collection",
+          "settings": {
+            "collection": "lifestyle",
+            "focal_point": "center center",
+            "size": "square-small"
+          }
+        },
+        "1664228535b0e95f11-4": {
+          "type": "collection",
+          "settings": {
+            "collection": "accessories",
+            "focal_point": "center center",
+            "size": "square-small"
+          }
+        }
+      },
+      "block_order": [
+        "1664228535b0e95f11-0",
+        "1664228535b0e95f11-1",
+        "1664228535b0e95f11-2",
+        "1664228535b0e95f11-3",
+        "1664228535b0e95f11-4"
+      ],
       "settings": {
-        "title": "Most popular",
-        "collection1": "",
-        "collection2": "",
-        "per_row": 4,
-        "view_all": true,
-        "divider": false
+        "title": "",
+        "divider": false,
+        "enable_gutter": false
       }
     }
   },
@@ -58,6 +104,6 @@
     "main",
     "16635295817249e67e",
     "1663529672df593378",
-    "1663947763fbceafb8"
+    "16642285354ea90b72"
   ]
 }
