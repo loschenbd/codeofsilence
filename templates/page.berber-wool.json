@@ -48,31 +48,31 @@
         "166394766247f25eea-0": {
           "type": "collection",
           "settings": {
-            "collection": "",
+            "collection": "verdigre",
             "focal_point": "center center",
-            "size": "wide"
+            "size": "tall"
           }
         },
         "166394766247f25eea-1": {
           "type": "collection",
           "settings": {
-            "collection": "",
+            "collection": "zone7-versa",
             "focal_point": "center center",
-            "size": "square-small"
+            "size": "tall"
           }
         },
         "166394766247f25eea-2": {
           "type": "collection",
           "settings": {
-            "collection": "",
+            "collection": "accessories",
             "focal_point": "center center",
-            "size": "square-small"
+            "size": "tall"
           }
         },
         "166394766247f25eea-3": {
           "type": "collection",
           "settings": {
-            "collection": "",
+            "collection": "lifestyle",
             "focal_point": "center center",
             "size": "square-small"
           }
@@ -80,17 +80,9 @@
         "166394766247f25eea-4": {
           "type": "collection",
           "settings": {
-            "collection": "",
+            "collection": "accessories",
             "focal_point": "center center",
             "size": "square-small"
-          }
-        },
-        "166394766247f25eea-5": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "focal_point": "center center",
-            "size": "wide"
           }
         }
       },
@@ -99,11 +91,10 @@
         "166394766247f25eea-1",
         "166394766247f25eea-2",
         "166394766247f25eea-3",
-        "166394766247f25eea-4",
-        "166394766247f25eea-5"
+        "166394766247f25eea-4"
       ],
       "settings": {
-        "title": "Collection list",
+        "title": "",
         "divider": false,
         "enable_gutter": false
       }
