@@ -49,7 +49,7 @@
         "collection1": "zone7-versa",
         "collection2": "coldfjall",
         "per_row": 4,
-        "view_all": true,
+        "view_all": false,
         "divider": false
       }
     }
