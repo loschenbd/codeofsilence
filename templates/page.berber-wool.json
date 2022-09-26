@@ -42,61 +42,15 @@
         "space_around": true
       }
     },
-    "1663947662a7463101": {
-      "type": "featured-collections",
-      "blocks": {
-        "166394766247f25eea-0": {
-          "type": "collection",
-          "settings": {
-            "collection": "verdigre",
-            "focal_point": "center center",
-            "size": "tall"
-          }
-        },
-        "166394766247f25eea-1": {
-          "type": "collection",
-          "settings": {
-            "collection": "zone7-versa",
-            "focal_point": "center center",
-            "size": "tall"
-          }
-        },
-        "166394766247f25eea-2": {
-          "type": "collection",
-          "settings": {
-            "collection": "accessories",
-            "focal_point": "center center",
-            "size": "tall"
-          }
-        },
-        "166394766247f25eea-3": {
-          "type": "collection",
-          "settings": {
-            "collection": "lifestyle",
-            "focal_point": "center center",
-            "size": "square-small"
-          }
-        },
-        "166394766247f25eea-4": {
-          "type": "collection",
-          "settings": {
-            "collection": "accessories",
-            "focal_point": "center center",
-            "size": "square-small"
-          }
-        }
-      },
-      "block_order": [
-        "166394766247f25eea-0",
-        "166394766247f25eea-1",
-        "166394766247f25eea-2",
-        "166394766247f25eea-3",
-        "166394766247f25eea-4"
-      ],
+    "166422864061cf39a6": {
+      "type": "featured-collection-switcher",
       "settings": {
-        "title": "",
-        "divider": false,
-        "enable_gutter": false
+        "title": "Berber Wool Collections",
+        "collection1": "zone7-versa",
+        "collection2": "coldfjall",
+        "per_row": 4,
+        "view_all": true,
+        "divider": false
       }
     }
   },
@@ -104,6 +58,6 @@
     "main",
     "1663526372e776a19f",
     "1663526383d0131ac9",
-    "1663947662a7463101"
+    "166422864061cf39a6"
   ]
 }
