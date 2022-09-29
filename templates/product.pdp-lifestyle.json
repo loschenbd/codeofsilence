@@ -108,6 +108,7 @@
     },
     "background-image-text": {
       "type": "background-image-text",
+      "disabled": true,
       "settings": {
         "subtitle": "Impressive",
         "title": "Large image with text box",
@@ -124,6 +125,7 @@
     },
     "16617113552bcdc3fe": {
       "type": "advanced-content",
+      "disabled": true,
       "blocks": {
         "1661711355cb5d8b06-0": {
           "type": "image",
