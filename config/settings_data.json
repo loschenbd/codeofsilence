@@ -135,7 +135,7 @@
           "image_position": "left",
           "show_social_icons": false,
           "enable_newsletter": true,
-          "button_label": "Optional button",
+          "button_label": "",
           "button_link": ""
         }
       },
