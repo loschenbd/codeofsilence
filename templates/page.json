@@ -18,11 +18,12 @@
     },
     "16636145398fb5f75d": {
       "type": "text-columns",
+      "disabled": true,
       "blocks": {
         "16636145390bf24613-0": {
           "type": "text_block",
           "settings": {
-            "enable_image": true,
+            "enable_image": false,
             "image_width": 650,
             "title": "Quiet",
             "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.<\/p>",
