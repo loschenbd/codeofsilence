@@ -6,6 +6,33 @@
       "settings": {
       }
     },
+    "6c676d85-84bc-44b9-823e-76b1b6a1ec3f": {
+      "type": "rich-text",
+      "blocks": {
+        "template--14450314215496__6c676d85-84bc-44b9-823e-76b1b6a1ec3f-1665691693b64581fd-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Contest Details"
+          }
+        },
+        "template--14450314215496__6c676d85-84bc-44b9-823e-76b1b6a1ec3f-1665691693b64581fd-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>1 WINNER.<\/p><p>Package to include all 3 sets (size of choice on each) Also include 1 beanie and 1 pair of gloves) This will be a pop-up graphic for the COS website<\/p><p><\/p><p>Package includes:<\/p><p>Verdigre Hoodie $140<\/p><p>Verdigre Pant $130<\/p><p>Verdigre Clove $25<\/p><p>Veridgre Cap $20<\/p><p>Zone Versa 7 Hooded Jacket $170<\/p><p>Zone Versa 7 Pant $160<\/p><p>Coldfjall Parka $250<\/p><p>Coldfjall Bib $240<\/p><p>Coldfjall Balaclava $40<\/p><p><\/p><p>$1175 Total Value<\/p><p><\/p><p>From Bill Winke \"I chose Code of Silence for the 2022 season because of the warmth of Berber, it's very quiet, and it breaks up the human form in the tree stand. I'm very excited about this new outerwear line.\"<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--14450314215496__6c676d85-84bc-44b9-823e-76b1b6a1ec3f-1665691693b64581fd-0",
+        "template--14450314215496__6c676d85-84bc-44b9-823e-76b1b6a1ec3f-1665691693b64581fd-1"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
     "fde941ee-b545-4118-8c53-e412c885ba05": {
       "type": "collection-callout",
       "settings": {
@@ -57,7 +84,7 @@
         "template--14450314215496__0ddda053-7aa7-4a23-a96b-23ce24c916dd-1665691546821399b8-1": {
           "type": "liquid",
           "settings": {
-            "code": "<h2>Custom content<\/h2><p>Use this advanced section to build your own layouts or to add custom HTML, Liquid, or scripts.<\/p>",
+            "code": "<div class=\"klaviyo-form-VKXYje\"><\/div>",
             "width": "100%",
             "alignment": "center"
           }
@@ -70,41 +97,14 @@
         "full_width": false,
         "space_around": true
       }
-    },
-    "6c676d85-84bc-44b9-823e-76b1b6a1ec3f": {
-      "type": "rich-text",
-      "blocks": {
-        "template--14450314215496__6c676d85-84bc-44b9-823e-76b1b6a1ec3f-1665691693b64581fd-0": {
-          "type": "heading",
-          "settings": {
-            "title": "Contest Details"
-          }
-        },
-        "template--14450314215496__6c676d85-84bc-44b9-823e-76b1b6a1ec3f-1665691693b64581fd-1": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": true,
-            "text": "<p>1 WINNER.<\/p><p>Package to include all 3 sets (size of choice on each) Also include 1 beanie and 1 pair of gloves) This will be a pop-up graphic for the COS website<\/p><p><\/p><p>Package includes:<\/p><p>Verdigre Hoodie $140<\/p><p>Verdigre Pant $130<\/p><p>Verdigre Clove $25<\/p><p>Veridgre Cap $20<\/p><p>Zone Versa 7 Hooded Jacket $170<\/p><p>Zone Versa 7 Pant $160<\/p><p>Coldfjall Parka $250<\/p><p>Coldfjall Bib $240<\/p><p>Coldfjall Balaclava $40<\/p><p><\/p><p>$1175 Total Value<\/p><p><\/p><p>From Bill Winke \"I chose Code of Silence for the 2022 season because of the warmth of Berber, it's very quiet, and it breaks up the human form in the tree stand. I'm very excited about this new outerwear line.\"<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "template--14450314215496__6c676d85-84bc-44b9-823e-76b1b6a1ec3f-1665691693b64581fd-0",
-        "template--14450314215496__6c676d85-84bc-44b9-823e-76b1b6a1ec3f-1665691693b64581fd-1"
-      ],
-      "settings": {
-        "align_text": "center",
-        "narrow_column": true,
-        "divider": false
-      }
     }
   },
   "order": [
     "main",
+    "6c676d85-84bc-44b9-823e-76b1b6a1ec3f",
     "fde941ee-b545-4118-8c53-e412c885ba05",
     "6f846692-f2dc-47ed-a1a2-3cf65a622ae0",
     "f5fbf16f-1f58-428c-9a6c-5962f6e1ae78",
-    "0ddda053-7aa7-4a23-a96b-23ce24c916dd",
-    "6c676d85-84bc-44b9-823e-76b1b6a1ec3f"
+    "0ddda053-7aa7-4a23-a96b-23ce24c916dd"
   ]
 }
