@@ -24,19 +24,30 @@
         "space_around": true
       }
     },
-    "94bd8261-df8e-4559-b59c-17787e26f41a": {
-      "type": "text-and-image",
+    "4fc83a9d-e4fe-40f2-b6e6-94e8e2bf085d": {
+      "type": "rich-text",
+      "blocks": {
+        "template--14450314215496__4fc83a9d-e4fe-40f2-b6e6-94e8e2bf085d-166569671649f56fa3-0": {
+          "type": "heading",
+          "settings": {
+            "title": "What's Included?"
+          }
+        },
+        "template--14450314215496__4fc83a9d-e4fe-40f2-b6e6-94e8e2bf085d-166569671649f56fa3-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p>All three sets below will go to the winner!<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--14450314215496__4fc83a9d-e4fe-40f2-b6e6-94e8e2bf085d-166569671649f56fa3-0",
+        "template--14450314215496__4fc83a9d-e4fe-40f2-b6e6-94e8e2bf085d-166569671649f56fa3-1"
+      ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/WinkeBuck2021-16-2.jpg",
-        "image_width": 700,
-        "subtitle": "Field Proven by",
-        "title": "Bill Winke",
-        "text": "<p>\"I chose Code of Silence for the 2022 season because of the warmth of Berber, it's very quiet, and it breaks up the human form in the tree stand. I'm very excited about this new outerwear line.\"<\/p>",
-        "button_label": "",
-        "button_link": "",
-        "button_style": "primary",
-        "align_text": "left",
-        "layout": "right",
+        "align_text": "center",
+        "narrow_column": true,
         "divider": false
       }
     },
@@ -82,6 +93,22 @@
         "cta_text2": "",
         "cta_link2": "",
         "layout": "left",
+        "divider": false
+      }
+    },
+    "94bd8261-df8e-4559-b59c-17787e26f41a": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/WinkeBuck2021-16-2.jpg",
+        "image_width": 700,
+        "subtitle": "Field Proven by",
+        "title": "Bill Winke",
+        "text": "<p>\"I chose Code of Silence for the 2022 season because of the warmth of Berber, it's very quiet, and it breaks up the human form in the tree stand. I'm very excited about this new outerwear line.\"<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "right",
         "divider": false
       }
     },
@@ -134,10 +161,11 @@
   "order": [
     "main",
     "1665694554b0b020db",
-    "94bd8261-df8e-4559-b59c-17787e26f41a",
+    "4fc83a9d-e4fe-40f2-b6e6-94e8e2bf085d",
     "fde941ee-b545-4118-8c53-e412c885ba05",
     "6f846692-f2dc-47ed-a1a2-3cf65a622ae0",
     "f5fbf16f-1f58-428c-9a6c-5962f6e1ae78",
+    "94bd8261-df8e-4559-b59c-17787e26f41a",
     "6c676d85-84bc-44b9-823e-76b1b6a1ec3f",
     "166569504865b043dc"
   ]
