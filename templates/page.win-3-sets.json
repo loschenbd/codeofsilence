@@ -25,12 +25,12 @@
       "type": "collection-callout",
       "settings": {
         "collection": "zone7-versa",
-        "subtitle": "Brand new",
-        "title": "Collection callout",
+        "subtitle": "Mid-season",
+        "title": "Zone7-Versa Series",
         "text": "Use this section to easily call attention to one of your collections. We'll show photos of the first 5 products.",
-        "cta_text1": "Shop Jackets",
+        "cta_text1": "learn More",
         "cta_link1": "",
-        "cta_text2": "Shop All Mens",
+        "cta_text2": "",
         "cta_link2": "",
         "layout": "right",
         "divider": false
@@ -40,14 +40,14 @@
       "type": "collection-callout",
       "settings": {
         "collection": "coldfjall",
-        "subtitle": "Brand new",
-        "title": "Collection callout",
+        "subtitle": "Our Warmest Gear",
+        "title": "Coldfjall",
         "text": "Use this section to easily call attention to one of your collections. We'll show photos of the first 5 products.",
-        "cta_text1": "Shop Jackets",
+        "cta_text1": "Learn More",
         "cta_link1": "",
-        "cta_text2": "Shop All Mens",
+        "cta_text2": "",
         "cta_link2": "",
-        "layout": "right",
+        "layout": "left",
         "divider": false
       }
     },
