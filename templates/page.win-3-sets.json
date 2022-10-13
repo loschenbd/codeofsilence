@@ -6,37 +6,96 @@
       "settings": {
       }
     },
-    "rich-text": {
-      "type": "rich-text",
+    "fde941ee-b545-4118-8c53-e412c885ba05": {
+      "type": "collection-callout",
+      "settings": {
+        "collection": "verdigre",
+        "subtitle": "Early Season",
+        "title": "Verdigre Series",
+        "text": "Use this section to easily call attention to one of your collections. We'll show photos of the first 5 products.",
+        "cta_text1": "Learn More",
+        "cta_link1": "",
+        "cta_text2": "",
+        "cta_link2": "",
+        "layout": "left",
+        "divider": false
+      }
+    },
+    "6f846692-f2dc-47ed-a1a2-3cf65a622ae0": {
+      "type": "collection-callout",
+      "settings": {
+        "collection": "zone7-versa",
+        "subtitle": "Brand new",
+        "title": "Collection callout",
+        "text": "Use this section to easily call attention to one of your collections. We'll show photos of the first 5 products.",
+        "cta_text1": "Shop Jackets",
+        "cta_link1": "",
+        "cta_text2": "Shop All Mens",
+        "cta_link2": "",
+        "layout": "right",
+        "divider": false
+      }
+    },
+    "f5fbf16f-1f58-428c-9a6c-5962f6e1ae78": {
+      "type": "collection-callout",
+      "settings": {
+        "collection": "coldfjall",
+        "subtitle": "Brand new",
+        "title": "Collection callout",
+        "text": "Use this section to easily call attention to one of your collections. We'll show photos of the first 5 products.",
+        "cta_text1": "Shop Jackets",
+        "cta_link1": "",
+        "cta_text2": "Shop All Mens",
+        "cta_link2": "",
+        "layout": "right",
+        "divider": false
+      }
+    },
+    "6aef77fd-6461-44de-9404-079f38ff8696": {
+      "type": "featured-collections",
       "blocks": {
-        "heading": {
-          "type": "heading",
+        "template--14450314215496__6aef77fd-6461-44de-9404-079f38ff8696-16656906329fa23bfd-0": {
+          "type": "collection",
           "settings": {
-            "title": "Get in touch"
+            "collection": "verdigre",
+            "focal_point": "center center",
+            "size": "tall"
           }
         },
-        "text": {
-          "type": "text",
+        "template--14450314215496__6aef77fd-6461-44de-9404-079f38ff8696-16656906329fa23bfd-1": {
+          "type": "collection",
           "settings": {
+            "collection": "zone7-versa",
+            "focal_point": "center center",
+            "size": "tall"
+          }
+        },
+        "template--14450314215496__6aef77fd-6461-44de-9404-079f38ff8696-16656906329fa23bfd-2": {
+          "type": "collection",
+          "settings": {
+            "collection": "coldfjall",
+            "focal_point": "center center",
+            "size": "tall"
           }
         }
       },
       "block_order": [
-        "heading",
-        "text"
+        "template--14450314215496__6aef77fd-6461-44de-9404-079f38ff8696-16656906329fa23bfd-0",
+        "template--14450314215496__6aef77fd-6461-44de-9404-079f38ff8696-16656906329fa23bfd-1",
+        "template--14450314215496__6aef77fd-6461-44de-9404-079f38ff8696-16656906329fa23bfd-2"
       ],
       "settings": {
-      }
-    },
-    "form": {
-      "type": "contact-form",
-      "settings": {
+        "title": "Collection list",
+        "divider": false,
+        "enable_gutter": false
       }
     }
   },
   "order": [
     "main",
-    "rich-text",
-    "form"
+    "fde941ee-b545-4118-8c53-e412c885ba05",
+    "6f846692-f2dc-47ed-a1a2-3cf65a622ae0",
+    "f5fbf16f-1f58-428c-9a6c-5962f6e1ae78",
+    "6aef77fd-6461-44de-9404-079f38ff8696"
   ]
 }
