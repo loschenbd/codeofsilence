@@ -24,6 +24,22 @@
         "space_around": true
       }
     },
+    "94bd8261-df8e-4559-b59c-17787e26f41a": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/WinkeBuck2021-16-2.jpg",
+        "image_width": 700,
+        "subtitle": "",
+        "title": "Bill Winke",
+        "text": "<p>\"I chose Code of Silence for the 2022 season because of the warmth of Berber, it's very quiet, and it breaks up the human form in the tree stand. I'm very excited about this new outerwear line.\"<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "right",
+        "divider": false
+      }
+    },
     "fde941ee-b545-4118-8c53-e412c885ba05": {
       "type": "collection-callout",
       "settings": {
@@ -69,24 +85,6 @@
         "divider": false
       }
     },
-    "166569504865b043dc": {
-      "type": "apps",
-      "blocks": {
-        "24547af3-342f-45e9-8d6c-1654c0d39e9c": {
-          "type": "shopify:\/\/apps\/klaviyo-email-marketing-sms\/blocks\/form-embed-block\/2632fe16-c075-4321-a88b-50b567f42507",
-          "settings": {
-            "formId": "VKXYje"
-          }
-        }
-      },
-      "block_order": [
-        "24547af3-342f-45e9-8d6c-1654c0d39e9c"
-      ],
-      "settings": {
-        "full_width": false,
-        "space_around": true
-      }
-    },
     "6c676d85-84bc-44b9-823e-76b1b6a1ec3f": {
       "type": "rich-text",
       "blocks": {
@@ -113,15 +111,34 @@
         "narrow_column": true,
         "divider": false
       }
+    },
+    "166569504865b043dc": {
+      "type": "apps",
+      "blocks": {
+        "24547af3-342f-45e9-8d6c-1654c0d39e9c": {
+          "type": "shopify:\/\/apps\/klaviyo-email-marketing-sms\/blocks\/form-embed-block\/2632fe16-c075-4321-a88b-50b567f42507",
+          "settings": {
+            "formId": "VKXYje"
+          }
+        }
+      },
+      "block_order": [
+        "24547af3-342f-45e9-8d6c-1654c0d39e9c"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true
+      }
     }
   },
   "order": [
     "main",
     "1665694554b0b020db",
+    "94bd8261-df8e-4559-b59c-17787e26f41a",
     "fde941ee-b545-4118-8c53-e412c885ba05",
     "6f846692-f2dc-47ed-a1a2-3cf65a622ae0",
     "f5fbf16f-1f58-428c-9a6c-5962f6e1ae78",
-    "166569504865b043dc",
-    "6c676d85-84bc-44b9-823e-76b1b6a1ec3f"
+    "6c676d85-84bc-44b9-823e-76b1b6a1ec3f",
+    "166569504865b043dc"
   ]
 }
