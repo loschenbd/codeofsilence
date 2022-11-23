@@ -131,7 +131,7 @@
         "settings": {
           "mode": false,
           "disable_for_account_holders": false,
-          "popup_seconds": 5,
+          "popup_seconds": 2,
           "popup_days": 30,
           "popup_title": "Buy a Camo Jacket, Get Pants 50% off!",
           "popup_text": "<p>Buy either a Verdigre Jacket, Versa Zone-7 Jacket or Coldfjall Parka, and get the matching pants at 50% off. Discount will appear in the cart at checkout. Offer expires 8am on 12\/1\/22.<\/p>",
