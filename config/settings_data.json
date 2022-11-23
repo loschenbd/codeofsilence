@@ -129,7 +129,7 @@
           "reminder-block"
         ],
         "settings": {
-          "mode": false,
+          "mode": true,
           "disable_for_account_holders": false,
           "popup_seconds": 2,
           "popup_days": 2,
