@@ -374,6 +374,7 @@
     },
     "collection-callout": {
       "type": "collection-callout",
+      "disabled": true,
       "settings": {
         "collection": "verdigre",
         "subtitle": "In Season",
@@ -391,46 +392,16 @@
       "type": "background-image-text",
       "disabled": true,
       "settings": {
-        "subtitle": "CYBER CAMO SPECIAL",
-        "title": "Buy a Camo Jacket, Get Pants 50% off!",
-        "text": "<p>Buy either a Verdigre Jacket, Versa Zone-7 Jacket, or Coldfjall Parka and get the matching pants at 50% off. Discount will appear in the cart at checkout. Limited time offer expires 8 am EST on 12\/1\/22.<\/p>",
+        "subtitle": "Impressive",
+        "title": "Large image and text",
+        "text": "<p>Pair large text with a full-width image to draw attention to an important detail of your brand or product line.<\/p>",
         "button_label": "",
         "button_link": "",
-        "focal_point": "80% 0",
+        "focal_point": "center",
         "layout": "left",
-        "height": 750,
-        "parallax": false,
-        "parallax_direction": "left"
-      }
-    },
-    "97ab5320-c8d9-414f-a3c5-4b2634d57d32": {
-      "type": "advanced-content",
-      "blocks": {
-        "template--14359203381320__97ab5320-c8d9-414f-a3c5-4b2634d57d32-1669181329f27dcb6c-0": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/COS-BFCM-1080x1080.jpg",
-            "link": "",
-            "width": "66%",
-            "alignment": "center"
-          }
-        },
-        "template--14359203381320__97ab5320-c8d9-414f-a3c5-4b2634d57d32-1669181329f27dcb6c-1": {
-          "type": "liquid",
-          "settings": {
-            "code": "<h2>Buy a Camo Jacket, Get Pants 50% off!<\/h2><p>Buy either a Verdigre Jacket, Versa Zone-7 Jacket, or Coldfjall Parka and get the matching pants at 50% off. Discount will appear in the cart at checkout. Limited time offer expires 8 am EST on 12\/1\/22.<\/p>",
-            "width": "66%",
-            "alignment": "center"
-          }
-        }
-      },
-      "block_order": [
-        "template--14359203381320__97ab5320-c8d9-414f-a3c5-4b2634d57d32-1669181329f27dcb6c-0",
-        "template--14359203381320__97ab5320-c8d9-414f-a3c5-4b2634d57d32-1669181329f27dcb6c-1"
-      ],
-      "settings": {
-        "full_width": false,
-        "space_around": true
+        "height": 650,
+        "parallax": true,
+        "parallax_direction": "top"
       }
     }
   },
@@ -445,7 +416,6 @@
     "1659909386c55c710c",
     "1661549659f1e33c97",
     "collection-callout",
-    "background-image-text",
-    "97ab5320-c8d9-414f-a3c5-4b2634d57d32"
+    "background-image-text"
   ]
 }
