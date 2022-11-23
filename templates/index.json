@@ -374,7 +374,6 @@
     },
     "collection-callout": {
       "type": "collection-callout",
-      "disabled": true,
       "settings": {
         "collection": "verdigre",
         "subtitle": "In Season",
