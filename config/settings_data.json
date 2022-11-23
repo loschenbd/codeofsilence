@@ -130,15 +130,16 @@
         ],
         "settings": {
           "mode": false,
-          "disable_for_account_holders": true,
+          "disable_for_account_holders": false,
           "popup_seconds": 5,
           "popup_days": 30,
-          "popup_title": "Sign up and save",
-          "popup_text": "<p>Entice customers to sign up for your mailing list with discounts or exclusive offers. Include an image for extra impact.<\/p>",
+          "popup_title": "Buy a Camo Jacket, Get Pants 50% off!",
+          "popup_text": "<p>Buy either a Verdigre Jacket, Versa Zone-7 Jacket or Coldfjall Parka, and get the matching pants at 50% off. Discount will appear in the cart at checkout. Offer expires 8am on 12\/1\/22.<\/p>",
+          "popup_image": "shopify:\/\/shop_images\/COS-BFCM-1080x1080.jpg",
           "image_position": "left",
           "show_social_icons": false,
-          "enable_newsletter": true,
-          "button_label": "",
+          "enable_newsletter": false,
+          "button_label": "SHOP NOW",
           "button_link": ""
         }
       },
