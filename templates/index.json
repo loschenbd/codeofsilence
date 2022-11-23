@@ -418,7 +418,7 @@
         "template--14359203381320__97ab5320-c8d9-414f-a3c5-4b2634d57d32-1669181329f27dcb6c-1": {
           "type": "liquid",
           "settings": {
-            "code": "<h2>CYBER CAMO SPECIAL!<\/h2><p>Buy either a Verdigre Jacket, Versa Zone-7 Jacket, or Coldfjall Parka and get the matching pants at 50% off. Discount will appear in the cart at checkout. Limited time offer expires 8 am EST on 12\/1\/22.<\/p>",
+            "code": "<h2>Buy a Camo Jacket, Get Pants 50% off!<\/h2><p>Buy either a Verdigre Jacket, Versa Zone-7 Jacket, or Coldfjall Parka and get the matching pants at 50% off. Discount will appear in the cart at checkout. Limited time offer expires 8 am EST on 12\/1\/22.<\/p>",
             "width": "66%",
             "alignment": "center"
           }
