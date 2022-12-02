@@ -402,6 +402,54 @@
         "parallax": true,
         "parallax_direction": "top"
       }
+    },
+    "8fd49cd4-aa0e-4661-81ab-c890d9314ab4": {
+      "type": "featured-product",
+      "blocks": {
+        "template--14359203381320__8fd49cd4-aa0e-4661-81ab-c890d9314ab4-1669993040caa22932-1": {
+          "type": "separator",
+          "settings": {
+          }
+        },
+        "template--14359203381320__8fd49cd4-aa0e-4661-81ab-c890d9314ab4-1669993040caa22932-2": {
+          "type": "variant_picker",
+          "settings": {
+            "variant_labels": true,
+            "picker_type": "button",
+            "color_swatches": false
+          }
+        },
+        "template--14359203381320__8fd49cd4-aa0e-4661-81ab-c890d9314ab4-1669993040caa22932-3": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "surface_pickup_enable": true
+          }
+        },
+        "template--14359203381320__8fd49cd4-aa0e-4661-81ab-c890d9314ab4-1669993040caa22932-4": {
+          "type": "description",
+          "settings": {
+            "is_tab": false
+          }
+        }
+      },
+      "block_order": [
+        "template--14359203381320__8fd49cd4-aa0e-4661-81ab-c890d9314ab4-1669993040caa22932-1",
+        "template--14359203381320__8fd49cd4-aa0e-4661-81ab-c890d9314ab4-1669993040caa22932-2",
+        "template--14359203381320__8fd49cd4-aa0e-4661-81ab-c890d9314ab4-1669993040caa22932-3",
+        "template--14359203381320__8fd49cd4-aa0e-4661-81ab-c890d9314ab4-1669993040caa22932-4"
+      ],
+      "settings": {
+        "featured_product": "code-of-silence-gift-card",
+        "divider": false,
+        "sku_enable": false,
+        "image_size": "small",
+        "product_zoom_enable": true,
+        "thumbnail_position": "beside",
+        "thumbnail_arrows": false,
+        "enable_video_looping": true,
+        "product_video_style": "muted"
+      }
     }
   },
   "order": [
@@ -415,6 +463,7 @@
     "1659909386c55c710c",
     "1661549659f1e33c97",
     "collection-callout",
-    "background-image-text"
+    "background-image-text",
+    "8fd49cd4-aa0e-4661-81ab-c890d9314ab4"
   ]
 }
