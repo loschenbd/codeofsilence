@@ -403,6 +403,26 @@
         "parallax_direction": "top"
       }
     },
+    "6b815fc5-28bd-433b-9092-207362d43ee2": {
+      "type": "rich-text",
+      "blocks": {
+        "431d89f0-705b-4032-a284-742b8f71d511": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>We now offer Gift Cards!<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "431d89f0-705b-4032-a284-742b8f71d511"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
     "8fd49cd4-aa0e-4661-81ab-c890d9314ab4": {
       "type": "featured-product",
       "blocks": {
@@ -464,6 +484,7 @@
     "1661549659f1e33c97",
     "collection-callout",
     "background-image-text",
+    "6b815fc5-28bd-433b-9092-207362d43ee2",
     "8fd49cd4-aa0e-4661-81ab-c890d9314ab4"
   ]
 }
