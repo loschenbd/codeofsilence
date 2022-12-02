@@ -84,11 +84,10 @@
             "type": "megamenu",
             "settings": {
               "menu_item": "Shop",
-              "promo_image_1": "shopify:\/\/shop_images\/cropped-cropped-cropped-cropped-COS_HunterWalkingInBranches_LR-1-1.jpg",
-              "promo_heading_1": "Fall 2022 Collection",
-              "promo_text_1": "Shop in-season products",
-              "promo_url_1": "shopify:\/\/collections\/verdigre",
-              "promo_image_2": "shopify:\/\/shop_images\/GiftCard.1.png",
+              "promo_image_1": "shopify:\/\/shop_images\/GiftCard.1.png",
+              "promo_heading_1": "Give the Gift of CoS",
+              "promo_text_1": "We Now Offer Gift Cards",
+              "promo_url_1": "shopify:\/\/products\/code-of-silence-gift-card",
               "promo_heading_2": "",
               "promo_text_2": "",
               "promo_url_2": ""
