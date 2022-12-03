@@ -12,13 +12,15 @@
         "template--14484094419016__1d1a82fd-f153-4d87-ba6b-57208feef267-16701109994794616b-0": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/golden-autumn-leaves.jpg",
             "focal_point": "center center",
-            "slide_title1": "Beautifully animated",
-            "slide_title2": "titles and images"
+            "slide_title1": "Policies and Information",
+            "slide_title2": "Frequently Asked Questions"
           }
         },
         "template--14484094419016__1d1a82fd-f153-4d87-ba6b-57208feef267-16701109994794616b-1": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "focal_point": "center center",
             "slide_title1": "Use this section",
@@ -27,6 +29,7 @@
         },
         "template--14484094419016__1d1a82fd-f153-4d87-ba6b-57208feef267-16701109994794616b-2": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "focal_point": "center center",
             "slide_title1": "And highlight",
