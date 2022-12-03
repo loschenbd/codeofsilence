@@ -2,18 +2,111 @@
   "sections": {
     "main": {
       "type": "main-404",
+      "disabled": true,
       "settings": {
       }
     },
     "featured-collection": {
       "type": "featured-collection",
+      "disabled": true,
       "settings": {
-        "title": "Popular picks"
+        "title": "Popular picks",
+        "home_featured_products": "",
+        "per_row": 4,
+        "rows": 1,
+        "view_all": true,
+        "divider": false
+      }
+    },
+    "82b48355-2dac-4af0-a053-db6dbcee1ac2": {
+      "type": "blog-posts",
+      "disabled": true,
+      "settings": {
+        "title": "Blog posts",
+        "blog": "news",
+        "post_limit": 3,
+        "blog_show_tags": false,
+        "blog_show_date": true,
+        "blog_show_comments": false,
+        "blog_show_author": false,
+        "view_all": true,
+        "divider": false
+      }
+    },
+    "c4db00bd-b5b8-45ad-bcd4-075177a91217": {
+      "type": "fading-images",
+      "blocks": {
+        "template--14359202758728__c4db00bd-b5b8-45ad-bcd4-075177a91217-16701071754ad87fba-0": {
+          "type": "image",
+          "settings": {
+            "focal_point": "center center",
+            "slide_title1": "Beautifully animated",
+            "slide_title2": "titles and images"
+          }
+        },
+        "template--14359202758728__c4db00bd-b5b8-45ad-bcd4-075177a91217-16701071754ad87fba-1": {
+          "type": "image",
+          "settings": {
+            "focal_point": "center center",
+            "slide_title1": "Use this section",
+            "slide_title2": "to impress customers"
+          }
+        },
+        "template--14359202758728__c4db00bd-b5b8-45ad-bcd4-075177a91217-16701071754ad87fba-2": {
+          "type": "image",
+          "settings": {
+            "focal_point": "center center",
+            "slide_title1": "And highlight",
+            "slide_title2": "important details"
+          }
+        }
+      },
+      "block_order": [
+        "template--14359202758728__c4db00bd-b5b8-45ad-bcd4-075177a91217-16701071754ad87fba-0",
+        "template--14359202758728__c4db00bd-b5b8-45ad-bcd4-075177a91217-16701071754ad87fba-1",
+        "template--14359202758728__c4db00bd-b5b8-45ad-bcd4-075177a91217-16701071754ad87fba-2"
+      ],
+      "settings": {
+        "title_lines": "2",
+        "title_font": "body",
+        "title_size": 45,
+        "title_color": "#ffffff",
+        "title_bg_color": "rgba(0,0,0,0)",
+        "text_align": "vertical-center horizontal-center",
+        "link": "",
+        "slide_speed": 5,
+        "color_overlay": "#000",
+        "color_overlay_opacity": 30,
+        "desktop_height": "650px",
+        "mobile_height": "auto"
+      }
+    },
+    "4e44370e-28e7-4b12-a392-2cb140f5265d": {
+      "type": "rich-text",
+      "blocks": {
+        "template--14359202758728__4e44370e-28e7-4b12-a392-2cb140f5265d-1670107242c8c7d2ef-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p><\/p><p><strong>Warranty<br\/><\/strong>Code of Silence takes great pride in making high quality - highly functional products that perform well in the field and last under the stresses of the hard-core duty they were designed for. Without a doubt, we stand behind out products. If any of our products fail to perform in the field or break down under normal use, please feel free to return the item to us and we will be fair in our assessment of the failure and “make it right” according to any lack of performance or quality issue. Possible and typical outcomes include: full refund of the purchase price, partial refund of the purchase price, manual exchange for a similar item.<\/p><p><strong>What is not covered under our Warranty: <br\/><\/strong>- Waterproofness<br\/>- Pilling of shell fabrics<br\/>- Burr and \/ or seed retention in the shell fabrics <br\/>- Issues due to mistreatment such as tears etc. <\/p><p><strong>Returns \/ Refunds<br\/><\/strong>You may return most new, undamaged items purchased through our online store within 30 days of receipt for a full refund of the purchase price of the item(s). If you purchase a substitute item(s) to replace the item(s) you are returning, Code of Silence will pay return shipping on any item returned in re-sellable condition (unused, contained in original packaging, all tags attached and no dirt or animal hair etc. on the product). COS will only pay for the return shipping “once per transaction” however. If you wish to return an item that fits in the criteria mentioned above, please visit our return portal at ____________ .<\/p><p><strong>Return \/ Refund Processing Timeframe<br\/><\/strong>Expect to receive your refund of the item you are returning within 30 days of turn-over of your package to the return shipper. It can take less time and it is probable that you will receive your refund more quickly. Note that we have to allow for the transit time for us to receive your return from the shipper, the time it takes us to process your return, and the time it takes your bank to process our refund request. <\/p><p><strong>Exclusions<br\/><\/strong>Items purchased from a retailer must be returned to the retailer they were purchased from within that retailer’s return or exchange time frame. <\/p><p><strong>Exchanges<br\/><\/strong>For clarity, please understand that while we do not offer “exchanges” in the traditional sense of the word, when you return an unused and unaltered item to us postage paid and you are re-ordering a new item of your choice, this transaction is very similar to an “exchange”. In basic form, you are rebuying a similar item while we verify the acceptability of your previously purchased item for restocking and fulfill the refund of the original transaction. Please note that this format allows you to receive a substitute item in a much quicker timeframe than a traditional “exchange” would provide.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--14359202758728__4e44370e-28e7-4b12-a392-2cb140f5265d-1670107242c8c7d2ef-1"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
       }
     }
   },
   "order": [
     "main",
-    "featured-collection"
+    "featured-collection",
+    "82b48355-2dac-4af0-a053-db6dbcee1ac2",
+    "c4db00bd-b5b8-45ad-bcd4-075177a91217",
+    "4e44370e-28e7-4b12-a392-2cb140f5265d"
   ]
 }
