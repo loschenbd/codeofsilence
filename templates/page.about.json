@@ -12,13 +12,13 @@
         "slideshow-0": {
           "type": "image",
           "settings": {
-            "title": "WARRANTY • RETURNS",
-            "title_size": 49,
-            "subheading": "",
+            "title": "Why Code of Silence?",
+            "title_size": 80,
+            "subheading": "Because the need for better hunting clothing is obvious and undeniably real.",
             "link": "",
             "link_text": "",
             "text_align": "vertical-bottom horizontal-center",
-            "image": "shopify:\/\/shop_images\/golden-autumn-leaves.jpg",
+            "image": "shopify:\/\/shop_images\/DSC_1111-squashed.jpg",
             "parallax_direction": "top",
             "overlay_opacity": 0,
             "focal_point": "center center"
@@ -37,6 +37,22 @@
         "autoplay_speed": 7
       }
     },
+    "1661546982ac2b7964": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/COS_icon_24213ebd-a639-499a-8bdd-6f0ca2f8c47c.png",
+        "image_width": 700,
+        "subtitle": "Embracing Better",
+        "title": "The Reason Code of Silence is Different",
+        "text": "",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "left",
+        "divider": false
+      }
+    },
     "rich-text": {
       "type": "rich-text",
       "blocks": {
@@ -44,7 +60,7 @@
           "type": "text",
           "settings": {
             "enlarge_text": false,
-            "text": "<p><strong>Warranty<br\/><\/strong>Code of Silence takes great pride in making high quality - highly functional products that perform well in the field and last under the stresses of the hard-core duty they were designed for. Without a doubt, we stand behind out products. If any of our products fail to perform in the field or break down under normal use, please feel free to return the item to us and we will be fair in our assessment of the failure and “make it right” according to any lack of performance or quality issue. Possible and typical outcomes include: full refund of the purchase price, partial refund of the purchase price, manual exchange for a similar item.<\/p><p><strong>What is not covered under our Warranty: <br\/><\/strong>- Waterproofness<br\/>- Pilling of shell fabrics<br\/>- Burr and \/ or seed retention in the shell fabrics <br\/>- Issues due to mistreatment such as tears etc. <\/p><p><strong>Returns \/ Refunds<br\/><\/strong>You may return most new, undamaged items purchased through our online store within 30 days of receipt for a full refund of the purchase price of the item(s). If you purchase a substitute item(s) to replace the item(s) you are returning, Code of Silence will pay return shipping on any item returned in re-sellable condition (unused, contained in original packaging, all tags attached and no dirt or animal hair etc. on the product). COS will only pay for the return shipping “once per transaction” however. If you wish to return an item that fits in the criteria mentioned above, please visit our return portal at ____________ .<\/p><p><strong>Return \/ Refund Processing Timeframe<br\/><\/strong>Expect to receive your refund of the item you are returning within 30 days of turn-over of your package to the return shipper. It can take less time and it is probable that you will receive your refund more quickly. Note that we have to allow for the transit time for us to receive your return from the shipper, the time it takes us to process your return, and the time it takes your bank to process our refund request. <\/p><p><strong>Exclusions<br\/><\/strong>Items purchased from a retailer must be returned to the retailer they were purchased from within that retailer’s return or exchange time frame. <\/p><p><strong>Exchanges<br\/><\/strong>For clarity, please understand that while we do not offer “exchanges” in the traditional sense of the word, when you return an unused and unaltered item to us postage paid and you are re-ordering a new item of your choice, this transaction is very similar to an “exchange”. In basic form, you are rebuying a similar item while we verify the acceptability of your previously purchased item for restocking and fulfill the refund of the original transaction. Please note that this format allows you to receive a substitute item in a much quicker timeframe than a traditional “exchange” would provide.<\/p>"
+            "text": "<p>If you do not honestly feel like your clothing is dramatically improving your odds in the field – you are probably being lulled into thinking that this is “just the way it is.” More importantly though, you are missing out on an opportunity to add an incredibly effective tool to your arsenal and dramatically add to your success in the field. After using and testing our products in the field over the last two years, our firm belief is that our products will undoubtedly make a difference in your hunts. Our commitment at Code of Silence is that your equipment should and will “ <em>drive efficiency<\/em>” into your hunting and that<\/p><p><strong>Clothing should undoubtedly be considered as one of the<br\/>most important pieces of equipment for your hunt.<\/strong><\/p>"
           }
         }
       },
@@ -57,8 +73,68 @@
         "divider": false
       }
     },
+    "text-columns": {
+      "type": "text-columns",
+      "blocks": {
+        "column1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "image_width": 650,
+            "title": "",
+            "text": "<p>How Good Is the Camo?<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "column2": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "image_width": 650,
+            "title": "",
+            "text": "<p>Is This Warm?<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "column3": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "image_width": 650,
+            "title": "",
+            "text": "<p>Is This Quiet Enough?<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column1",
+        "column2",
+        "column3"
+      ],
+      "settings": {
+        "title": "Historically, the “context” used when a hunter is considering or discussing hunting clothing is typically focused on 1 to 2, or possibly 3 attributes.  The common consideration is typically:",
+        "align_text": "center",
+        "divider": false
+      }
+    },
     "16615468859ce24b4a": {
       "type": "rich-text",
+      "blocks": {
+        "1661546885a6589bd6-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p>These are all fair considerations and questions that are focuses of ours as well, but in our view, they fall well short of demanding what should truly be expected. A hunter is due the benefit of a “holistic system” that will make him or her vastly more effective in the field, period. Clothing has fallen short of this deliverable in the past and this level of benefit has never felt in reach or even possible, until now.<\/p><p>At Code of Silence, we are changing the status quo and delivering the full performance and holistic functionality a hunter is due from their clothing. This is serious gear that truly changes your effectiveness and “the way you can hunt.” The quietness of the fabric, the meticulously designed pattern, the dull natural Neutral-LR appearance, the incredible warmth and wind protection, and the unparalleled freedom of movement are all factors that will push your hunting to the next level. Our systems will make you more efficient and most importantly, more SUCCESSFUL in the field. We guarantee it.   <\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1661546885a6589bd6-1"
+      ],
       "settings": {
         "align_text": "center",
         "narrow_column": true,
@@ -67,22 +143,91 @@
     },
     "1661547378b51b5c37": {
       "type": "rich-text",
+      "blocks": {
+        "1661547378d1a68b50-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Just a little about us..."
+          }
+        }
+      },
+      "block_order": [
+        "1661547378d1a68b50-0"
+      ],
       "settings": {
         "align_text": "center",
         "narrow_column": true,
+        "divider": false
+      }
+    },
+    "1662831702e8e4d1ec": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/DarrinFamily_MobileLR.jpg",
+        "image2": "shopify:\/\/shop_images\/DarrinAntelope_MobileLR.jpg",
+        "image_width": 700,
+        "subtitle": "",
+        "title": "Darrin Youngblut",
+        "text": "<p>\"LESS IS MORE. SIMPLE IS BETTER\"<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "right",
+        "layout": "right",
         "divider": false
       }
     },
     "16615479853fbe464f": {
       "type": "rich-text",
+      "blocks": {
+        "16615479856c7027e9-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p>Darrin is a highly successful farm operator, passionate outdoor entrepreneur, driven hunter\/fisherman, and devoted father and husband. Darrin lives in the heart of Northeast Iowa whitetail country and spends countless hours chasing whitetails, raising his three children, and simply being in the outdoors as much as he possibly can. Darrin embodies and defines the Code of Silence philosophy of “embracing better” and is constantly refining his approach and advancing his skills on the pursuit of mature whitetail deer. Darrin has a deep understanding of what it takes to be truly successful in consistently harvesting mature bucks with a bow. While Darrin lives by the mindset of “less is more” and “simpler is better”, Darrin is never satisfied and is driven to constantly evolve every aspect of his hunting techniques and equipment. Darrin and his wife Mandi live in Jesup, Iowa.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "16615479856c7027e9-1"
+      ],
       "settings": {
         "align_text": "center",
         "narrow_column": true,
         "divider": false
       }
     },
+    "166283184000527682": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/EvMountains_MobileLR.jpg",
+        "image2": "shopify:\/\/shop_images\/EvMountainGoat_MobileLR.jpg",
+        "image_width": 700,
+        "subtitle": "",
+        "title": "Ev Tarrel",
+        "text": "<p>“I LOVE SPENDING HOURS IN THE FIELD WITH MY SONS.”<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "left",
+        "divider": false
+      }
+    },
     "166154814472fa0e68": {
       "type": "rich-text",
+      "blocks": {
+        "1661548144ab961507-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p>Ev spent over 30 years with Cabela’s where for most of those 30 years, Ev had oversight of the Hunting Clothing categories at a corporate level. During his tenure at Cabelas, Ev was responsible for numerous patents, dozens of camo introductions – including the Zonz Camo franchise, dozens of fabric innovations to include Microtex, MT050, Wootimate, Outfitter Berber, and many many more successful innovations. Ev also had oversight over Brand Marketing \/ Strategy, Strategic Product Development, and Cabela’s expansion into Canada during his career. Ev is well known and respected in the outdoor industry. Ev is an extremely avid outdoorsman and spends countless hours in the field each year with his two sons, Reid and Trever. Ev and his wife Jana still live in Sidney, Nebraska and enjoy any time they get to be out of the house and office.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1661548144ab961507-1"
+      ],
       "settings": {
         "align_text": "center",
         "narrow_column": true,
@@ -120,16 +265,37 @@
         "autoplay": true,
         "autoplay_speed": 5
       }
+    },
+    "166154830896232e01": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/COSCamodesign2_LR.jpg",
+        "image_width": 700,
+        "subtitle": "",
+        "title": "NEW WAYS TO GO AFIELD.",
+        "text": "<p>Code of Silence™ is a unique and extremely capable developer of highly functional and innovative hunting gear. While we have over 50 very successful combined years of experience in developing outdoor products, we are just getting started with our new revolutionary lines. We firmly believe that outdoor products should be “enablers” to create added efficiency for the hunter and thus, improved success in the field. We are some of the most authentic, real, passionate, driven, and down to earth guys and gals you will ever meet. We commit to you that our new lines and products will deliver on “new ways to go afield” and will always provide an incredible value to the outdoor community.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "right",
+        "divider": false
+      }
     }
   },
   "order": [
     "main",
     "slideshow",
+    "1661546982ac2b7964",
     "rich-text",
+    "text-columns",
     "16615468859ce24b4a",
     "1661547378b51b5c37",
+    "1662831702e8e4d1ec",
     "16615479853fbe464f",
+    "166283184000527682",
     "166154814472fa0e68",
-    "1661547746bdbf6fa9"
+    "1661547746bdbf6fa9",
+    "166154830896232e01"
   ]
 }
