@@ -21,11 +21,19 @@
             "enlarge_text": true,
             "text": "<p>Questions? Comments? We'd love to hear from you! <br\/>Send us a message and we'll respond as soon as possible.<\/p>"
           }
+        },
+        "5af3391b-8473-4355-9e32-5dec29d6cbb4": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p><strong>Ev Tarrell: <\/strong>308-249-7561<br\/><strong>Darrin Youngblut:<\/strong> 319-348-5699<\/p>"
+          }
         }
       },
       "block_order": [
         "heading",
-        "text"
+        "text",
+        "5af3391b-8473-4355-9e32-5dec29d6cbb4"
       ],
       "settings": {
         "align_text": "center",
