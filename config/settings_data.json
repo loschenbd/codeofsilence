@@ -133,14 +133,14 @@
           "disable_for_account_holders": false,
           "popup_seconds": 2,
           "popup_days": 2,
-          "popup_title": "Buy a Camo Jacket, Get Pants 50% off!",
-          "popup_text": "<p>Buy either a Verdigre Jacket, Versa Zone-7 Jacket, or Coldfjall Parka and get the matching pants at 50% off. Discount will appear in the cart at checkout. Offer expires 8 am EST on 12\/1\/22.<\/p>",
-          "popup_image": "shopify:\/\/shop_images\/COS-BFCM-1080x1080.jpg",
+          "popup_title": "Buy a Verdigre Set, Get a $100 Gift Card!",
+          "popup_text": "<p>Buy both Verdigre Pullove and Pants, and get a $100 Gift Card for your next purchase! Discount will appear in the cart at checkout. Offer expires 8 am EST on ________. Not valid with any other offers.<\/p>",
+          "popup_image": "shopify:\/\/shop_images\/2022VerdigreGiftCardPromo.jpg",
           "image_position": "left",
           "show_social_icons": false,
           "enable_newsletter": false,
           "button_label": "SHOP NOW",
-          "button_link": "shopify:\/\/collections"
+          "button_link": "shopify:\/\/collections\/verdigre"
         }
       },
       "footer": {
