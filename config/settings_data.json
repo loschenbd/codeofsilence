@@ -120,7 +120,7 @@
           "reminder-block": {
             "type": "header",
             "settings": {
-              "reminder_label": "Get 10% off"
+              "reminder_label": ""
             }
           }
         },
