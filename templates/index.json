@@ -58,7 +58,7 @@
         "slide_speed": 6,
         "color_overlay": "#000000",
         "color_overlay_opacity": 20,
-        "desktop_height": "450px",
+        "desktop_height": "750px",
         "mobile_height": "400px"
       }
     },
