@@ -190,6 +190,7 @@
           },
           "43caceea-24ce-49b8-a5f3-ae061ee5370f": {
             "type": "custom",
+            "disabled": true,
             "settings": {
               "show_footer_title": true,
               "title": "View Digital Catalog:",
