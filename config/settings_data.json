@@ -180,11 +180,21 @@
           },
           "8517b2f8-ea87-4a6a-ad6b-081d0d7c2954": {
             "type": "custom",
+            "disabled": true,
             "settings": {
               "show_footer_title": true,
               "title": "Buy a Verdigre Set, Get a $100 Gift Card",
               "text": "<p>Buy both a Verdigre Hoodie and a Verdigre Pant, get a <strong>$100 Gift Card<\/strong> for your next purchase! Offer will automatically appear in the cart at checkout. Offer expires 8 am EST on 12\/19\/22. Not valid with any other offers.<\/p>",
               "container_width": 69
+            }
+          },
+          "43caceea-24ce-49b8-a5f3-ae061ee5370f": {
+            "type": "custom",
+            "settings": {
+              "show_footer_title": true,
+              "title": "Custom text",
+              "text": "<p>clcaxgc9e000101s6f74sc2fb<\/p>",
+              "container_width": 20
             }
           }
         },
@@ -193,7 +203,8 @@
           "1494292485313",
           "1494292487693",
           "1494292481350",
-          "8517b2f8-ea87-4a6a-ad6b-081d0d7c2954"
+          "8517b2f8-ea87-4a6a-ad6b-081d0d7c2954",
+          "43caceea-24ce-49b8-a5f3-ae061ee5370f"
         ],
         "settings": {
           "show_locale_selector": true,
