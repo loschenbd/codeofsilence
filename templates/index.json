@@ -17,7 +17,7 @@
           "type": "image",
           "settings": {
             "image": "shopify:\/\/shop_images\/Zone7Save100_MainRotator_1dcd90ce-ae95-4753-9ce5-0949afdd1013.jpg",
-            "focal_point": "center center",
+            "focal_point": "bottom center",
             "slide_title1": "",
             "slide_title2": ""
           }
