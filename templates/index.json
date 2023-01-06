@@ -26,7 +26,7 @@
           "type": "image",
           "settings": {
             "image": "shopify:\/\/shop_images\/DSC_1475-squashed.jpg",
-            "focal_point": "20% 100%",
+            "focal_point": "center center",
             "slide_title1": "Unnoticed.",
             "slide_title2": ""
           }
