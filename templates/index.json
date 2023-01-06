@@ -13,6 +13,15 @@
             "slide_title2": ""
           }
         },
+        "af1f537a-e5a4-4374-89b6-3c01cf078de4": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Zone7Save100_MainRotator_1dcd90ce-ae95-4753-9ce5-0949afdd1013.jpg",
+            "focal_point": "bottom center",
+            "slide_title1": "",
+            "slide_title2": ""
+          }
+        },
         "1659795586f5cb40c2-0": {
           "type": "image",
           "settings": {
@@ -43,6 +52,7 @@
       },
       "block_order": [
         "65e1d610-073e-4b3e-a8a2-de463efddd62",
+        "af1f537a-e5a4-4374-89b6-3c01cf078de4",
         "1659795586f5cb40c2-0",
         "1659795586f5cb40c2-1",
         "1659795586f5cb40c2-2"
