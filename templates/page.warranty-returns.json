@@ -63,7 +63,7 @@
         "faq-0": {
           "type": "rich-text",
           "settings": {
-            "title": "Warranty \/ Returns \/ Shipping",
+            "title": "Returns \/ Warranty \/ Shipping",
             "text": "",
             "align_text": "left"
           }
