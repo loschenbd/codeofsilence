@@ -15,6 +15,7 @@
         },
         "af1f537a-e5a4-4374-89b6-3c01cf078de4": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/Zone7Save100_MainRotator_1dcd90ce-ae95-4753-9ce5-0949afdd1013.jpg",
             "focal_point": "center center",
