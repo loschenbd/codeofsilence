@@ -184,7 +184,7 @@
             "settings": {
               "show_footer_title": true,
               "title": "Buy a Zone7-Versa Set, SAVE $100!",
-              "text": "<p>Buy both a Zone7-Versa Hoodie and Pants, and <strong>SAVE $100<\/strong>. Offer will automatically appear in the cart at checkout. Offer expires 8 am EST on 1\/17\/23. Not valid with any other offers.    <a href=\"\/collections\/zone7-versa\" title=\"Zone7-Versa\"><strong>SHOP NOW!<\/strong><\/a><\/p>",
+              "text": "<p>Buy both a Zone7-Versa Hoodie and Pants, and <strong>SAVE $100<\/strong>. Offer will automatically appear in the cart at checkout. Offer expires 8 am EST on 3\/6\/23. Not valid with any other offers.   <a href=\"\/collections\/zone7-versa\" title=\"Zone7-Versa\"><strong>SHOP NOW!<\/strong><\/a><\/p>",
               "container_width": 69
             }
           },
@@ -219,6 +219,36 @@
       },
       "footer-promotions": {
         "type": "footer-promotions",
+        "blocks": {
+          "5b7b1570-3e18-4625-bc3c-fd2ed5093f6d": {
+            "type": "promotion",
+            "disabled": true,
+            "settings": {
+              "enable_image": false,
+              "image": "shopify:\/\/shop_images\/COS-Show-Season-Graphic.1_1080x1080_1eda2edd-3990-4152-bba4-f10d7cae62c6.jpg",
+              "image_width": 80,
+              "title": "",
+              "text": "",
+              "button_label": "Optional button",
+              "button_link": ""
+            }
+          },
+          "7009f43b-2077-406a-acf4-94849e7ca2c0": {
+            "type": "promotion",
+            "settings": {
+              "enable_image": true,
+              "image_width": 650,
+              "title": "Site-wide promotion",
+              "text": "<p>Use this section to promote content throughout every page of your site. Add images for further impact.<\/p>",
+              "button_label": "Optional button",
+              "button_link": ""
+            }
+          }
+        },
+        "block_order": [
+          "5b7b1570-3e18-4625-bc3c-fd2ed5093f6d",
+          "7009f43b-2077-406a-acf4-94849e7ca2c0"
+        ],
         "settings": {
           "hide_homepage": true,
           "image_size": "wide",
