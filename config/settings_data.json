@@ -234,6 +234,7 @@
           },
           "7009f43b-2077-406a-acf4-94849e7ca2c0": {
             "type": "promotion",
+            "disabled": true,
             "settings": {
               "enable_image": true,
               "image_width": 650,
