@@ -12,8 +12,8 @@
         "image": "shopify:\/\/shop_images\/ClosureGlovesInUse_C2010_118003002-squashed.jpg",
         "image_width": 700,
         "subtitle": "",
-        "title": "What is Berber Fleece?",
-        "text": "<p>This unique wool based “pile” fabric is a close cousin to our Berber Wool ™ but is engineered to be much “flatter” on the surface to provide less friction when used in key areas within our garment designs and also, less attraction of burrs and debris across the board. This proprietary fabric took us years to perfect and while its<em>less lofty<\/em>than our Berber-Wool, it still presents the same dull\/ natural looking exterior appearance and is still a highly textured knitted (not woven) fabric. Our “jacquard” knitting technique ensures a uniform saturation of inks throughout the entire thickness of the fabric. Not only does this allow for less fading of the surface colors over time, it also lowers the levels of unnatural synthetics such as inks on the exterior surface as compared to “printed” fabrics. The combination of the jacquard knit and the flatter face allows our Fleece-Wool to still appear very natural while reducing friction and minimizing retention of burrs in areas such as the lower portions of our pant legs.<\/p>",
+        "title": "What is Berber-Wool?",
+        "text": "<p>This unique wool based high “pile” fabric is an extremely quiet, extremely warm and also presents a very dull \/ natural looking exterior appearance. The knitting technique we use is called “jacquard” knitting and the fibers are dyed prior to knitting so the saturation of inks is consistent throughout the entire thickness of the fabric after knitting is complete. This technique lowers the levels of unnatural synthetics (such as inks) on the exterior surface as compared to “printed” fabrics where approximately 100% of the inks used in the printing are condensed in the top 20% of the fabric’s exterior face. This allows our Berber Wool to appear extremely natural and better “absorb” light and appear more natural.<\/p>",
         "button_label": "",
         "button_link": "",
         "button_style": "primary",
@@ -22,24 +22,21 @@
         "divider": false
       }
     },
-    "1663529672df593378": {
-      "type": "advanced-content",
-      "blocks": {
-        "1663529672e563745a-1": {
-          "type": "liquid",
-          "settings": {
-            "code": "<h2>What makes Berber Fleece unique to our brand?<\/h2>\n<ul>\n<li>Proprietary “flatter” fleece like exterior texture<\/li>\n<li>“Ultra quiet” but “flatter” surface reduces friction and burr retention<\/li>\n<li>Incredibly warm and extremely quiet fabric overall<\/li>\n<li>Our S18 camo pattern is “knitted” into the fabric not printed<\/li>\n<li>Lower pile height reduces bulk in key areas such as lower sleeves and lower legs<\/li>\n<li>Knitted exterior texture for an incredibly natural appearance in the woods<\/li>\n<li>25% Wool\/ 75% Polyester construction improves durability and fiber retention<\/li>\n<\/ul>",
-            "width": "50%",
-            "alignment": "center"
-          }
-        }
-      },
-      "block_order": [
-        "1663529672e563745a-1"
-      ],
+    "e95f6af9-bc10-46f8-9ed9-4b472e23a1fb": {
+      "type": "text-and-image",
       "settings": {
-        "full_width": false,
-        "space_around": true
+        "image": "shopify:\/\/shop_images\/P1040864_LR.jpg",
+        "image2": "shopify:\/\/shop_images\/BerberTexture-scaled.jpg",
+        "image_width": 700,
+        "subtitle": "",
+        "title": "What makes Berber-Wool unique to our brand?",
+        "text": "<ul><li>The quietest shell fabric used in the hunting industry today<\/li><li>Wool-based high “pile” fabric is extremely quiet, extremely warm<\/li><li>Our S-18 camo pattern is “knitted” into the fabric not printed<\/li><li>Jaquard knitting process makes the surface appear natural and better 'absorbs' light<\/li><\/ul>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "right",
+        "divider": false
       }
     },
     "16642285354ea90b72": {
@@ -103,7 +100,7 @@
   "order": [
     "main",
     "16635295817249e67e",
-    "1663529672df593378",
+    "e95f6af9-bc10-46f8-9ed9-4b472e23a1fb",
     "16642285354ea90b72"
   ]
 }
