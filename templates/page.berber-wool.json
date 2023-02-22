@@ -9,11 +9,11 @@
     "1663526372e776a19f": {
       "type": "text-and-image",
       "settings": {
-        "image": "shopify:\/\/shop_images\/P1040864_LR.jpg",
+        "image": "shopify:\/\/shop_images\/cropped-Verd-glove-back2_LR.jpg",
         "image_width": 700,
         "subtitle": "",
-        "title": "What is Berber Wool?",
-        "text": "<p>This unique wool based high “pile” fabric is an extremely quiet, extremely warm and also presents a very dull \/ natural looking exterior appearance due to it’s high lofted “sherpa” style texture and knitted (not woven) base structure. The knitting technique we use is called “jacquard” knitting and the fibers are dyed prior to knitting so the saturation of inks is consistent throughout the entire thickness of the fabric after knitting is complete. Not only does this allow for less fading of the surface colors over time, it also lowers the levels of unnatural synthetics (such as inks) on the exterior surface as compared to “printed” fabrics where approximately 100% of the inks used in the printing are applied after the fabric is woven or knit so the inks are therefore condensed in the top 20% of the fabric’s exterior face. This allows our Berber Wool to appear extremely natural and better “absorb” light and appear more natural compared to other commonly used hunting fabrications.<\/p>",
+        "title": "What is Fleece-Wool?",
+        "text": "<p>This unique wool based “pile” fabric is a close “cousin” to our Berber-Wool™ but is engineered to be much “flatter” on the surface to provide less friction. This proprietary fabric took us years to perfect and while its less lofty than our Berber-Wool, it still presents the same dull\/natural looking exterior appearance. Our “jacquard” knitting technique ensures a uniform saturation of inks throughout the entire thickness of the fabric. This technique lowers the levels of unnatural synthetics such as inks on the exterior surface as compared to “printed” fabrics. The combination of the jacquard knit and the flatter face allows our Fleece-Wool to still appear very natural while reducing friction and minimizing retention of burrs.<\/p>",
         "button_label": "",
         "button_link": "",
         "button_style": "primary",
@@ -22,24 +22,21 @@
         "divider": false
       }
     },
-    "1663526383d0131ac9": {
-      "type": "advanced-content",
-      "blocks": {
-        "16635263834ec2e5e7-1": {
-          "type": "liquid",
-          "settings": {
-            "code": "<h2>What make Berber Wool unique to our brand?<\/h2><ul>\n<li>High loft “sherpa” style exterior texture<\/li>\n<li>“The quietest shell fabric used in the hunting industry today”<\/li>\n<li>Our S18 camo pattern is “knitted” into the fabric not printed<\/li>\n<li>Extra high loft exterior texture for incredible warmth\n<\/li>\n<li>Extra high loft exterior texture for an incredibly natural appearance in the woods\n<\/li>\n<li>25% Wool\/ 75% Polyester construction improves durability and fiber retention\n\/li>\n<\/ul>",
-            "width": "66%",
-            "alignment": "center"
-          }
-        }
-      },
-      "block_order": [
-        "16635263834ec2e5e7-1"
-      ],
+    "c5c978a4-f910-46dc-bc5b-d7bc40c7e906": {
+      "type": "text-and-image",
       "settings": {
-        "full_width": false,
-        "space_around": true
+        "image": "shopify:\/\/shop_images\/FleeceWool_Zone7Pants.jpg",
+        "image2": "shopify:\/\/shop_images\/FleeceWoolTexture_LR_887ab700-7563-4d3d-a983-e8af69abdca6.jpg",
+        "image_width": 700,
+        "subtitle": "",
+        "title": "What makes Fleece-Wool unique to our brand?",
+        "text": "<p><\/p><ul><li>\"Flatter\" surface provides less friction <\/li><li>Dull\/natural looking exterior appearance<\/li><li>Our S-18 camo pattern is “knitted” into the fabric not printed<\/li><li>25% Wool \/ 75% Polyester construction improves durability and fiber retention<\/li><li><\/li><li>Flatter surface minimizes burr retention<br\/><\/li><\/ul>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "right",
+        "divider": false
       }
     },
     "166422864061cf39a6": {
@@ -57,7 +54,7 @@
   "order": [
     "main",
     "1663526372e776a19f",
-    "1663526383d0131ac9",
+    "c5c978a4-f910-46dc-bc5b-d7bc40c7e906",
     "166422864061cf39a6"
   ]
 }
