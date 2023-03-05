@@ -128,7 +128,7 @@
           "reminder-block"
         ],
         "settings": {
-          "mode": true,
+          "mode": false,
           "disable_for_account_holders": false,
           "popup_seconds": 2,
           "popup_days": 2,
@@ -137,7 +137,7 @@
           "popup_image": "shopify:\/\/shop_images\/COS-Show-Season-Graphic.1_1080x1080_1eda2edd-3990-4152-bba4-f10d7cae62c6.jpg",
           "image_position": "left",
           "show_social_icons": false,
-          "enable_newsletter": false,
+          "enable_newsletter": true,
           "button_label": "SHOP NOW",
           "button_link": "shopify:\/\/collections\/zone7-versa"
         }
