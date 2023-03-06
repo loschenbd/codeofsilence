@@ -109,7 +109,7 @@
           "sticky_index": true,
           "sticky_collection": false,
           "show_announcement": true,
-          "announcement_text": "Buy both a Zone7-Versa Hoodie and Pants, and SAVE $100 • Free shipping on orders over $199.",
+          "announcement_text": "Free shipping on orders over $199.",
           "announcement_link": "",
           "announcement_closable": true
         }
@@ -128,7 +128,7 @@
           "reminder-block"
         ],
         "settings": {
-          "mode": true,
+          "mode": false,
           "disable_for_account_holders": false,
           "popup_seconds": 2,
           "popup_days": 2,
@@ -180,6 +180,7 @@
           },
           "8517b2f8-ea87-4a6a-ad6b-081d0d7c2954": {
             "type": "custom",
+            "disabled": true,
             "settings": {
               "show_footer_title": true,
               "title": "Buy a Zone7-Versa Set, SAVE $100!",
