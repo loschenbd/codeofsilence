@@ -18,7 +18,7 @@
     "color_small_image_bg": "#ffffff",
     "color_large_image_bg": "#111111",
     "type_header_font_family": "asap_n7",
-    "type_header_spacing": "-25",
+    "type_header_spacing": "0",
     "type_header_base_size": 35,
     "type_header_line_height": 1.2,
     "type_header_accent_transform": true,
