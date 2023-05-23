@@ -36,7 +36,7 @@
           "type": "image",
           "settings": {
             "image": "shopify:\/\/shop_images\/COSFinalEdit-055_LR.jpg",
-            "focal_point": "center center",
+            "focal_point": "20% 50%",
             "slide_title1": "Unnoticed.",
             "slide_title2": ""
           }
