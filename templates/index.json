@@ -27,7 +27,7 @@
           "type": "image",
           "settings": {
             "image": "shopify:\/\/shop_images\/Celebrate-Dad-Sale.4_Rotator.png",
-            "focal_point": "center center",
+            "focal_point": "bottom center",
             "slide_title1": "",
             "slide_title2": ""
           }
