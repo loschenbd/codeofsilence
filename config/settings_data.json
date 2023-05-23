@@ -132,14 +132,14 @@
           "disable_for_account_holders": false,
           "popup_seconds": 2,
           "popup_days": 2,
-          "popup_title": "Buy a Set of Zone7-Versa, SAVE $100",
-          "popup_text": "<p>Buy both a Zone7-Versa Hoodie <br\/>and Pants, and <strong>SAVE $100<\/strong>. <br\/>Offer will automatically appear <br\/>in the cart at checkout. Offer expires 8am EST on March 6. Not valid with any other offers.<\/p>",
-          "popup_image": "shopify:\/\/shop_images\/COS-Show-Season-Graphic.1_1080x1080_1eda2edd-3990-4152-bba4-f10d7cae62c6.jpg",
+          "popup_title": "20% Off Code of Silence Swag for Father's Day",
+          "popup_text": "<p>All Hoodies, Tees, and Hats are 20% off. Offer will automatically appear <br\/>in the cart at checkout. Offer expires 8am EST on June 11. Not valid with any other offers.<\/p>",
+          "popup_image": "shopify:\/\/shop_images\/Celebrate-Dad-Sale_popup.png",
           "image_position": "left",
           "show_social_icons": false,
           "enable_newsletter": false,
           "button_label": "SHOP NOW",
-          "button_link": "shopify:\/\/collections\/zone7-versa"
+          "button_link": "shopify:\/\/collections\/lifestyle"
         }
       },
       "footer": {
