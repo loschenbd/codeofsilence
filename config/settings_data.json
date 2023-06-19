@@ -138,7 +138,7 @@
           "popup_image": "shopify:\/\/shop_images\/Celebrate-Dad-Sale_popup.png",
           "image_position": "left",
           "show_social_icons": false,
-          "enable_newsletter": true,
+          "enable_newsletter": false,
           "button_label": "SHOP NOW",
           "button_link": "shopify:\/\/collections\/lifestyle"
         }
