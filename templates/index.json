@@ -25,6 +25,7 @@
         },
         "65e1d610-073e-4b3e-a8a2-de463efddd62": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/Celebrate-Dad-Sale.4_Rotator.png",
             "focal_point": "bottom center",
