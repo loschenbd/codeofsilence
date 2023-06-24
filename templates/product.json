@@ -56,12 +56,14 @@
         },
         "99127e13-b82d-4272-b214-5e161161376b": {
           "type": "size_chart",
+          "disabled": true,
           "settings": {
             "size_chart": "cos-size-chart"
           }
         },
         "tab": {
           "type": "tab",
+          "disabled": true,
           "settings": {
             "title": "Fit",
             "content": "",
@@ -107,6 +109,7 @@
     },
     "background-image-text": {
       "type": "background-image-text",
+      "disabled": true,
       "settings": {
         "subtitle": "Impressive",
         "title": "Large image with text box",
@@ -123,6 +126,7 @@
     },
     "16617113552bcdc3fe": {
       "type": "advanced-content",
+      "disabled": true,
       "blocks": {
         "1661711355cb5d8b06-0": {
           "type": "image",
@@ -177,6 +181,7 @@
     },
     "testimonials": {
       "type": "testimonials",
+      "disabled": true,
       "blocks": {
         "testimonials-0": {
           "type": "testimonial",
