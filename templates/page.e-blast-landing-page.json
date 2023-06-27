@@ -8,8 +8,8 @@
         "text": "<p>Every technology Code of Silence develops and utilizes supports our key focuses of 100% silence, visual stealth, warmth \/ comfort, and ergonomic dexterity.<\/p>",
         "button_label": "",
         "button_link": "",
-        "image": "shopify:\/\/shop_images\/P1040838_LR.jpg",
-        "focal_point": "bottom",
+        "image": "shopify:\/\/shop_images\/COS_e-blast_landing_page.jpg",
+        "focal_point": "20% 0",
         "layout": "right",
         "height": 550,
         "parallax": true,
@@ -22,7 +22,7 @@
         "template--14588728934472__bdb96cc9-8a80-4a20-a0db-3a107df01400-16878826192b2c37ef-1": {
           "type": "liquid",
           "settings": {
-            "code": "<center>\n<h1>Exploring the science behind Code of Silence<\/h1>",
+            "code": "<center>\n<h1>Exploring the Science Behind Code of Silence<\/h1>",
             "width": "100%",
             "alignment": "top-middle"
           }
