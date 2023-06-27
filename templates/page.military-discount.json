@@ -6,36 +6,60 @@
       "settings": {
       }
     },
+    "5ddec732-0089-4302-be0f-11ecac320e3b": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/flag-in-new-york.jpg",
+        "image_width": 700,
+        "subtitle": "",
+        "title": "Military & First Responder Discount",
+        "text": "<p>To thank you for your service, we'd like to offer a 25% discount off your purchase.<\/p>",
+        "button_label": "SAVE UP TO 25% OFF",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "right",
+        "divider": false
+      }
+    },
     "faq": {
       "type": "faq",
       "blocks": {
         "faq-0": {
           "type": "rich-text",
           "settings": {
-            "title": "Shipping",
-            "text": ""
+            "title": "Military Discount",
+            "text": "",
+            "align_text": "left"
           }
         },
         "faq-1": {
           "type": "question",
           "settings": {
+            "title": "Frequently asked question",
+            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.<\/p>"
           }
         },
         "faq-2": {
           "type": "question",
           "settings": {
+            "title": "Frequently asked question",
+            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.<\/p>"
           }
         },
         "faq-3": {
           "type": "rich-text",
           "settings": {
             "title": "Returns",
-            "text": ""
+            "text": "",
+            "align_text": "left"
           }
         },
         "faq-4": {
           "type": "question",
           "settings": {
+            "title": "Frequently asked question",
+            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.<\/p>"
           }
         }
       },
@@ -53,6 +77,7 @@
   },
   "order": [
     "main",
+    "5ddec732-0089-4302-be0f-11ecac320e3b",
     "faq"
   ]
 }
