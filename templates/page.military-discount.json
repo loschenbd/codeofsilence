@@ -28,8 +28,8 @@
         "faq-0": {
           "type": "rich-text",
           "settings": {
-            "title": "Military Discount",
-            "text": "",
+            "title": "WHO IS ELIGIBLE FOR THIS OFFER?",
+            "text": "<ul><li>Current and former U.S. Military<\/li><li>Law Enforcement, Fire, EMS and First Responders<\/li><\/ul>",
             "align_text": "left"
           }
         },
