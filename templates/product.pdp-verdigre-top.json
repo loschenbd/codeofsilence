@@ -124,6 +124,7 @@
     },
     "16617113552bcdc3fe": {
       "type": "advanced-content",
+      "disabled": true,
       "blocks": {
         "1661711355cb5d8b06-0": {
           "type": "image",
