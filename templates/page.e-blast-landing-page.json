@@ -1,206 +1,11 @@
 {
   "sections": {
-    "16635306188b7a560a": {
-      "type": "text-and-image",
-      "settings": {
-        "image": "shopify:\/\/shop_images\/COS_icon_24213ebd-a639-499a-8bdd-6f0ca2f8c47c.png",
-        "image_width": 700,
-        "subtitle": "",
-        "title": "Taking a Different Path",
-        "text": "<p>Every technology Code of Silence develops and utilizes supports our key focuses of 100% silence, visual stealth, warmth \/ comfort, and ergonomic dexterity. Our technologies are far from “status quo” approaches however. These clearly represent different design strategies than have been seen in conventional systems. We’ve spent thousands of hours developing these designs and they are proven to be more effective in delivering in the field than traditional techniques. We are firm believers that that “if you want to get to a different place – you need to take a different path” and we are 100% confident you will agree that we have defined “a better way to go afield”.<\/p>",
-        "button_label": "",
-        "button_link": "",
-        "button_style": "primary",
-        "align_text": "left",
-        "layout": "right",
-        "divider": false
-      }
-    },
-    "16636145398fb5f75d": {
-      "type": "text-columns",
-      "disabled": true,
-      "blocks": {
-        "16636145390bf24613-0": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": false,
-            "image_width": 650,
-            "title": "Quiet",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.<\/p>",
-            "button_label": "",
-            "button_link": ""
-          }
-        },
-        "16636145390bf24613-1": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image_width": 650,
-            "title": "Warm",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.<\/p>",
-            "button_label": "",
-            "button_link": ""
-          }
-        },
-        "16636145390bf24613-2": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image_width": 650,
-            "title": "Unseen",
-            "text": "<p>Use this section to explain a set of product features, to link to a series of pages, or to answer common questions about your products. Add images for emphasis.<\/p>",
-            "button_label": "",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "16636145390bf24613-0",
-        "16636145390bf24613-1",
-        "16636145390bf24613-2"
-      ],
-      "settings": {
-        "title": "",
-        "align_text": "center",
-        "divider": false
-      }
-    },
-    "main": {
-      "type": "main-page",
-      "disabled": true,
-      "settings": {
-      }
-    },
-    "16635307690b920ed6": {
-      "type": "text-and-image",
-      "settings": {
-        "image": "shopify:\/\/shop_images\/S-18_CamoPattern_LR.jpg",
-        "image_width": 700,
-        "subtitle": "S-18 ™",
-        "title": "Visual Silence ™  Camo",
-        "text": "<p>Through our years in the field, we have taken our experiences and created an approach to camo and avoiding visual detection we feel is absolute perfection. We are not your run of the mill camo. This is a different approach – that yields different results.<\/p><p>It’s important to start with the right “zone” or target location in mind when creating a camo design. We surveyed dozens of hunters across the country and arrived at an average stand “mid-height” of 17.8 (18) feet. We then analyzed over 100 trees of the most predominant species found in the heart of whitetail country and arrived at an average branch size and density at this “18” foot mark for base of the S-18 camo design. The core elements and foreground shapes in S-18 closely mimic this average limb size and frequency. <\/p>",
-        "button_label": "",
-        "button_link": "",
-        "button_style": "primary",
-        "align_text": "left",
-        "layout": "left",
-        "divider": true
-      }
-    },
-    "16635258595860ce36": {
-      "type": "text-columns",
-      "blocks": {
-        "1663525859be1f9256-0": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image": "shopify:\/\/shop_images\/cropped-swatchescodeofsilence.png",
-            "image_width": 650,
-            "title": "",
-            "text": "",
-            "button_label": "",
-            "button_link": ""
-          }
-        },
-        "1663525859be1f9256-1": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": false,
-            "image_width": 650,
-            "title": "",
-            "text": "<p>Truly “natural” shapes and configurations are random in our natural world but there are “patterns” within these shapes that become <br\/>semi-constant. To ensure the design configurations in S-18 followed Mother Nature’s “random” authorship, naturally re-occurring designs were identified through extensive review and comparisons of hundreds of varying environments. This same process went into the original color base in S-18 and was then adjusted to meet the standards of our “Neutral-LR” criteria.<\/p>",
-            "button_label": "",
-            "button_link": ""
-          }
-        },
-        "1663525859be1f9256-2": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image": "shopify:\/\/shop_images\/codeofsilenceoverheadtexture.png",
-            "image_width": 650,
-            "title": "",
-            "text": "",
-            "button_label": "",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "1663525859be1f9256-0",
-        "1663525859be1f9256-1",
-        "1663525859be1f9256-2"
-      ],
-      "settings": {
-        "title": "",
-        "align_text": "center",
-        "divider": false
-      }
-    },
-    "166352623732d8239e": {
-      "type": "slideshow",
-      "blocks": {
-        "166352623725088800-0": {
-          "type": "image",
-          "settings": {
-            "title": "The game-changing truth is that S-18 simply works incredibly well in the woods at keeping hunters from being detected. Regardless of the environment you are in, we guarantee you will be seen (noticed) less than you have ever before, period. This is an extremely bold claim but our approach and science fully backs this position up as do our undeniable results in the field. We are positive you will finally have a camo technology that works as a true “asset” not just a uniform.",
-            "title_size": 40,
-            "subheading": "S-18 will make you re-establish how you feel about camouflage.",
-            "link": "",
-            "link_text": "",
-            "text_align": "vertical-bottom horizontal-left",
-            "image": "shopify:\/\/shop_images\/COS-67-squashed.jpg",
-            "parallax_direction": "top",
-            "overlay_opacity": 50,
-            "focal_point": "center center"
-          }
-        }
-      },
-      "block_order": [
-        "166352623725088800-0"
-      ],
-      "settings": {
-        "section_height": "650px",
-        "mobile_height": "auto",
-        "parallax": true,
-        "style": "arrows",
-        "autoplay": true,
-        "autoplay_speed": 5
-      }
-    },
-    "1663613739136afda5": {
-      "type": "rich-text",
-      "blocks": {
-        "1663613739a694cc89-0": {
-          "type": "heading",
-          "settings": {
-            "title": ""
-          }
-        },
-        "1663613739a694cc89-1": {
-          "type": "text",
-          "settings": {
-            "enlarge_text": true,
-            "text": "<p> <\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "1663613739a694cc89-0",
-        "1663613739a694cc89-1"
-      ],
-      "settings": {
-        "align_text": "center",
-        "narrow_column": true,
-        "divider": false
-      }
-    },
     "16636136507fcfd86f": {
       "type": "background-image-text",
       "settings": {
         "subtitle": "",
         "title": "Redefining warmth",
-        "text": "<p>We do things differently...<\/p>",
+        "text": "<p>Every technology Code of Silence develops and utilizes supports our key focuses of 100% silence, visual stealth, warmth \/ comfort, and ergonomic dexterity.<\/p>",
         "button_label": "",
         "button_link": "",
         "image": "shopify:\/\/shop_images\/P1040838_LR.jpg",
@@ -211,127 +16,66 @@
         "parallax_direction": "top"
       }
     },
-    "1663526372e776a19f": {
-      "type": "text-and-image",
-      "settings": {
-        "image": "shopify:\/\/shop_images\/P1040864_LR.jpg",
-        "image_width": 700,
-        "subtitle": "",
-        "title": "What is Berber-Wool?",
-        "text": "<p>This unique wool based high “pile” fabric is an extremely quiet, extremely warm and also presents a very dull \/ natural looking exterior appearance due to it’s high lofted “sherpa” style texture and knitted (not woven) base structure. The knitting technique we use is called “jacquard” knitting and the fibers are dyed prior to knitting so the saturation of inks is consistent throughout the entire thickness of the fabric after knitting is complete. Not only does this allow for less fading of the surface colors over time, it also lowers the levels of unnatural synthetics (such as inks) on the exterior surface as compared to “printed” fabrics where approximately 100% of the inks used in the printing are applied after the fabric is woven or knit so the inks are therefore condensed in the top 20% of the fabric’s exterior face. This allows our Berber Wool to appear extremely natural and better “absorb” light and appear more natural compared to other commonly used hunting fabrications.<\/p>",
-        "button_label": "",
-        "button_link": "",
-        "button_style": "primary",
-        "align_text": "left",
-        "layout": "left",
-        "divider": true
-      }
-    },
-    "1663526383d0131ac9": {
+    "bdb96cc9-8a80-4a20-a0db-3a107df01400": {
       "type": "advanced-content",
       "blocks": {
-        "16635263834ec2e5e7-1": {
+        "template--14588728934472__bdb96cc9-8a80-4a20-a0db-3a107df01400-16878826192b2c37ef-1": {
           "type": "liquid",
           "settings": {
-            "code": "<h2>What make Berber-Wool unique to our brand?<\/h2><ul>\n<li>High loft “sherpa” style exterior texture<\/li>\n<li>“The quietest shell fabric used in the hunting industry today”<\/li>\n<li>Our S-18 camo pattern is “knitted” into the fabric not printed<\/li>\n<li>Extra high loft exterior texture for incredible warmth\n<\/li>\n<li>Extra high loft exterior texture for an incredibly natural appearance in the woods\n<\/li>\n<li>25% Wool\/75% Polyester construction improves durability and fiber retention\n<\/ul>",
-            "width": "66%",
+            "code": "<center>\n<h3>Exploring the science behind Code of Silence<\/h3>",
+            "width": "100%",
+            "alignment": "top-middle"
+          }
+        },
+        "7cf73ea2-3633-430b-857e-135283c2e254": {
+          "type": "liquid",
+          "settings": {
+            "code": "<center>\n<iframe width=\"560\" height=\"315\" src=\"https:\/\/www.youtube.com\/embed\/videoseries?list=PLqVMgeetk_EEzQaYD4tEKRM8rv0LroBig\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen><\/iframe>",
+            "width": "100%",
             "alignment": "center"
           }
         }
       },
       "block_order": [
-        "16635263834ec2e5e7-1"
+        "template--14588728934472__bdb96cc9-8a80-4a20-a0db-3a107df01400-16878826192b2c37ef-1",
+        "7cf73ea2-3633-430b-857e-135283c2e254"
       ],
       "settings": {
         "full_width": false,
         "space_around": true
       }
     },
-    "16635295817249e67e": {
+    "16635306188b7a560a": {
       "type": "text-and-image",
       "settings": {
-        "image": "shopify:\/\/shop_images\/FleeceWool_Zone7Pants.jpg",
+        "image": "shopify:\/\/shop_images\/COS_icon_24213ebd-a639-499a-8bdd-6f0ca2f8c47c.png",
         "image_width": 700,
         "subtitle": "",
-        "title": "What is Fleece-Wool?",
-        "text": "<p>This unique wool based “pile” fabric is a close cousin to our Berber Wool ™ but is engineered to be much “flatter” on the surface to provide less friction when used in key areas within our garment designs and also, less attraction of burrs and debris across the board. This proprietary fabric took us years to perfect and while its<em>less lofty<\/em>than our Berber-Wool, it still presents the same dull\/ natural looking exterior appearance and is still a highly textured knitted (not woven) fabric. Our “jacquard” knitting technique ensures a uniform saturation of inks throughout the entire thickness of the fabric. Not only does this allow for less fading of the surface colors over time, it also lowers the levels of unnatural synthetics such as inks on the exterior surface as compared to “printed” fabrics. The combination of the jacquard knit and the flatter face allows our Fleece-Wool to still appear very natural while reducing friction and minimizing retention of burrs in areas such as the lower portions of our pant legs.<\/p>",
+        "title": "Taking a Different Path",
+        "text": "<p>Our technologies are far from “status quo” approaches however. These clearly represent different design strategies than have been seen in conventional systems. We’ve spent thousands of hours developing these designs and they are proven to be more effective in delivering in the field than traditional techniques. We are firm believers that that “if you want to get to a different place – you need to take a different path” and we are 100% confident you will agree that we have defined “a better way to go afield”.<\/p>",
         "button_label": "",
         "button_link": "",
         "button_style": "primary",
         "align_text": "left",
-        "layout": "left",
+        "layout": "right",
         "divider": false
       }
     },
-    "1663529672df593378": {
-      "type": "advanced-content",
-      "blocks": {
-        "1663529672e563745a-1": {
-          "type": "liquid",
-          "settings": {
-            "code": "<h2>What makes Fleece-Wool unique to our brand?<\/h2>\n<ul>\n<li>Proprietary “flatter” fleece like exterior texture<\/li>\n<li>“Ultra quiet” but “flatter” surface reduces friction and burr retention<\/li>\n<li>Incredibly warm and extremely quiet fabric overall<\/li>\n<li>Our S-18 camo pattern is “knitted” into the fabric not printed<\/li>\n<li>Lower pile height reduces bulk in key areas such as lower sleeves and lower legs<\/li>\n<li>Knitted exterior texture for an incredibly natural appearance in the woods<\/li>\n<li>25% Wool\/75% Polyester construction improves durability and fiber retention<\/li>\n<\/ul>",
-            "width": "50%",
-            "alignment": "center"
-          }
-        }
-      },
-      "block_order": [
-        "1663529672e563745a-1"
-      ],
+    "9218886e-316d-41dc-888e-5ef06d7704d6": {
+      "type": "featured-collection",
       "settings": {
-        "full_width": false,
-        "space_around": true
+        "title": "Featured collection",
+        "home_featured_products": "verdigre",
+        "per_row": 4,
+        "rows": 1,
+        "view_all": true,
+        "divider": false
       }
     },
-    "1663529849d0469095": {
-      "type": "text-columns",
-      "blocks": {
-        "1663529849ceaccbde-0": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image": "shopify:\/\/shop_images\/WindSealGraphicWithText.png",
-            "image_width": 650,
-            "title": "WindSeal TC-3",
-            "text": "<p>This new state of the art barrier technology guarantees 100% protection from all wind velocities while allowing maximum breathability and complete quietness even in extreme temperatures. WindSeal -TC3 is designed to maintain mobility and to eliminate internal friction as well as unneeded bulk.<\/p>",
-            "button_label": "",
-            "button_link": ""
-          }
-        },
-        "1663529849ceaccbde-1": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image": "shopify:\/\/shop_images\/WindsulationGraphicWithText.png",
-            "image_width": 650,
-            "title": "Windsulation ™",
-            "text": "<p>Our new revolutionary “compressed” insulation technology provides unparalleled weather and wind protection while maximizing mobility. Windsulation TM is our exclusive break-through technology that allows your garment to exceed traditional insulating properties without adding excessive bulk.<\/p>",
-            "button_label": "",
-            "button_link": ""
-          }
-        },
-        "1663529849ceaccbde-2": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "image": "shopify:\/\/shop_images\/QuietLoftGraphicWithText.png",
-            "image_width": 650,
-            "title": "QuietLoft Insulation",
-            "text": "<p>Our new QuietLoft polyester high-loft insulation traps air and remains quiet in even the coldest of conditions. QuietLoft is very light weight but won’t break down over time and lose its ability to trap insulating air as many high loft poly insulations can often do over time.<\/p>",
-            "button_label": "",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "1663529849ceaccbde-0",
-        "1663529849ceaccbde-1",
-        "1663529849ceaccbde-2"
-      ],
+    "main": {
+      "type": "main-page",
+      "disabled": true,
       "settings": {
-        "title": "Detailed Technologies",
-        "align_text": "center",
-        "divider": true
       }
     },
     "16637971818c6bc368": {
@@ -413,19 +157,11 @@
     }
   },
   "order": [
-    "16635306188b7a560a",
-    "16636145398fb5f75d",
-    "main",
-    "16635307690b920ed6",
-    "16635258595860ce36",
-    "166352623732d8239e",
-    "1663613739136afda5",
     "16636136507fcfd86f",
-    "1663526372e776a19f",
-    "1663526383d0131ac9",
-    "16635295817249e67e",
-    "1663529672df593378",
-    "1663529849d0469095",
+    "bdb96cc9-8a80-4a20-a0db-3a107df01400",
+    "16635306188b7a560a",
+    "9218886e-316d-41dc-888e-5ef06d7704d6",
+    "main",
     "16637971818c6bc368"
   ]
 }
