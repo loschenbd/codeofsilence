@@ -22,7 +22,7 @@
         "template--14588728934472__bdb96cc9-8a80-4a20-a0db-3a107df01400-16878826192b2c37ef-1": {
           "type": "liquid",
           "settings": {
-            "code": "<center>\n<h2>Exploring the science behind Code of Silence<\/h2>",
+            "code": "<center>\n<h1>Exploring the science behind Code of Silence<\/h1>",
             "width": "100%",
             "alignment": "top-middle"
           }
