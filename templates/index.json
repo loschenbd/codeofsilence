@@ -197,6 +197,17 @@
         "autoplay_speed": 10
       }
     },
+    "5da98904-259c-495a-b3c5-ff744226bf57": {
+      "type": "featured-collection-switcher",
+      "settings": {
+        "title": "",
+        "collection1": "new-product-arrivals",
+        "collection2": "",
+        "per_row": 4,
+        "view_all": false,
+        "divider": false
+      }
+    },
     "166161787932a3bdc5": {
       "type": "featured-collections",
       "blocks": {
@@ -508,6 +519,7 @@
     "1659795586df183527",
     "16615493193b8c386c",
     "16615489634e2fecd3",
+    "5da98904-259c-495a-b3c5-ff744226bf57",
     "166161787932a3bdc5",
     "16616174172b146af2",
     "featured-collection-switcher",
