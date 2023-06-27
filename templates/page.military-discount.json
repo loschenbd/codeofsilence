@@ -15,7 +15,7 @@
         "title": "Military & First Responder Discount",
         "text": "<p>To thank you for your service, we'd like to offer a 25% discount off your purchase.<\/p>",
         "button_label": "SAVE UP TO 25% OFF",
-        "button_link": "",
+        "button_link": "https:\/\/auth.govx.com\/shopify\/verify?shop=codeofsilence-com.myshopify.com&utm_source=shopify&utm_medium=govxid&utm_campaign=custom_link",
         "button_style": "primary",
         "align_text": "left",
         "layout": "right",
