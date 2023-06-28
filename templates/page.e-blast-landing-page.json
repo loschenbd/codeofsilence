@@ -58,7 +58,7 @@
       "type": "featured-collection",
       "settings": {
         "title": "Check Out Our New Products",
-        "home_featured_products": "accessories",
+        "home_featured_products": "new-product-arrivals",
         "per_row": 3,
         "rows": 1,
         "view_all": true,
