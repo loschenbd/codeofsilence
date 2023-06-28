@@ -38,22 +38,6 @@
         "space_around": true
       }
     },
-    "16635306188b7a560a": {
-      "type": "text-and-image",
-      "settings": {
-        "image": "shopify:\/\/shop_images\/COS_icon_24213ebd-a639-499a-8bdd-6f0ca2f8c47c.png",
-        "image_width": 700,
-        "subtitle": "",
-        "title": "Taking a Different Path",
-        "text": "<p>Our technologies are far from “status quo” approaches however. These clearly represent different design strategies than have been seen in conventional systems. We’ve spent thousands of hours developing these designs and they are proven to be more effective in delivering in the field than traditional techniques. We are firm believers that that “if you want to get to a different place – you need to take a different path” and we are 100% confident you will agree that we have defined “a better way to go afield”.<\/p>",
-        "button_label": "",
-        "button_link": "",
-        "button_style": "primary",
-        "align_text": "left",
-        "layout": "right",
-        "divider": false
-      }
-    },
     "9218886e-316d-41dc-888e-5ef06d7704d6": {
       "type": "featured-collection",
       "settings": {
@@ -151,7 +135,6 @@
   },
   "order": [
     "bdb96cc9-8a80-4a20-a0db-3a107df01400",
-    "16635306188b7a560a",
     "9218886e-316d-41dc-888e-5ef06d7704d6",
     "main",
     "16637971818c6bc368"
