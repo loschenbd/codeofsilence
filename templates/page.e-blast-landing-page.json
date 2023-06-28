@@ -1,21 +1,5 @@
 {
   "sections": {
-    "16636136507fcfd86f": {
-      "type": "background-image-text",
-      "settings": {
-        "subtitle": "",
-        "title": "Redefining warmth",
-        "text": "<p>Every technology Code of Silence develops and utilizes supports our key focuses of 100% silence, visual stealth, warmth \/ comfort, and ergonomic dexterity.<\/p>",
-        "button_label": "",
-        "button_link": "",
-        "image": "shopify:\/\/shop_images\/COS_e-blast_landing_page.jpg",
-        "focal_point": "20% 0",
-        "layout": "right",
-        "height": 550,
-        "parallax": true,
-        "parallax_direction": "top"
-      }
-    },
     "bdb96cc9-8a80-4a20-a0db-3a107df01400": {
       "type": "advanced-content",
       "blocks": {
@@ -25,6 +9,14 @@
             "code": "<center>\n<h1>Exploring the Science Behind Code of Silence<\/h1>",
             "width": "100%",
             "alignment": "top-middle"
+          }
+        },
+        "0e692776-293a-4426-926a-4211d97ea3e5": {
+          "type": "liquid",
+          "settings": {
+            "code": "<p>Use this advanced section to build your own layouts or to add custom HTML, Liquid, or scripts.<\/p>",
+            "width": "100%",
+            "alignment": "center"
           }
         },
         "7cf73ea2-3633-430b-857e-135283c2e254": {
@@ -38,6 +30,7 @@
       },
       "block_order": [
         "template--14588728934472__bdb96cc9-8a80-4a20-a0db-3a107df01400-16878826192b2c37ef-1",
+        "0e692776-293a-4426-926a-4211d97ea3e5",
         "7cf73ea2-3633-430b-857e-135283c2e254"
       ],
       "settings": {
@@ -64,9 +57,9 @@
     "9218886e-316d-41dc-888e-5ef06d7704d6": {
       "type": "featured-collection",
       "settings": {
-        "title": "Featured collection",
-        "home_featured_products": "verdigre",
-        "per_row": 4,
+        "title": "Check Out Our New Products",
+        "home_featured_products": "accessories",
+        "per_row": 3,
         "rows": 1,
         "view_all": true,
         "divider": false
@@ -157,7 +150,6 @@
     }
   },
   "order": [
-    "16636136507fcfd86f",
     "bdb96cc9-8a80-4a20-a0db-3a107df01400",
     "16635306188b7a560a",
     "9218886e-316d-41dc-888e-5ef06d7704d6",
