@@ -110,7 +110,7 @@
       "type": "background-image-text",
       "settings": {
         "subtitle": "",
-        "title": "An ideal, versatile Jacket for peak rut hunts.",
+        "title": "An ideal, versatile vest for layering.",
         "text": "",
         "button_label": "",
         "button_link": "",
@@ -128,7 +128,7 @@
         "1661711355cb5d8b06-0": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Zone7JacketCallouts800px.jpg",
+            "image": "shopify:\/\/shop_images\/ProductWithCallouts_copy10.jpg",
             "link": "",
             "width": "100%",
             "alignment": "center"
