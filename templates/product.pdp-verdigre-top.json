@@ -124,12 +124,11 @@
     },
     "16617113552bcdc3fe": {
       "type": "advanced-content",
-      "disabled": true,
       "blocks": {
         "1661711355cb5d8b06-0": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/VerdigreJacketCallouts800px.jpg",
+            "image": "shopify:\/\/shop_images\/ProductWithCallouts_copy7.jpg",
             "link": "",
             "width": "100%",
             "alignment": "center"
