@@ -110,7 +110,7 @@
       "type": "background-image-text",
       "settings": {
         "subtitle": "",
-        "title": "An ideal, versatile jacket for peak rut.",
+        "title": "Zone 7 Versa functionality in a perfect layering piece.",
         "text": "",
         "button_label": "",
         "button_link": "",
@@ -124,6 +124,7 @@
     },
     "dd294d19-aa2a-4869-821c-962d32f65b6a": {
       "type": "advanced-content",
+      "disabled": true,
       "blocks": {
         "template--14390730424392__dd294d19-aa2a-4869-821c-962d32f65b6a-1688089995ffa65361-0": {
           "type": "image",
@@ -145,7 +146,6 @@
     },
     "16617113552bcdc3fe": {
       "type": "advanced-content",
-      "disabled": true,
       "blocks": {
         "1661711355cb5d8b06-0": {
           "type": "image",
