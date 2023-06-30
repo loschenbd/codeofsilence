@@ -122,8 +122,30 @@
         "parallax_direction": "top"
       }
     },
+    "dd294d19-aa2a-4869-821c-962d32f65b6a": {
+      "type": "advanced-content",
+      "blocks": {
+        "template--14390730424392__dd294d19-aa2a-4869-821c-962d32f65b6a-1688089995ffa65361-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Zone7JacketCallouts800px.jpg",
+            "link": "",
+            "width": "100%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "template--14390730424392__dd294d19-aa2a-4869-821c-962d32f65b6a-1688089995ffa65361-0"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true
+      }
+    },
     "16617113552bcdc3fe": {
       "type": "advanced-content",
+      "disabled": true,
       "blocks": {
         "1661711355cb5d8b06-0": {
           "type": "image",
@@ -234,6 +256,7 @@
     "sub",
     "main",
     "background-image-text",
+    "dd294d19-aa2a-4869-821c-962d32f65b6a",
     "16617113552bcdc3fe",
     "text-and-image",
     "text-and-image2",
